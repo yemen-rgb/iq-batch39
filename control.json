@@ -1,0 +1,14 @@
+{
+ "version": 1,
+ "notices": [
+  {
+   "id": "nmw175opefler",
+   "title": "فحص تلقائي",
+   "body": "يُحذف خلال ثوانٍ",
+   "audience": "islamic",
+   "urgent": false,
+   "created_at": "2026-11-03T21:25:33.650Z",
+   "expires_at": null
+  }
+ ]
+}
