@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "files": [
   {
    "id": "fmw22zacwgcb",
@@ -11,7 +11,8 @@
    "ext": "pdf",
    "size": 2048,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_gen_other_mw22zacwgcb.pdf",
-   "added": "2026-11-04T12:16:22.832Z"
+   "added": "2026-11-04T12:16:22.832Z",
+   "hidden": true
   }
  ],
  "lessons": {}
