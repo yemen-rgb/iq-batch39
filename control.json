@@ -1,15 +1,6 @@
 {
- "version": 12,
+ "version": 13,
  "notices": [
-  {
-   "id": "nmw23jpx936ab",
-   "title": "الوو",
-   "body": "الووو",
-   "audience": "computer",
-   "urgent": false,
-   "created_at": "2026-11-04T12:32:16.125Z",
-   "expires_at": null
-  },
   {
    "id": "nmw23kirlqz92",
    "title": "الان",
