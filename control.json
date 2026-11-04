@@ -1,5 +1,5 @@
 {
- "version": 18,
+ "version": 19,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -8,15 +8,6 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-04T13:07:30.498Z",
-   "expires_at": null
-  },
-  {
-   "id": "nmw25cj0i2io5",
-   "title": "فحص تلقائي",
-   "body": "يُحذف خلال ثوانٍ",
-   "audience": "islamic",
-   "urgent": false,
-   "created_at": "2026-11-04T13:22:39.810Z",
    "expires_at": null
   }
  ]
