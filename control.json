@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "notices": [
   {
    "id": "nmw23j6tvvp9v",
@@ -26,6 +26,15 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-04T12:32:53.505Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmw23mc63krre",
+   "title": "اماك",
+   "body": "ياولد",
+   "audience": "anatomy",
+   "urgent": false,
+   "created_at": "2026-11-04T12:34:18.267Z",
    "expires_at": null
   }
  ]
