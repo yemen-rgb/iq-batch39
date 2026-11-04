@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "notices": [
   {
    "id": "nmw23j6tvvp9v",
@@ -17,6 +17,15 @@
    "audience": "computer",
    "urgent": false,
    "created_at": "2026-11-04T12:32:16.125Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmw23kirlqz92",
+   "title": "الان",
+   "body": "الان",
+   "audience": "all",
+   "urgent": true,
+   "created_at": "2026-11-04T12:32:53.505Z",
    "expires_at": null
   }
  ]
