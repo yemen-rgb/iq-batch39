@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "files": [
   {
    "id": "fmw22zacwgcb",
@@ -50,7 +50,8 @@
    "ext": "pdf",
    "size": 2048,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_u1_quran_summary_mw2691c083f.pdf",
-   "added": "2026-11-04T13:47:56.544Z"
+   "added": "2026-11-04T13:47:56.544Z",
+   "hidden": true
   }
  ],
  "lessons": {}
