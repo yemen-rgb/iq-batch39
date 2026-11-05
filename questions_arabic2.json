@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "resetQ": {
   "178": 3,
   "421": 1
@@ -5305,6 +5305,18 @@
    "answer": 3,
    "explanation": "",
    "deleted": true
+  },
+  {
+   "id": 422,
+   "q": "كيف",
+   "options": [
+    ".",
+    ".",
+    ".",
+    "."
+   ],
+   "answer": 2,
+   "explanation": ""
   }
  ]
 }
