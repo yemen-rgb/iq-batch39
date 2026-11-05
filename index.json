@@ -1,5 +1,5 @@
 {
- "version": 19,
+ "version": 20,
  "files": [
   {
    "id": "fmw22zacwgcb",
@@ -64,6 +64,18 @@
    "size": 245493,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_other_mw3jgd9pw0o.pdf",
    "added": "2026-11-05T12:45:19.789Z"
+  },
+  {
+   "id": "fmw3kkob8j2x",
+   "subject": "anatomy",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "مقرر المحاضرة الاولى اناتومي",
+   "name": "anatomy_l1_summary_mw3kkob8j2x.pdf",
+   "ext": "pdf",
+   "size": 2946143,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mw3kkob8j2x.pdf",
+   "added": "2026-11-05T13:16:40.340Z"
   }
  ],
  "lessons": {}
