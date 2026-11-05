@@ -1,5 +1,5 @@
 {
- "version": 14,
+ "version": 15,
  "files": [
   {
    "id": "fmw22zacwgcb",
@@ -51,6 +51,18 @@
    "size": 2048,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_u1_quran_summary_mw2691c083f.pdf",
    "added": "2026-11-04T13:47:56.544Z"
+  },
+  {
+   "id": "fmw3ijfbbhsq",
+   "subject": "anatomy",
+   "lesson": "",
+   "kind": "other",
+   "title": "ملف فحص تلقائي",
+   "name": "anatomy_gen_other_mw3ijfbbhsq.pdf",
+   "ext": "pdf",
+   "size": 2048,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_gen_other_mw3ijfbbhsq.pdf",
+   "added": "2026-11-05T12:19:42.791Z"
   }
  ],
  "lessons": {}
