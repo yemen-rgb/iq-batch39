@@ -1,5 +1,5 @@
 {
- "version": 29,
+ "version": 30,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -17,7 +17,7 @@
    "id": "fmw3kkob8j2x",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "summary",
+   "kind": "lecture",
    "title": "مقرر المحاضرة الاولى اناتومي",
    "name": "anatomy_l1_summary_mw3kkob8j2x.pdf",
    "ext": "pdf",
