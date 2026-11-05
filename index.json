@@ -1,5 +1,5 @@
 {
- "version": 24,
+ "version": 25,
  "files": [
   {
    "id": "fmw25a5g8rch",
@@ -12,19 +12,6 @@
    "size": 2048,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_gen_other_mw25a5g8rch.pdf",
    "added": "2026-11-04T13:20:48.920Z",
-   "hidden": true
-  },
-  {
-   "id": "fmw25c2l8b2v",
-   "subject": "anatomy",
-   "lesson": "",
-   "kind": "other",
-   "title": "ملف فحص تلقائي",
-   "name": "anatomy_gen_other_mw25c2l8b2v.pdf",
-   "ext": "pdf",
-   "size": 2048,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_gen_other_mw25c2l8b2v.pdf",
-   "added": "2026-11-04T13:22:18.524Z",
    "hidden": true
   },
   {
