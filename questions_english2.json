@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "questions": [
   {
    "id": 1,
@@ -11,7 +11,8 @@
     "ىر"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "deleted": true
   },
   {
    "id": 2,
@@ -36,7 +37,8 @@
     "وو"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "deleted": true
   }
  ],
  "lessons": []
