@@ -1,5 +1,5 @@
 {
- "version": 29,
+ "version": 30,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -30,6 +30,17 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-06T01:04:13.264Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmw541053rrq6",
+   "title": ".",
+   "body": ".",
+   "kind": "notice",
+   "from": "admin",
+   "audience": "all",
+   "urgent": true,
+   "created_at": "2026-11-06T15:09:01.047Z",
    "expires_at": null
   }
  ]
