@@ -1,5 +1,5 @@
 {
- "version": 35,
+ "version": 36,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -27,6 +27,7 @@
   }
  ],
  "lessons": {
-  "arabic2": []
+  "arabic2": [],
+  "english2": []
  }
 }
