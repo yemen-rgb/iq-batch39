@@ -1,5 +1,5 @@
 {
- "version": 34,
+ "version": 35,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -30,17 +30,6 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-06T01:04:13.264Z",
-   "expires_at": null
-  },
-  {
-   "id": "nmw5519tn1ncb",
-   "title": "حجم",
-   "body": ".",
-   "kind": "notice",
-   "from": "admin",
-   "audience": "all",
-   "urgent": true,
-   "created_at": "2026-11-06T15:37:13.211Z",
    "expires_at": null
   },
   {
