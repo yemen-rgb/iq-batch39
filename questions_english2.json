@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "questions": [
   {
    "id": 1,
@@ -23,7 +23,8 @@
     "ىى"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "deleted": true
   },
   {
    "id": 3,
