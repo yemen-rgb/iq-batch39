@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "questions": [
+  {
+   "id": 1,
+   "q": "اللل",
+   "options": [
+    "للل",
+    "ىلل",
+    "رب",
+    "ىر"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 2,
+   "q": "ىلل",
+   "options": [
+    "ىى",
+    "ىى",
+    "ىى",
+    "ىى"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 3,
+   "q": "اةاتا",
+   "options": [
+    "و",
+    "وو",
+    "وو",
+    "وو"
+   ],
+   "answer": 1,
+   "explanation": ""
+  }
+ ],
+ "lessons": []
+}
