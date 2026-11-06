@@ -1,5 +1,5 @@
 {
- "version": 39,
+ "version": 40,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -24,6 +24,18 @@
    "size": 2946143,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mw3kkob8j2x.pdf",
    "added": "2026-11-05T13:16:40.340Z"
+  },
+  {
+   "id": "fmw5gdr8eh9j",
+   "subject": "arabic2",
+   "lesson": "",
+   "kind": "summary",
+   "title": "ملخص_الأرقام_المعنوية_والتقريب-1",
+   "name": "arabic2_gen_summary_mw5gdr8eh9j.docx",
+   "ext": "docx",
+   "size": 39208,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_gen_summary_mw5gdr8eh9j.docx",
+   "added": "2026-11-06T20:54:51.422Z"
   }
  ],
  "lessons": {
