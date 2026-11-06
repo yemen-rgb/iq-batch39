@@ -1,5 +1,5 @@
 {
- "version": 40,
+ "version": 41,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -36,6 +36,18 @@
    "size": 39208,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_gen_summary_mw5gdr8eh9j.docx",
    "added": "2026-11-06T20:54:51.422Z"
+  },
+  {
+   "id": "fmw5gjo9wevy",
+   "subject": "calculations",
+   "lesson": "",
+   "kind": "summary",
+   "title": "الأرقام  حسابات صيدلانية",
+   "name": "calculations_gen_summary_mw5gjo9wevy.pdf",
+   "ext": "pdf",
+   "size": 479391,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_gen_summary_mw5gjo9wevy.pdf",
+   "added": "2026-11-06T20:59:27.524Z"
   }
  ],
  "lessons": {
