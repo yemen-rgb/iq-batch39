@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -96,7 +96,7 @@
      "room": "معمل الصيدلانيات",
      "doctor": "ص/ إبراهيم قاسم",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     },
     {
      "subject": "computer",
@@ -106,7 +106,7 @@
      "room": "معمل الحاسوب",
      "doctor": "م/ أكرم عبد الله",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     },
     {
      "subject": "computer",
@@ -116,7 +116,7 @@
      "room": "معمل الحاسوب",
      "doctor": "م/ أكرم عبد الله",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     },
     {
      "subject": "physical_pharmacy",
@@ -126,7 +126,7 @@
      "room": "معمل الصيدلانيات",
      "doctor": "ص/ إبراهيم قاسم",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     },
     {
      "subject": "physical_pharmacy",
@@ -136,7 +136,7 @@
      "room": "معمل الصيدلانيات",
      "doctor": "ص/ إبراهيم قاسم",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     },
     {
      "subject": "computer",
@@ -146,7 +146,7 @@
      "room": "معمل الحاسوب",
      "doctor": "م/ أكرم عبد الله",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     },
     {
      "subject": "computer",
@@ -156,7 +156,7 @@
      "room": "معمل الحاسوب",
      "doctor": "م/ أكرم عبد الله",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     },
     {
      "subject": "physical_pharmacy",
@@ -166,11 +166,11 @@
      "room": "معمل الصيدلانيات",
      "doctor": "ص/ إبراهيم قاسم",
      "status": "normal",
-     "note": ""
+     "note": "جدول غداً الاحد"
     }
    ],
    "holiday": null
   }
  },
- "updated": "2026-11-07T15:01:42.945Z"
+ "updated": "2026-11-07T15:04:24.706Z"
 }
