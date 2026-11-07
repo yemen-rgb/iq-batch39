@@ -1,5 +1,5 @@
 {
- "version": 43,
+ "version": 44,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -36,18 +36,6 @@
    "size": 479391,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_gen_summary_mw5gjo9wevy.pdf",
    "added": "2026-11-06T20:59:27.524Z"
-  },
-  {
-   "id": "fmw6gl1qcf5y",
-   "subject": "computer",
-   "lesson": "l1",
-   "kind": "other",
-   "title": "المجموعه أ",
-   "name": "computer_l1_other_mw6gl1qcf5y.pdf",
-   "ext": "pdf",
-   "size": 428421,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-computer/computer_l1_other_mw6gl1qcf5y.pdf",
-   "added": "2026-11-07T13:48:17.796Z"
   }
  ],
  "lessons": {
