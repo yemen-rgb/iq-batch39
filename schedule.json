@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "days": {
   "2026-11-06": {
    "lectures": [],
@@ -85,7 +85,7 @@
      "room": "معمل الحاسوب",
      "doctor": "م/ أكرم عبد الله",
      "status": "normal",
-     "note": ""
+     "note": "2الى4"
     },
     {
      "subject": "physical_pharmacy",
@@ -95,11 +95,11 @@
      "room": "معمل الصيدلانيات",
      "doctor": "ص/ إبراهيم قاسم",
      "status": "normal",
-     "note": ""
+     "note": "2الى4"
     }
    ],
    "holiday": null
   }
  },
- "updated": "2026-11-07T14:39:42.726Z"
+ "updated": "2026-11-07T14:41:49.372Z"
 }
