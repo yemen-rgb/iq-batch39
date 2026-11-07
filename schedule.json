@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -85,92 +85,7 @@
     }
    ],
    "holiday": null
-  },
-  "2026-11-07": {
-   "lectures": [
-    {
-     "subject": "physical_pharmacy",
-     "title": "المجموعة A",
-     "time": "08:00",
-     "end": "10:00",
-     "room": "معمل الصيدلانيات",
-     "doctor": "ص/ إبراهيم قاسم",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    },
-    {
-     "subject": "computer",
-     "title": "المجموعة B",
-     "time": "08:00",
-     "end": "10:00",
-     "room": "معمل الحاسوب",
-     "doctor": "م/ أكرم عبد الله",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    },
-    {
-     "subject": "computer",
-     "title": "المجموعة A",
-     "time": "10:00",
-     "end": "12:00",
-     "room": "معمل الحاسوب",
-     "doctor": "م/ أكرم عبد الله",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    },
-    {
-     "subject": "physical_pharmacy",
-     "title": "المجموعة B",
-     "time": "10:00",
-     "end": "12:00",
-     "room": "معمل الصيدلانيات",
-     "doctor": "ص/ إبراهيم قاسم",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    },
-    {
-     "subject": "physical_pharmacy",
-     "title": "المجموعة C",
-     "time": "12:00",
-     "end": "14:00",
-     "room": "معمل الصيدلانيات",
-     "doctor": "ص/ إبراهيم قاسم",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    },
-    {
-     "subject": "computer",
-     "title": "المجموعة D",
-     "time": "12:00",
-     "end": "14:00",
-     "room": "معمل الحاسوب",
-     "doctor": "م/ أكرم عبد الله",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    },
-    {
-     "subject": "computer",
-     "title": "المجموعة C",
-     "time": "14:00",
-     "end": "16:00",
-     "room": "معمل الحاسوب",
-     "doctor": "م/ أكرم عبد الله",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    },
-    {
-     "subject": "physical_pharmacy",
-     "title": "المجموعة D",
-     "time": "14:00",
-     "end": "16:00",
-     "room": "معمل الصيدلانيات",
-     "doctor": "ص/ إبراهيم قاسم",
-     "status": "normal",
-     "note": "جدول غداً الاحد"
-    }
-   ],
-   "holiday": null
   }
  },
- "updated": "2026-11-07T15:04:24.706Z"
+ "updated": "2026-11-07T18:33:49.109Z"
 }
