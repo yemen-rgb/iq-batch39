@@ -1,5 +1,5 @@
 {
- "version": 44,
+ "version": 45,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -40,6 +40,13 @@
  ],
  "lessons": {
   "arabic2": [],
-  "english2": []
+  "english2": [],
+  "computer": [
+   {
+    "id": "l1",
+    "name": "تقسيم مجموعات العملي",
+    "em": "👬"
+   }
+  ]
  }
 }
