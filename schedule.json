@@ -1,13 +1,6 @@
 {
- "version": 7,
+ "version": 8,
  "days": {
-  "2026-11-06": {
-   "lectures": [],
-   "holiday": {
-    "title": "إجازة",
-    "note": ""
-   }
-  },
   "2026-11-08": {
    "lectures": [
     {
@@ -94,5 +87,5 @@
    "holiday": null
   }
  },
- "updated": "2026-11-07T14:51:20.608Z"
+ "updated": "2026-11-07T14:51:39.903Z"
 }
