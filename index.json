@@ -1,5 +1,5 @@
 {
- "version": 57,
+ "version": 58,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -72,6 +72,18 @@
    "size": 33677,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l1_summary_mw6j1u8zgyr.pdf",
    "added": "2026-11-07T14:57:20.483Z"
+  },
+  {
+   "id": "fmw6j2fiaayy",
+   "subject": "physical_pharmacy",
+   "lesson": "l1",
+   "kind": "other",
+   "title": "C",
+   "name": "physical_pharmacy_l1_other_mw6j2fiaayy.pdf",
+   "ext": "pdf",
+   "size": 33010,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l1_other_mw6j2fiaayy.pdf",
+   "added": "2026-11-07T14:57:48.034Z"
   }
  ],
  "lessons": {
