@@ -1,5 +1,5 @@
 {
- "version": 45,
+ "version": 46,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -74,6 +74,17 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-07T10:57:29.937Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmw6nloswqd6p",
+   "title": "تجريبي",
+   "body": ".",
+   "kind": "notice",
+   "from": "admin",
+   "audience": "all",
+   "urgent": false,
+   "created_at": "2026-11-07T17:04:45.008Z",
    "expires_at": null
   }
  ]
