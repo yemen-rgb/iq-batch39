@@ -1,5 +1,5 @@
 {
- "version": 59,
+ "version": 60,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -120,6 +120,13 @@
     "id": "l1",
     "name": "المحاضرة 1",
     "em": "👨‍🏫"
+   }
+  ],
+  "physical_pharmacy": [
+   {
+    "id": "l1",
+    "name": "تقسيم مجموعات العملي",
+    "em": "👬"
    }
   ]
  }
