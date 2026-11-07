@@ -1,5 +1,5 @@
 {
- "version": 56,
+ "version": 57,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -65,7 +65,7 @@
    "id": "fmw6j1u8zgyr",
    "subject": "physical_pharmacy",
    "lesson": "l1",
-   "kind": "summary",
+   "kind": "other",
    "title": "B",
    "name": "physical_pharmacy_l1_summary_mw6j1u8zgyr.pdf",
    "ext": "pdf",
