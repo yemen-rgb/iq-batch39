@@ -1,5 +1,5 @@
 {
- "version": 57,
+ "version": 58,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -19,17 +19,6 @@
    "audience": "all",
    "urgent": false,
    "created_at": "2026-11-06T01:00:20.705Z",
-   "expires_at": null
-  },
-  {
-   "id": "nmw49ul74d0fw",
-   "title": "تغيير في جدول الجمعة، 6 نوفمبر",
-   "body": "🏖 إجازة",
-   "kind": "notice",
-   "from": "admin",
-   "audience": "all",
-   "urgent": true,
-   "created_at": "2026-11-06T01:04:13.264Z",
    "expires_at": null
   },
   {
