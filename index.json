@@ -1,5 +1,5 @@
 {
- "version": 45,
+ "version": 46,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -28,7 +28,7 @@
   {
    "id": "fmw5gjo9wevy",
    "subject": "calculations",
-   "lesson": "",
+   "lesson": "l1",
    "kind": "summary",
    "title": "الأرقام  حسابات صيدلانية",
    "name": "calculations_gen_summary_mw5gjo9wevy.pdf",
