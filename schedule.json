@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -90,7 +90,7 @@
    "lectures": [
     {
      "subject": "english2",
-     "title": "ّ",
+     "title": "#مندوب_الدفعة",
      "time": "08:00",
      "end": "10:00",
      "room": "مدرج واحد",
@@ -99,8 +99,8 @@
      "note": ""
     },
     {
-     "subject": "calculations",
-     "title": "ّ",
+     "subject": "physical_pharmacy",
+     "title": "#مندوب_الدفعة",
      "time": "10:00",
      "end": "12:00",
      "room": "مدرج واحد",
@@ -112,5 +112,5 @@
    "holiday": null
   }
  },
- "updated": "2026-11-08T13:31:27.009Z"
+ "updated": "2026-11-08T13:36:18.686Z"
 }
