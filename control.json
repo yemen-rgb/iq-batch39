@@ -1,5 +1,5 @@
 {
- "version": 66,
+ "version": 67,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -19,17 +19,6 @@
    "audience": "all",
    "urgent": false,
    "created_at": "2026-11-06T01:00:20.705Z",
-   "expires_at": null
-  },
-  {
-   "id": "nmw5fa9s9nmht",
-   "title": "السلام تحية ✋",
-   "body": "اسعد الله مسائكم ياشباب..\n\nنود تذكيركم انه سوف يقام  دوره في خلال الأسبوع القادم لدكتورنا المثالي \nا.د/ مختار الغرافي...\nعنوان الدوره \n(تسويق دوائي)\n\nفي حالة بلغونا سوف نبلغكم جميعاً بكل شئ...",
-   "kind": "notice",
-   "from": "admin",
-   "audience": "all",
-   "urgent": false,
-   "created_at": "2026-11-06T20:24:09.225Z",
    "expires_at": null
   },
   {
