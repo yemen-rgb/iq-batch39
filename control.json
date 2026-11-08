@@ -1,5 +1,5 @@
 {
- "version": 70,
+ "version": 71,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -41,6 +41,17 @@
    "audience": "all",
    "urgent": false,
    "created_at": "2026-11-08T15:42:43.204Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmw8cgq3l849s",
+   "title": "صباح الخير",
+   "body": "محاضره الدكتورة الهام ستكون ساعه ونصف وبعدها سيكون لديكم نصف ساعه ندوة ثقافيه. \nسيكون هناك تحضير \nكتب الله أجركم جميعاً.",
+   "kind": "notice",
+   "from": "admin",
+   "audience": "all",
+   "urgent": false,
+   "created_at": "2026-11-08T21:28:29.985Z",
    "expires_at": null
   }
  ]
