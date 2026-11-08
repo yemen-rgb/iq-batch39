@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -85,7 +85,32 @@
     }
    ],
    "holiday": null
+  },
+  "2026-11-09": {
+   "lectures": [
+    {
+     "subject": "english2",
+     "title": "ّ",
+     "time": "08:00",
+     "end": "10:00",
+     "room": "مدرج واحد",
+     "doctor": "الهام",
+     "status": "normal",
+     "note": ""
+    },
+    {
+     "subject": "calculations",
+     "title": "ّ",
+     "time": "10:00",
+     "end": "12:00",
+     "room": "مدرج واحد",
+     "doctor": "عبدالولي الشرجبي",
+     "status": "normal",
+     "note": "نظري"
+    }
+   ],
+   "holiday": null
   }
  },
- "updated": "2026-11-07T18:33:49.109Z"
+ "updated": "2026-11-08T13:31:27.009Z"
 }
