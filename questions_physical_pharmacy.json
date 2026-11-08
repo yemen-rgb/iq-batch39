@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "questions": [],
  "lessons": [
   {
@@ -8,10 +8,10 @@
    "em": "👬"
   },
   {
-   "id": "l2",
+   "id": "l3",
    "name": "المحاضرة 1 عملي",
-   "em": "📘"
+   "em": "👨‍🏫"
   }
  ],
- "lseq": 2
+ "lseq": 3
 }
