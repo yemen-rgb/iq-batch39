@@ -1,5 +1,5 @@
 {
- "version": 68,
+ "version": 69,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -30,17 +30,6 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-06T22:02:28.355Z",
-   "expires_at": null
-  },
-  {
-   "id": "nmw6rvo2c4tm4",
-   "title": "💬 شاركونا آراءكم ومشاكلكم في التطبيق!",
-   "body": "يا طلابنا الأعزاء، كيف كلٌّ وحاله؟\nواجهتكم أي مشكلة أو تعليق بالتطبيق؟ لا تقلقوا، تعالوا نتجابر ونحلها سوا في مجموعة الواتس الخاصة بالمناقشة.\nننتظر تفاعلكم واقتراحاتكم هناك! 🚀",
-   "kind": "notice",
-   "from": "admin",
-   "audience": "all",
-   "urgent": false,
-   "created_at": "2026-11-07T19:04:29.076Z",
    "expires_at": null
   },
   {
