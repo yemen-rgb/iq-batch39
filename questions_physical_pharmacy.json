@@ -1,12 +1,17 @@
 {
- "version": 1,
+ "version": 2,
  "questions": [],
  "lessons": [
   {
    "id": "l1",
    "name": "تقسيم مجموعات العملي",
    "em": "👬"
+  },
+  {
+   "id": "l2",
+   "name": "المحاضرة 1 عملي",
+   "em": "📘"
   }
  ],
- "lseq": 1
+ "lseq": 2
 }
