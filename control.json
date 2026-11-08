@@ -1,5 +1,5 @@
 {
- "version": 72,
+ "version": 73,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -60,5 +60,12 @@
   "scope": "all",
   "msg": "",
   "at": "2026-11-08T21:51:41.209Z"
+ },
+ "force": {
+  "on": true,
+  "min": 3,
+  "link": "",
+  "msg": "صيانة",
+  "at": "2026-11-08T21:54:25.384Z"
  }
 }
