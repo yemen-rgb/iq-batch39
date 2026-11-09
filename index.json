@@ -1,5 +1,5 @@
 {
- "version": 94,
+ "version": 95,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -144,6 +144,18 @@
    "size": 297156,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mw9rysg43db.pdf",
    "added": "2026-11-09T21:30:13.252Z"
+  },
+  {
+   "id": "fmw9s3ih8r48",
+   "subject": "english2",
+   "lesson": "l2",
+   "kind": "summary",
+   "title": "Present and Past Simple",
+   "name": "english2_l2_summary_mw9s3ih8r48.docx",
+   "ext": "docx",
+   "size": 41726,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-english2/english2_l2_summary_mw9s3ih8r48.docx",
+   "added": "2026-11-09T21:33:53.612Z"
   }
  ],
  "lessons": {
