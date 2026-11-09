@@ -1,5 +1,5 @@
 {
- "version": 18,
+ "version": 19,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -100,7 +100,7 @@
     },
     {
      "subject": "physical_pharmacy",
-     "title": "فيزيا",
+     "title": "فيزياء",
      "time": "10:00",
      "end": "12:00",
      "room": "مدرج واحد",
@@ -127,5 +127,5 @@
    "holiday": null
   }
  },
- "updated": "2026-11-09T17:36:25.679Z"
+ "updated": "2026-11-09T17:59:25.075Z"
 }
