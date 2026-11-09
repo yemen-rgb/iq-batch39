@@ -1,5 +1,5 @@
 {
- "version": 92,
+ "version": 93,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -120,6 +120,18 @@
    "size": 95667,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-english2/english2_l1_lecture_mw9myjl9hvd.jpg",
    "added": "2026-11-09T19:10:03.693Z"
+  },
+  {
+   "id": "fmw9ru6cx4hc",
+   "subject": "english2",
+   "lesson": "l2",
+   "kind": "other",
+   "title": "ترجمة وحل تمارين الوحدة",
+   "name": "english2_l2_other_mw9ru6cx4hc.pdf",
+   "ext": "pdf",
+   "size": 2990569,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-english2/english2_l2_other_mw9ru6cx4hc.pdf",
+   "added": "2026-11-09T21:26:38.001Z"
   }
  ],
  "lessons": {
