@@ -1,5 +1,5 @@
 {
- "version": 98,
+ "version": 99,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -134,16 +134,16 @@
    "added": "2026-11-09T21:33:53.612Z"
   },
   {
-   "id": "fmw9rysg43db",
+   "id": "fmw9sa7t7hc0",
    "subject": "physical_pharmacy",
    "lesson": "l3",
    "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "physical_pharmacy_l3_summary_mw9rysg43db.pdf",
+   "title": "ملخص المحاضرة (1)",
+   "name": "physical_pharmacy_l3_summary_mw9sa7t7hc0.pdf",
    "ext": "pdf",
-   "size": 297156,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mw9rysg43db.pdf",
-   "added": "2026-11-09T21:30:13.252Z"
+   "size": 145186,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mw9sa7t7hc0.pdf",
+   "added": "2026-11-09T21:39:06.379Z"
   },
   {
    "id": "fmw9ru6cx4hc",
@@ -158,16 +158,16 @@
    "added": "2026-11-09T21:26:38.001Z"
   },
   {
-   "id": "fmw9sa7t7hc0",
+   "id": "fmw9rysg43db",
    "subject": "physical_pharmacy",
    "lesson": "l3",
    "kind": "summary",
-   "title": "ملخص المحاضرة (1)",
-   "name": "physical_pharmacy_l3_summary_mw9sa7t7hc0.pdf",
+   "title": "ملخص المحاضرة",
+   "name": "physical_pharmacy_l3_summary_mw9rysg43db.pdf",
    "ext": "pdf",
-   "size": 145186,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mw9sa7t7hc0.pdf",
-   "added": "2026-11-09T21:39:06.379Z"
+   "size": 297156,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mw9rysg43db.pdf",
+   "added": "2026-11-09T21:30:13.252Z"
   }
  ],
  "lessons": {
