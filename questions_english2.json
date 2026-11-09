@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "questions": [
   {
    "id": 1,
@@ -41,5 +41,12 @@
    "deleted": true
   }
  ],
- "lessons": []
+ "lessons": [
+  {
+   "id": "l1",
+   "name": "Unit 1",
+   "em": "👨‍🏫"
+  }
+ ],
+ "lseq": 1
 }
