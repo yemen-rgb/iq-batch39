@@ -1,5 +1,5 @@
 {
- "version": 77,
+ "version": 78,
  "notices": [
   {
    "id": "nmw24t1du3hrq",
@@ -74,6 +74,17 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-09T16:43:58.424Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmw9irt2b6l0h",
+   "title": "تنبيه هام لجميع الطلاب 📢",
+   "body": "لضمان استمرار عمل التطبيق واستلام التنبيهات المهمة، يرجى إجراء التحديث الأخير.",
+   "kind": "circular",
+   "from": "admin",
+   "audience": "all",
+   "urgent": true,
+   "created_at": "2026-11-09T17:12:50.915Z",
    "expires_at": null
   }
  ],
