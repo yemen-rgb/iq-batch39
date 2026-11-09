@@ -1,5 +1,5 @@
 {
- "version": 86,
+ "version": 87,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -69,10 +69,10 @@
   }
  ],
  "reset": {
-  "id": "rmw9oc60l",
-  "scope": "calculations",
+  "id": "rmw9odf3q",
+  "scope": "all",
   "msg": "",
-  "at": "2026-11-09T19:48:38.901Z"
+  "at": "2026-11-09T19:49:37.334Z"
  },
  "force": {
   "on": false,
