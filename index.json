@@ -1,5 +1,5 @@
 {
- "version": 87,
+ "version": 88,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -124,7 +124,13 @@
  ],
  "lessons": {
   "arabic2": [],
-  "english2": [],
+  "english2": [
+   {
+    "id": "l1",
+    "name": "Unit 1",
+    "em": "👨‍🏫"
+   }
+  ],
   "computer": [
    {
     "id": "l1",
