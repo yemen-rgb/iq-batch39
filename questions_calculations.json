@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "questions": [
   {
    "id": 1,
@@ -491,7 +491,8 @@
     "."
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "deleted": true
   }
  ],
  "lessons": [
