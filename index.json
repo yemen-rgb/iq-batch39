@@ -1,17 +1,17 @@
 {
- "version": 96,
+ "version": 97,
  "files": [
   {
-   "id": "fmw3jgd9pw0o",
+   "id": "fmw5gjo9wevy",
    "subject": "calculations",
    "lesson": "l1",
-   "kind": "lecture",
-   "title": "صور المحاضرة",
-   "name": "calculations_l1_other_mw3jgd9pw0o.pdf",
+   "kind": "summary",
+   "title": "الأرقام  حسابات صيدلانية",
+   "name": "calculations_gen_summary_mw5gjo9wevy.pdf",
    "ext": "pdf",
-   "size": 245493,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_other_mw3jgd9pw0o.pdf",
-   "added": "2026-11-05T12:45:19.789Z"
+   "size": 479391,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_gen_summary_mw5gjo9wevy.pdf",
+   "added": "2026-11-06T20:59:27.524Z"
   },
   {
    "id": "fmw3kkob8j2x",
@@ -26,16 +26,16 @@
    "added": "2026-11-05T13:16:40.340Z"
   },
   {
-   "id": "fmw5gjo9wevy",
+   "id": "fmw3jgd9pw0o",
    "subject": "calculations",
    "lesson": "l1",
-   "kind": "summary",
-   "title": "الأرقام  حسابات صيدلانية",
-   "name": "calculations_gen_summary_mw5gjo9wevy.pdf",
+   "kind": "lecture",
+   "title": "صور المحاضرة",
+   "name": "calculations_l1_other_mw3jgd9pw0o.pdf",
    "ext": "pdf",
-   "size": 479391,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_gen_summary_mw5gjo9wevy.pdf",
-   "added": "2026-11-06T20:59:27.524Z"
+   "size": 245493,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_other_mw3jgd9pw0o.pdf",
+   "added": "2026-11-05T12:45:19.789Z"
   },
   {
    "id": "fmw6hasq7vkq",
