@@ -1,5 +1,5 @@
 {
- "version": 90,
+ "version": 91,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -54,6 +54,17 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-09T19:54:43.691Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmwalpnuyquns",
+   "title": "يرجى التحديث الآن 🛑",
+   "body": "نسترعي انتباهكم إلى وجود طلاب لم يحدثوا التطبيق بعد. في حال لم تكن قد حدّثت، قم بذلك الآن لتفادي توقف الخدمة.",
+   "kind": "notice",
+   "from": "admin",
+   "audience": "all",
+   "urgent": true,
+   "created_at": "2026-11-10T11:22:55.882Z",
    "expires_at": null
   }
  ],
