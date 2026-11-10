@@ -1,5 +1,5 @@
 {
- "version": 103,
+ "version": 104,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -171,7 +171,13 @@
   }
  ],
  "lessons": {
-  "arabic2": [],
+  "arabic2": [
+   {
+    "id": "l1",
+    "name": "الوحدة السادسة",
+    "em": "📘"
+   }
+  ],
   "english2": [
    {
     "id": "l2",
