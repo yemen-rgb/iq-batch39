@@ -1,5 +1,5 @@
 {
- "version": 107,
+ "version": 108,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -180,6 +180,18 @@
    "size": 436904,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l1_summary_mwaxmesaj4o.pdf",
    "added": "2026-11-10T16:56:19.546Z"
+  },
+  {
+   "id": "fmwaxpn0vgss",
+   "subject": "arabic2",
+   "lesson": "",
+   "kind": "summary",
+   "title": "أنواع الاستعارة",
+   "name": "arabic2_gen_summary_mwaxpn0vgss.pdf",
+   "ext": "pdf",
+   "size": 1427028,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_gen_summary_mwaxpn0vgss.pdf",
+   "added": "2026-11-10T16:58:50.191Z"
   }
  ],
  "lessons": {
