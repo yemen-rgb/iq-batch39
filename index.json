@@ -1,5 +1,5 @@
 {
- "version": 104,
+ "version": 105,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -168,6 +168,18 @@
    "size": 297156,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mw9rysg43db.pdf",
    "added": "2026-11-09T21:30:13.252Z"
+  },
+  {
+   "id": "fmwaxmesaj4o",
+   "subject": "arabic2",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "قراءة واستماع: وصية الإمام علي للحسن والحسين",
+   "name": "arabic2_l1_summary_mwaxmesaj4o.pdf",
+   "ext": "pdf",
+   "size": 436904,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l1_summary_mwaxmesaj4o.pdf",
+   "added": "2026-11-10T16:56:19.546Z"
   }
  ],
  "lessons": {
