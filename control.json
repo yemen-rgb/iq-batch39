@@ -1,5 +1,5 @@
 {
- "version": 91,
+ "version": 92,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -77,5 +77,9 @@
  "force": {
   "on": false,
   "at": "2026-11-09T18:59:04.366Z"
+ },
+ "chat": {
+  "on": false,
+  "at": "2026-11-11T13:18:11.267Z"
  }
 }
