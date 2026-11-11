@@ -1,5 +1,5 @@
 {
- "version": 92,
+ "version": 93,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -65,6 +65,17 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-10T11:22:55.882Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmwc9am3r5y5n",
+   "title": "تنبيه",
+   "body": "سيتم تعديل ترتيب المحاضرات \nلذلك الكل يرجع يفتح النت\nمن اجل يعرف.",
+   "kind": "circular",
+   "from": "admin",
+   "audience": "all",
+   "urgent": true,
+   "created_at": "2026-11-11T15:10:50.727Z",
    "expires_at": null
   }
  ],
