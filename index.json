@@ -1,5 +1,5 @@
 {
- "version": 122,
+ "version": 123,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -324,6 +324,18 @@
    "size": 81861,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_other_mwdwmlxoe5g.pdf",
    "added": "2026-11-12T18:51:47.724Z"
+  },
+  {
+   "id": "fmwdwp67c8vl",
+   "subject": "anatomy",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "ملخص",
+   "name": "anatomy_l1_summary_mwdwp67c8vl.pdf",
+   "ext": "pdf",
+   "size": 1497261,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mwdwp67c8vl.pdf",
+   "added": "2026-11-12T18:53:47.304Z"
   }
  ],
  "lessons": {
