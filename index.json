@@ -1,5 +1,5 @@
 {
- "version": 126,
+ "version": 127,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -348,6 +348,18 @@
    "size": 3662004,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l2_summary_mwdwwghvkf9.pdf",
    "added": "2026-11-12T18:59:27.235Z"
+  },
+  {
+   "id": "fmwdx1fb4s62",
+   "subject": "arabic2",
+   "lesson": "l3",
+   "kind": "summary",
+   "title": "المجاز المرسل",
+   "name": "arabic2_l3_summary_mwdx1fb4s62.pdf",
+   "ext": "pdf",
+   "size": 759724,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l3_summary_mwdx1fb4s62.pdf",
+   "added": "2026-11-12T19:03:18.976Z"
   }
  ],
  "lessons": {
