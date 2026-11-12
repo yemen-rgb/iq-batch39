@@ -1,5 +1,5 @@
 {
- "version": 121,
+ "version": 122,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -312,6 +312,18 @@
    "size": 809486,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mwdwlkibz2a.pdf",
    "added": "2026-11-12T18:50:59.219Z"
+  },
+  {
+   "id": "fmwdwmlxoe5g",
+   "subject": "anatomy",
+   "lesson": "l1",
+   "kind": "other",
+   "title": "خريطة ذهنية",
+   "name": "anatomy_l1_other_mwdwmlxoe5g.pdf",
+   "ext": "pdf",
+   "size": 81861,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_other_mwdwmlxoe5g.pdf",
+   "added": "2026-11-12T18:51:47.724Z"
   }
  ],
  "lessons": {
