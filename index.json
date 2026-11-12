@@ -1,5 +1,5 @@
 {
- "version": 118,
+ "version": 119,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -276,6 +276,18 @@
    "size": 41726,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-english2/english2_l2_summary_mwdw92hijpx.docx",
    "added": "2026-11-12T18:41:15.990Z"
+  },
+  {
+   "id": "fmwdwh1mn4p1",
+   "subject": "calculations",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "ملخص المحاضرة الاولى حسابات صيدلانية سلايدات",
+   "name": "calculations_l1_summary_mwdwh1mn4p1.pdf",
+   "ext": "pdf",
+   "size": 2122341,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_summary_mwdwh1mn4p1.pdf",
+   "added": "2026-11-12T18:47:28.127Z"
   }
  ],
  "lessons": {
