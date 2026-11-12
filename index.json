@@ -1,17 +1,17 @@
 {
- "version": 108,
+ "version": 109,
  "files": [
   {
-   "id": "fmw3jgd9pw0o",
+   "id": "fmw6hasq7vkq",
    "subject": "calculations",
    "lesson": "l1",
-   "kind": "lecture",
-   "title": "صور المحاضرة",
-   "name": "calculations_l1_other_mw3jgd9pw0o.pdf",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "calculations_l1_summary_mw6hasq7vkq.pdf",
    "ext": "pdf",
-   "size": 245493,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_other_mw3jgd9pw0o.pdf",
-   "added": "2026-11-05T12:45:19.789Z"
+   "size": 5592578,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_summary_mw6hasq7vkq.pdf",
+   "added": "2026-11-07T14:08:19.183Z"
   },
   {
    "id": "fmw3kkob8j2x",
@@ -26,16 +26,16 @@
    "added": "2026-11-05T13:16:40.340Z"
   },
   {
-   "id": "fmw6hasq7vkq",
+   "id": "fmw3jgd9pw0o",
    "subject": "calculations",
    "lesson": "l1",
-   "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "calculations_l1_summary_mw6hasq7vkq.pdf",
+   "kind": "lecture",
+   "title": "صور المحاضرة",
+   "name": "calculations_l1_other_mw3jgd9pw0o.pdf",
    "ext": "pdf",
-   "size": 5592578,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_summary_mw6hasq7vkq.pdf",
-   "added": "2026-11-07T14:08:19.183Z"
+   "size": 245493,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_other_mw3jgd9pw0o.pdf",
+   "added": "2026-11-05T12:45:19.789Z"
   },
   {
    "id": "fmw5gjo9wevy",
