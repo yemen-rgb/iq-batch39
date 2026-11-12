@@ -1,5 +1,5 @@
 {
- "version": 123,
+ "version": 124,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -336,6 +336,18 @@
    "size": 1497261,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mwdwp67c8vl.pdf",
    "added": "2026-11-12T18:53:47.304Z"
+  },
+  {
+   "id": "fmwdwqmbj184",
+   "subject": "physical_pharmacy",
+   "lesson": "l3",
+   "kind": "summary",
+   "title": "ملاحظات مهمة",
+   "name": "physical_pharmacy_l3_summary_mwdwqmbj184.pdf",
+   "ext": "pdf",
+   "size": 308770,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mwdwqmbj184.pdf",
+   "added": "2026-11-12T18:54:54.847Z"
   }
  ],
  "lessons": {
