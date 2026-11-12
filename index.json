@@ -1,5 +1,5 @@
 {
- "version": 144,
+ "version": 145,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -172,7 +172,7 @@
   {
    "id": "fmwaxpn0vgss",
    "subject": "arabic2",
-   "lesson": "",
+   "lesson": "l3",
    "kind": "summary",
    "title": "أنواع الاستعارة",
    "name": "arabic2_gen_summary_mwaxpn0vgss.pdf",
