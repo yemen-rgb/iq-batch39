@@ -1,5 +1,5 @@
 {
- "version": 116,
+ "version": 117,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -252,6 +252,18 @@
    "size": 1330601,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l3_summary_mwdw4sk4bk4.pdf",
    "added": "2026-11-12T18:37:56.500Z"
+  },
+  {
+   "id": "fmwdw6lr01zp",
+   "subject": "arabic2",
+   "lesson": "l3",
+   "kind": "summary",
+   "title": "التشبيه وأقسامه..",
+   "name": "arabic2_l3_summary_mwdw6lr01zp.pdf",
+   "ext": "pdf",
+   "size": 1330601,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l3_summary_mwdw6lr01zp.pdf",
+   "added": "2026-11-12T18:39:20.988Z"
   }
  ],
  "lessons": {
