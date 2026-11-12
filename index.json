@@ -1,5 +1,5 @@
 {
- "version": 125,
+ "version": 126,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -336,6 +336,18 @@
    "size": 308770,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mwdwqmbj184.pdf",
    "added": "2026-11-12T18:54:54.847Z"
+  },
+  {
+   "id": "fmwdwwghvkf9",
+   "subject": "anatomy",
+   "lesson": "l2",
+   "kind": "summary",
+   "title": "مقرر المحاضرة",
+   "name": "anatomy_l2_summary_mwdwwghvkf9.pdf",
+   "ext": "pdf",
+   "size": 3662004,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l2_summary_mwdwwghvkf9.pdf",
+   "added": "2026-11-12T18:59:27.235Z"
   }
  ],
  "lessons": {
