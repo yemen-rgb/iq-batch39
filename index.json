@@ -1,5 +1,5 @@
 {
- "version": 109,
+ "version": 110,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -192,6 +192,18 @@
    "size": 1427028,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_gen_summary_mwaxpn0vgss.pdf",
    "added": "2026-11-10T16:58:50.191Z"
+  },
+  {
+   "id": "fmwdsjc60muc",
+   "subject": "anatomy",
+   "lesson": "l1",
+   "kind": "other",
+   "title": "ترجمة تشريح الجزء الاول",
+   "name": "anatomy_l1_other_mwdsjc60muc.pdf",
+   "ext": "pdf",
+   "size": 10060799,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_other_mwdsjc60muc.pdf",
+   "added": "2026-11-12T16:57:16.632Z"
   }
  ],
  "lessons": {
