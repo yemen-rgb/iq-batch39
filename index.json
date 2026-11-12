@@ -1,5 +1,5 @@
 {
- "version": 117,
+ "version": 118,
  "files": [
   {
    "id": "fmw6hasq7vkq",
@@ -264,6 +264,18 @@
    "size": 1330601,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l3_summary_mwdw6lr01zp.pdf",
    "added": "2026-11-12T18:39:20.988Z"
+  },
+  {
+   "id": "fmwdw92hijpx",
+   "subject": "english2",
+   "lesson": "l2",
+   "kind": "summary",
+   "title": "ملخص قواعد المضارع والماضي البسيط",
+   "name": "english2_l2_summary_mwdw92hijpx.docx",
+   "ext": "docx",
+   "size": 41726,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-english2/english2_l2_summary_mwdw92hijpx.docx",
+   "added": "2026-11-12T18:41:15.990Z"
   }
  ],
  "lessons": {
