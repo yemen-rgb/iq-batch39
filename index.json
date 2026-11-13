@@ -1,5 +1,5 @@
 {
- "version": 154,
+ "version": 155,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -377,9 +377,9 @@
   ],
   "computer": [
    {
-    "id": "l1",
-    "name": "تقسيم مجموعات العملي",
-    "em": "👬"
+    "id": "l2",
+    "name": "المحاضرة 1 عملي",
+    "em": "👨‍🏫"
    }
   ],
   "calculations": [
