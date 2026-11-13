@@ -1,5 +1,5 @@
 {
- "version": 177,
+ "version": 178,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -348,6 +348,18 @@
    "size": 32775,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy_practical/physical_pharmacy_practical_l2_other_mwetb375i5g.pdf",
    "added": "2026-11-13T10:06:37.553Z"
+  },
+  {
+   "id": "fmwetid6p4h6",
+   "subject": "computer_practical",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "أﺳﺎﺳﻴﺎت اﻟﺘﻌﺎﻣﻞ ﻣﻊ أﻳﻘﻮﻧﺎت وﻣﺠﻠﺪات ﻧﻈﺎم",
+   "name": "computer_practical_l1_summary_mwetid6p4h6.pdf",
+   "ext": "pdf",
+   "size": 1497261,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-computer_practical/computer_practical_l1_summary_mwetid6p4h6.pdf",
+   "added": "2026-11-13T10:12:17.089Z"
   }
  ],
  "lessons": {
