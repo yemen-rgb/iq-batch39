@@ -1,5 +1,5 @@
 {
- "version": 149,
+ "version": 150,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -336,6 +336,18 @@
    "size": 85661,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l3_other_mwdw2j0yjpg.jpg",
    "added": "2026-11-12T18:36:10.834Z"
+  },
+  {
+   "id": "fmweqhegm0wk",
+   "subject": "computer",
+   "lesson": "",
+   "kind": "summary",
+   "title": "ملخص",
+   "name": "computer_gen_summary_mweqhegm0wk.pdf",
+   "ext": "pdf",
+   "size": 1497261,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-computer/computer_gen_summary_mweqhegm0wk.pdf",
+   "added": "2026-11-13T08:47:33.238Z"
   }
  ],
  "lessons": {
