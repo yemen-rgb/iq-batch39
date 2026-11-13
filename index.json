@@ -1,5 +1,5 @@
 {
- "version": 150,
+ "version": 151,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -348,6 +348,18 @@
    "size": 1497261,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-computer/computer_gen_summary_mweqhegm0wk.pdf",
    "added": "2026-11-13T08:47:33.238Z"
+  },
+  {
+   "id": "fmweqhv6l78e",
+   "subject": "computer",
+   "lesson": "l2",
+   "kind": "summary",
+   "title": "ملخص  المحاضرة",
+   "name": "computer_l2_summary_mweqhv6l78e.pdf",
+   "ext": "pdf",
+   "size": 1497261,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-computer/computer_l2_summary_mweqhv6l78e.pdf",
+   "added": "2026-11-13T08:47:54.909Z"
   }
  ],
  "lessons": {
