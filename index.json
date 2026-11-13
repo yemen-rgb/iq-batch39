@@ -1,5 +1,5 @@
 {
- "version": 173,
+ "version": 174,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -60,18 +60,6 @@
    "size": 95667,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-english2/english2_l1_lecture_mw9myjl9hvd.jpg",
    "added": "2026-11-09T19:10:03.693Z"
-  },
-  {
-   "id": "fmw9sa7t7hc0",
-   "subject": "physical_pharmacy",
-   "lesson": "l3",
-   "kind": "summary",
-   "title": "ملخص المحاضرة (1)",
-   "name": "physical_pharmacy_l3_summary_mw9sa7t7hc0.pdf",
-   "ext": "pdf",
-   "size": 145186,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l3_summary_mw9sa7t7hc0.pdf",
-   "added": "2026-11-09T21:39:06.379Z"
   },
   {
    "id": "fmwdw92hijpx",
