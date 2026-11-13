@@ -1,5 +1,5 @@
 {
- "version": 114,
+ "version": 115,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -54,6 +54,17 @@
    "audience": "all",
    "urgent": false,
    "created_at": "2026-11-13T21:48:31.061Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmwflw6beiq9h",
+   "title": "تعديل",
+   "body": "يحوله PDF لان ال word  يخرب لما تطبعه مباشرةً.",
+   "kind": "notice",
+   "from": "rep",
+   "audience": "all",
+   "urgent": false,
+   "created_at": "2026-11-13T23:26:50.618Z",
    "expires_at": null
   }
  ],
