@@ -1,5 +1,5 @@
 {
- "version": 157,
+ "version": 158,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -360,6 +360,18 @@
    "size": 183415,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy_practical/physical_pharmacy_practical_l1_other_mwet4ontr3o.jpg",
    "added": "2026-11-13T10:01:38.777Z"
+  },
+  {
+   "id": "fmwet5b4ghnq",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "ملخص المحاضرة (1)",
+   "name": "physical_pharmacy_practical_l1_summary_mwet5b4ghnq.pdf",
+   "ext": "pdf",
+   "size": 145186,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy_practical/physical_pharmacy_practical_l1_summary_mwet5b4ghnq.pdf",
+   "added": "2026-11-13T10:02:07.888Z"
   }
  ],
  "lessons": {
