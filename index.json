@@ -1,5 +1,5 @@
 {
- "version": 184,
+ "version": 185,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -292,7 +292,7 @@
   {
    "id": "fmwet9t60lgt",
    "subject": "physical_pharmacy_practical",
-   "lesson": "l2",
+   "lesson": "",
    "kind": "summary",
    "title": "A",
    "name": "physical_pharmacy_practical_l2_summary_mwet9t60lgt.pdf",
@@ -304,7 +304,7 @@
   {
    "id": "fmwetadhzk2w",
    "subject": "physical_pharmacy_practical",
-   "lesson": "l2",
+   "lesson": "",
    "kind": "other",
    "title": "B",
    "name": "physical_pharmacy_practical_l2_other_mwetadhzk2w.pdf",
@@ -316,7 +316,7 @@
   {
    "id": "fmwetar4u9k2",
    "subject": "physical_pharmacy_practical",
-   "lesson": "l2",
+   "lesson": "",
    "kind": "other",
    "title": "C",
    "name": "physical_pharmacy_practical_l2_other_mwetar4u9k2.pdf",
@@ -328,7 +328,7 @@
   {
    "id": "fmwetb375i5g",
    "subject": "physical_pharmacy_practical",
-   "lesson": "l2",
+   "lesson": "",
    "kind": "other",
    "title": "D",
    "name": "physical_pharmacy_practical_l2_other_mwetb375i5g.pdf",
@@ -411,6 +411,13 @@
     "id": "l3",
     "name": "المحاضرة 1 عملي",
     "em": "👨‍🏫"
+   }
+  ],
+  "physical_pharmacy_practical": [
+   {
+    "id": "l1",
+    "name": "تقسم المجموعات",
+    "em": "👬"
    }
   ]
  }
