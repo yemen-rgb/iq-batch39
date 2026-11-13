@@ -1,5 +1,5 @@
 {
- "version": 29,
+ "version": 30,
  "lessons": [
   {
    "id": "l1",
@@ -273,7 +273,8 @@
     "خطأ"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 21,
@@ -285,7 +286,8 @@
     "كل ما سبق صحيح"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 22,
@@ -297,7 +299,8 @@
     "أربعة أنواع"
    ],
    "answer": 2,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 23,
@@ -309,7 +312,8 @@
     "الاستعارة التشبيهية"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 24,
@@ -321,7 +325,8 @@
     "تشبيهية"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 25,
@@ -333,7 +338,8 @@
     "تشبيهية"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 26,
@@ -345,7 +351,8 @@
     "تمثيلية"
    ],
    "answer": 3,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 27,
@@ -357,7 +364,8 @@
     "جملة بجملة"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 28,
@@ -369,7 +377,8 @@
     "كل ما سبق صحيح"
    ],
    "answer": 2,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   },
   {
    "id": 29,
@@ -381,7 +390,8 @@
     "تشبيهية"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "t": "l3"
   }
  ],
  "lseq": 3
