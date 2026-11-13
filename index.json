@@ -1,5 +1,5 @@
 {
- "version": 167,
+ "version": 168,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -432,6 +432,18 @@
    "size": 33010,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy_practical/physical_pharmacy_practical_l2_other_mwetar4u9k2.pdf",
    "added": "2026-11-13T10:06:21.918Z"
+  },
+  {
+   "id": "fmwetb375i5g",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "l2",
+   "kind": "other",
+   "title": "D (2)",
+   "name": "physical_pharmacy_practical_l2_other_mwetb375i5g.pdf",
+   "ext": "pdf",
+   "size": 32775,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy_practical/physical_pharmacy_practical_l2_other_mwetb375i5g.pdf",
+   "added": "2026-11-13T10:06:37.553Z"
   }
  ],
  "lessons": {
