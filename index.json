@@ -1,5 +1,5 @@
 {
- "version": 186,
+ "version": 187,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -316,7 +316,7 @@
   {
    "id": "fmwetar4u9k2",
    "subject": "physical_pharmacy_practical",
-   "lesson": "",
+   "lesson": "l1",
    "kind": "other",
    "title": "C",
    "name": "physical_pharmacy_practical_l2_other_mwetar4u9k2.pdf",
