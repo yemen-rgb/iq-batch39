@@ -1,5 +1,5 @@
 {
- "version": 158,
+ "version": 159,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -353,7 +353,7 @@
    "id": "fmwet4ontr3o",
    "subject": "physical_pharmacy_practical",
    "lesson": "l1",
-   "kind": "other",
+   "kind": "lecture",
    "title": "صور المحاضرة",
    "name": "physical_pharmacy_practical_l1_other_mwet4ontr3o.jpg",
    "ext": "jpg",
