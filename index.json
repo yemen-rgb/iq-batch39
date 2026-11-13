@@ -1,5 +1,5 @@
 {
- "version": 155,
+ "version": 156,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -340,7 +340,7 @@
   {
    "id": "fmweqhegm0wk",
    "subject": "computer",
-   "lesson": "",
+   "lesson": "l2",
    "kind": "summary",
    "title": "أﺳﺎﺳﻴﺎت اﻟﺘﻌﺎﻣﻞ ﻣﻊ أﻳﻘﻮﻧﺎت وﻣﺠﻠﺪات ﻧﻈﺎم",
    "name": "computer_gen_summary_mweqhegm0wk.pdf",
