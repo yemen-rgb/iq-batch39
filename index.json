@@ -1,5 +1,5 @@
 {
- "version": 156,
+ "version": 157,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -348,6 +348,18 @@
    "size": 1497261,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-computer/computer_gen_summary_mweqhegm0wk.pdf",
    "added": "2026-11-13T08:47:33.238Z"
+  },
+  {
+   "id": "fmwet4ontr3o",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "l1",
+   "kind": "other",
+   "title": "صور المحاضرة",
+   "name": "physical_pharmacy_practical_l1_other_mwet4ontr3o.jpg",
+   "ext": "jpg",
+   "size": 183415,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy_practical/physical_pharmacy_practical_l1_other_mwet4ontr3o.jpg",
+   "added": "2026-11-13T10:01:38.777Z"
   }
  ],
  "lessons": {
