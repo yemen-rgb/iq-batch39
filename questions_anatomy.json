@@ -1,6 +1,487 @@
 {
- "version": 2,
- "questions": [],
+ "version": 3,
+ "questions": [
+  {
+   "id": 1,
+   "q": "What is the literal derivation and meaning of the Greek word \"Anatomy\" (Ana + Tome)?",
+   "options": [
+    "Ana = Living, Tome = Body",
+    "Ana = Apart, Tome = To cut",
+    "Ana = To study, Tome = Function",
+    "Ana = Microscopic, Tome = Structure"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 2,
+   "q": "The Latin term \"Dissection\" originates from \"Dissecare\", which means:",
+   "options": [
+    "To cut apart",
+    "To join together",
+    "To observe functions",
+    "To examine under a microscope"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 3,
+   "q": "According to Dorland’s Medical Dictionary, how many subdivisions of anatomy are defined?",
+   "options": [
+    "11",
+    "62",
+    "32",
+    "10"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 4,
+   "q": "Which specialized branch of anatomy deals with developmental changes from conception (fertilization) to birth?",
+   "options": [
+    "Histology",
+    "Embryology",
+    "Neuroanatomy",
+    "Radiographic anatomy"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 5,
+   "q": "Fine structure in ultrastructural cytology refers to cellular components visualized using a(n):",
+   "options": [
+    "Electron microscope",
+    "Unaided eye",
+    "Light microscope",
+    "X-ray imaging machine"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 6,
+   "q": "What is the most abundant element in the human body by elemental percentage?",
+   "options": [
+    "Hydrogen (62%)",
+    "Carbon (10%)",
+    "Oxygen (26%)",
+    "Nitrogen (1.5%)"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 7,
+   "q": "Which molecule makes up approximately 67% of the total molecular composition of the human body?",
+   "options": [
+    "Proteins",
+    "Lipids",
+    "Carbohydrates",
+    "Water"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "id": 8,
+   "q": "What is defined as the basic structural and functional unit of living organisms?",
+   "options": [
+    "Cell",
+    "Tissue",
+    "Organelle",
+    "Macromolecule"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 9,
+   "q": "Human red blood cells lack a nucleus and have a biconcave shape specifically to:",
+   "options": [
+    "Protect against viral infections",
+    "Increase surface area for oxygen transport",
+    "Divide rapidly in circulation",
+    "Synthesize functional proteins"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 10,
+   "q": "Which sequence correctly represents the structural hierarchy from least to most complex?",
+   "options": [
+    "Cell → Tissue → Organelle → Molecule → Organ → Organism",
+    "Atom → Molecule → Macromolecule → Organelle → Cell → Tissue → Organ → Organ System → Organism",
+    "Organelle → Atom → Macromolecule → Cell → Tissue → Organism",
+    "Molecule → Atom → Cell → Tissue → Organ System → Organism"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 11,
+   "q": "In the standard anatomical position, how are the palms of the hands positioned?",
+   "options": [
+    "Facing anteriorly (forwards)",
+    "Facing medially (towards the thighs)",
+    "Facing posteriorly (backwards)",
+    "Resting on the hips"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 12,
+   "q": "Which vertical plane divides the body into equal right and left halves?",
+   "options": [
+    "Coronal (Frontal) plane",
+    "Mid-sagittal (Median) plane",
+    "Transverse plane",
+    "Oblique plane"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 13,
+   "q": "A Coronal (Frontal) plane divides the body into:",
+   "options": [
+    "Superior and inferior portions",
+    "Equal right and left halves",
+    "Medial and lateral sections",
+    "Anterior and posterior portions"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "id": 14,
+   "q": "A Transverse plane cuts across the body at what angle relative to the sagittal or coronal planes?",
+   "options": [
+    "90 degrees",
+    "45 degrees",
+    "180 degrees",
+    "Parallel"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 15,
+   "q": "A cut made at 90 degrees to the long axis of a cylindrical organ or tissue is called a:",
+   "options": [
+    "Oblique section",
+    "Cross-section",
+    "Longitudinal section",
+    "Sagittal section"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 16,
+   "q": "In human directional terminology, which term is synonymous with \"Anterior\"?",
+   "options": [
+    "Dorsal",
+    "Caudal",
+    "Ventral",
+    "Cephalic"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 17,
+   "q": "The directional term \"Cranial\" or \"Cephalic\" refers to a position that is:",
+   "options": [
+    "Superior (towards the head)",
+    "Inferior (towards the tail/feet)",
+    "Lateral (towards the side)",
+    "Deep (internal)"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 18,
+   "q": "Structures situated closer to the median plane (midline) of the body are described as:",
+   "options": [
+    "Lateral",
+    "Distal",
+    "Proximal",
+    "Medial"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "id": 19,
+   "q": "If two anatomical structures are located on the same side of the body, they are described as:",
+   "options": [
+    "Ipsilateral",
+    "Contralateral",
+    "Intermediate",
+    "Superficial"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 20,
+   "q": "In limb terminology, a point closer to the attachment of the limb to the trunk is:",
+   "options": [
+    "Proximal",
+    "Distal",
+    "Preaxial",
+    "Postaxial"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 21,
+   "q": "A person lying flat on their back facing upwards is in which posture?",
+   "options": [
+    "Prone",
+    "Lithotomy",
+    "Supine",
+    "Lateral"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 22,
+   "q": "The inferior surface of the foot is anatomically designated as the:",
+   "options": [
+    "Plantar surface",
+    "Dorsum surface",
+    "Palmar surface",
+    "Superior surface"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 23,
+   "q": "The anterior surface of the hand is referred to as the:",
+   "options": [
+    "Dorsal surface",
+    "Palmar surface",
+    "Plantar surface",
+    "Lateral surface"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 24,
+   "q": "The combined directional term \"Superomedial\" describes a location that is:",
+   "options": [
+    "Lower and towards the side",
+    "Posterior and superior",
+    "Higher and towards the midline",
+    "Anterior and inferior"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 25,
+   "q": "Flexion at most joints involves carrying the moving part in which direction (except at the knee)?",
+   "options": [
+    "Away from midline",
+    "Backwards",
+    "Forwards",
+    "Towards midline"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 26,
+   "q": "At the knee joint, flexion carries the leg in which direction?",
+   "options": [
+    "Backwards",
+    "Forwards",
+    "Medially",
+    "Laterally"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 27,
+   "q": "Abduction is defined as movement:",
+   "options": [
+    "Towards the body reference line on an antero-posterior axis",
+    "Rotating around a vertical axis towards midline",
+    "Away from the body reference line on an antero-posterior axis",
+    "Forming the base of a cone"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 28,
+   "q": "Finger abduction and adduction use which digit as their reference long axis?",
+   "options": [
+    "Thumb (1st digit)",
+    "Middle finger (3rd digit)",
+    "Index finger (2nd digit)",
+    "Little finger (5th digit)"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 29,
+   "q": "Toe abduction and adduction use which toe as their reference long axis?",
+   "options": [
+    "1st toe (Great toe)",
+    "3rd toe",
+    "2nd toe",
+    "5th toe"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 30,
+   "q": "Forearm Pronation rotates the forearm so that the palm faces:",
+   "options": [
+    "Upwards",
+    "Medially",
+    "Towards the ground",
+    "Laterally"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 31,
+   "q": "Inversion of the foot occurs when the sole of the foot is turned:",
+   "options": [
+    "Medially",
+    "Laterally",
+    "Superiorly",
+    "Inferiorly"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 32,
+   "q": "Movement of the foot where the dorsal surface comes closer to the front of the leg is called:",
+   "options": [
+    "Plantarflexion",
+    "Dorsiflexion",
+    "Inversion",
+    "Eversion"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 33,
+   "q": "The human organism is composed of how many distinct organ systems?",
+   "options": [
+    "9",
+    "11",
+    "10",
+    "12"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 34,
+   "q": "Which organ system protects deep tissues from injury, synthesizes Vitamin D, and contains sweat and oil glands?",
+   "options": [
+    "Muscular system",
+    "Skeletal system",
+    "Integumentary system",
+    "Lymphatic system"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 35,
+   "q": "Which system picks up fluid leaked from blood vessels, returns it to the blood, and houses white blood cells involved in immunity?",
+   "options": [
+    "Cardiovascular system",
+    "Endocrine system",
+    "Lymphatic system",
+    "Urinary system"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 36,
+   "q": "Eliminating nitrogenous wastes and regulating water, electrolyte, and pH balance of the blood are functions of the:",
+   "options": [
+    "Urinary system",
+    "Digestive system",
+    "Respiratory system",
+    "Endocrine system"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 37,
+   "q": "Which anatomical structure separates the thoracic cavity from the abdominopelvic cavity?",
+   "options": [
+    "Mediastinum",
+    "Pleural cavity",
+    "Diaphragm muscle",
+    "Peritoneum"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 38,
+   "q": "The Cranial cavity and Vertebral canal are components of the:",
+   "options": [
+    "Ventral body cavity",
+    "Abdominal cavity",
+    "Pelvic cavity",
+    "Dorsal body cavity"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "id": 39,
+   "q": "What is the largest non-articular bony prominence (such as that found on the femur)?",
+   "options": [
+    "Tuberosity",
+    "Trochanter",
+    "Tubercle",
+    "Condyle"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 40,
+   "q": "Output / A deep articular cavity on a bone, such as the acetabulum of the pelvic bone, is termed a:",
+   "options": [
+    "Cotyloid cavity",
+    "Glenoid cavity",
+    "Facet",
+    "Fossa"
+   ],
+   "answer": 0,
+   "explanation": ""
+  }
+ ],
  "lessons": [
   {
    "id": "l1",
