@@ -1,5 +1,5 @@
 {
- "version": 113,
+ "version": 114,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -43,6 +43,17 @@
    "audience": "all",
    "urgent": false,
    "created_at": "2026-11-12T18:17:48.583Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmwfidq6tc7o4",
+   "title": "تسليم التكليف",
+   "body": "بالنسبة لتسليم التكليف يتم كتابته يدوياً او word \nبالنسبة للذي عمله word ويحوله PDF يتم طباعته وتسليمه الى مندوب المجموعه الخاصه به \n1 ايمن القدسي و خالد القرشي \n2 زيد ابوبكر \n3 عمار هبه\n4 نجيب الفصري \n\nبالتوفيق للجميع.",
+   "kind": "circular",
+   "from": "rep",
+   "audience": "all",
+   "urgent": false,
+   "created_at": "2026-11-13T21:48:31.061Z",
    "expires_at": null
   }
  ],
