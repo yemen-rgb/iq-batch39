@@ -1,5 +1,5 @@
 {
- "version": 203,
+ "version": 204,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -413,6 +413,11 @@
     "id": "l1",
     "name": "تقسم المجموعات",
     "em": "👬"
+   },
+   {
+    "id": "l2",
+    "name": "المحاضرة 1",
+    "em": "👨‍🏫"
    }
   ],
   "computer_practical": [
