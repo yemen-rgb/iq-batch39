@@ -1,5 +1,5 @@
 {
- "version": 200,
+ "version": 201,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -186,7 +186,7 @@
    "subject": "physical_pharmacy",
    "lesson": "l3",
    "kind": "summary",
-   "title": "ملخص المحاضرة1",
+   "title": "ملخص المحاضرة",
    "name": "physical_pharmacy_l4_summary_mwdwjffhlfl.pdf",
    "ext": "pdf",
    "size": 2397985,
