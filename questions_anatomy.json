@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "questions": [
   {
    "id": 1,
@@ -520,6 +520,526 @@
    "answer": 0,
    "explanation": "",
    "t": "l1"
+  },
+  {
+   "id": 41,
+   "q": "Question 1: What is the scientific definition of osteology?",
+   "options": [
+    "The study of muscular attachments to cartilage",
+    "The scientific study of bones",
+    "The analysis of blood cell formation in skeletal muscle",
+    "The study of joint movements and articulation"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 42,
+   "q": "Question 2: Which vital organs or systems are protected specifically by the pelvis?",
+   "options": [
+    "Internal parts of the urogenital system",
+    "The heart and lungs",
+    "The central nervous system",
+    "The gastrointestinal tract"
+   ],
+   "answer": 0,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 43,
+   "q": "Question 3: Bone serves as a dynamic storage area primarily for which two minerals in the homeokinetic process?",
+   "options": [
+    "Iron and Magnesium",
+    "Zinc and Copper",
+    "Calcium and Phosphorus",
+    "Sodium and Potassium"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 44,
+   "q": "Question 4: Where does blood formation (hemopoiesis) occur within the skeletal system?",
+   "options": [
+    "In the articular cartilage of epiphyses",
+    "Within the periosteum of short bones",
+    "Inside the cavity of long bones and spongy substance of all young bones",
+    "Within the cortical bone matrix of flat bones"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 45,
+   "q": "Question 5: How many named bones compose the adult skeleton, and how are they divided between the axial and appendicular divisions?",
+   "options": [
+    "208 total: 80 axial and 128 appendicular",
+    "206 total: 80 axial and 126 appendicular",
+    "206 total: 106 axial and 100 appendicular",
+    "200 total: 74 axial and 126 appendicular"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 46,
+   "q": "Question 6: Which of the following bones belongs to the axial skeleton?",
+   "options": [
+    "Scapula",
+    "Sternum",
+    "Carpal bone",
+    "Femur"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 47,
+   "q": "Question 7: Which bone shape classification is characterized by having a cylindrical body (diaphysis) and two extremities (epiphysis)?",
+   "options": [
+    "Flat bones",
+    "Long bones",
+    "Short bones",
+    "Irregular bones"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 48,
+   "q": "Question 8: What is the primary function of short bones such as the carpals and tarsals?",
+   "options": [
+    "Provide extensive surface area for muscle attachment",
+    "Act as supporting columns and levers",
+    "Diffuse concussion and distribute body weight across more than one bone",
+    "Diminish friction between tendons and joint capsules"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 49,
+   "q": "Question 9: Flat bones, such as the scapula and ribs, consist structurally of:",
+   "options": [
+    "Peculiar irregular ossification centers without compact bone",
+    "Two plates of compact bone with cancellous bone and marrow between them",
+    "A solid cylinder of compact bone surrounding a medullary cavity",
+    "Tiny nodular bones embedded inside tendon sheaths"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 50,
+   "q": "Question 10: Vertebrae are classified according to shape as which type of bone?",
+   "options": [
+    "Short bones",
+    "Irregular bones",
+    "Flat bones",
+    "Sesamoid bones"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 51,
+   "q": "Question 11: What is the primary function of sesamoid bones?",
+   "options": [
+    "Provide rigid supporting columns for locomotion",
+    "Enclose vital organs within cranial cavities",
+    "Diminish friction between the tendon and bones and change tendon direction",
+    "Produce red blood cells during adult growth phases"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 52,
+   "q": "Question 12: Which mineral component forms the inorganic matrix of bone?",
+   "options": [
+    "Sodium chloride",
+    "Mineral Hydroxyapatite (Calcium and phosphorus)",
+    "Calcium carbonate",
+    "Potassium phosphate"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 53,
+   "q": "Question 13: Which blood vessels specifically supply the diaphysis of a long bone?",
+   "options": [
+    "Nutrient artery and nutrient vein",
+    "Metaphyseal blood vessels",
+    "Epiphyseal arterial arches",
+    "Periosteal blood vessels"
+   ],
+   "answer": 0,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 54,
+   "q": "Question 14: Periosteal blood vessels supply which specific part of a long bone?",
+   "options": [
+    "The interior red bone marrow cavity",
+    "The articular hyaline cartilage",
+    "The periosteum of the diaphysis",
+    "The diaphyseal face of the epiphyseal plate"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 55,
+   "q": "Question 15: Bone projections function primarily as:",
+   "options": [
+    "Cavities for air-filled sinus lining",
+    "Attachment sites for muscles and ligaments, or structures that help form joints",
+    "Openings for the passage of nerves",
+    "Depressions for blood vessel passage"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 56,
+   "q": "Question 16: Geographically, the cranium is divided into which two main parts?",
+   "options": [
+    "Squamous plate and styloid process",
+    "Cranial vault and cranial base",
+    "Facial framework and mandibular arch",
+    "Anterior septum and posterior hard palate"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 57,
+   "q": "Question 17: Which cranial suture is located where the parietal bones meet the frontal bone anteriorly?",
+   "options": [
+    "Coronal suture",
+    "Sagittal suture",
+    "Squamous suture",
+    "Lambdoid suture"
+   ],
+   "answer": 0,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 58,
+   "q": "Question 18: The sagittal suture is located where which two bones meet superiorly?",
+   "options": [
+    "Frontal and parietal bones",
+    "Parietal and occipital bones",
+    "Right and left parietal bones",
+    "Temporal and parietal bones"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 59,
+   "q": "Question 19: The lambdoid suture occurs where the parietal bones meet which bone posteriorly?",
+   "options": [
+    "Temporal bone",
+    "Occipital bone",
+    "Ethmoid bone",
+    "Sphenoid bone"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 60,
+   "q": "Question 20: Which statement correctly describes sutural bones?",
+   "options": [
+    "Paired facial bones that form the nasal septum",
+    "Large fixed bones forming the base of the skull",
+    "Small, irregular bones occurring within cranial sutures that are not present in all individuals",
+    "Sesamoid bones located inside the temporomandibular joint"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 61,
+   "q": "Question 21: Which cranial bone forms the posterior portion of the cranium and base, contains the foramen magnum, and articulates with the atlas?",
+   "options": [
+    "Occipital bone",
+    "Sphenoid bone",
+    "Temporal bone",
+    "Ethmoid bone"
+   ],
+   "answer": 0,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 62,
+   "q": "Question 22: Which canal/foramen in the occipital bone allows passage of the hypoglossal nerve (CN XII)?",
+   "options": [
+    "Foramen magnum",
+    "Jugular foramen",
+    "Hypoglossal canal (foramen)",
+    "Foramen ovale"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 63,
+   "q": "Question 23: The stylomastoid foramen is located in which bone and transmits which cranial nerve?",
+   "options": [
+    "Occipital bone; Accessory nerve (CN XI)",
+    "Sphenoid bone; Trigeminal nerve (CN V)",
+    "Temporal bone; Facial nerve (CN VII)",
+    "Ethmoid bone; Olfactory nerve (CN I)"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 64,
+   "q": "Question 24: Which cranial bone spans the width of the cranial floor, resembles a butterfly or bat, and contains five important openings including the optic canal?",
+   "options": [
+    "Sphenoid bone",
+    "Ethmoid bone",
+    "Frontal bone",
+    "Temporal bone"
+   ],
+   "answer": 0,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 65,
+   "q": "Question 25: Which set of structures belongs to the ethmoid bone?",
+   "options": [
+    "Sella turcica and pterygoid processes",
+    "Mandibular fossa and styloid process",
+    "Crista galli, cribriform plate, and perpendicular plate",
+    "Occipital condyles and nuchal lines"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 66,
+   "q": "Question 26: Which two facial bones are unpaired?",
+   "options": [
+    "Nasal and Lacrimal bones",
+    "Mandible and Vomer",
+    "Maxillae and Mandible",
+    "Zygomatic and Palatine bones"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 67,
+   "q": "Question 27: The mandible consists of which two main structural parts?",
+   "options": [
+    "Greater wing and lesser wing",
+    "Horizontal body and two upright rami",
+    "Squamous part and petrous part",
+    "Perpendicular plate and cribriform plate"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 68,
+   "q": "Question 28: The maxillary bones articulate with all other facial bones EXCEPT which bone?",
+   "options": [
+    "Palatine bone",
+    "Mandible",
+    "Zygomatic bone",
+    "Nasal bone"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 69,
+   "q": "Question 29: Which facial bones form the prominence of the cheek and the lateral wall of the orbits?",
+   "options": [
+    "Zygomatic bones",
+    "Palatine bones",
+    "Lacrimal bones",
+    "Inferior nasal conchae"
+   ],
+   "answer": 0,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 70,
+   "q": "Question 30: Which bone forms the posterior part of the hard palate?",
+   "options": [
+    "Vomer bone",
+    "Maxillary bone (palatine process)",
+    "Palatine bone (horizontal plate)",
+    "Sphenoid bone"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 71,
+   "q": "Question 31: Which four bones contain paranasal sinuses?",
+   "options": [
+    "Temporal, Occipital, Parietal, and Mandible bones",
+    "Frontal, Ethmoid, Sphenoid, and Maxillary bones",
+    "Zygomatic, Lacrimal, Nasal, and Palatine bones",
+    "Cervical, Thoracic, Lumbar, and Sacral bones"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 72,
+   "q": "Question 32: What is the main functional purpose of paranasal sinuses?",
+   "options": [
+    "Hold teeth in place",
+    "Lighten the skull and are lined with mucous membrane",
+    "Provide attachment for mastication muscles",
+    "Transmit the internal carotid artery"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 73,
+   "q": "Question 33: What makes the hyoid bone unique in the human skeleton?",
+   "options": [
+    "It is the only bone with no direct articulation with any other bone",
+    "It is composed entirely of hyaline cartilage",
+    "It encloses the largest sinus cavity",
+    "It is the only unpaired cranial bone"
+   ],
+   "answer": 0,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 74,
+   "q": "Question 34: How many bones form the adult vertebral column, and what is its approximate length?",
+   "options": [
+    "33 bones; about 50 cm (20 inches)",
+    "24 bones; about 90 cm (36 inches)",
+    "26 bones; about 70 cm (28 inches)",
+    "30 bones; about 60 cm (24 inches)"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 75,
+   "q": "Question 35: Which normal curvatures of the vertebral column are concave posteriorly?",
+   "options": [
+    "Thoracic and Sacral curvatures",
+    "Cervical and Thoracic curvatures",
+    "Cervical and Lumbar curvatures",
+    "Lumbar and Sacral curvatures"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 76,
+   "q": "Question 36: Which normal curvatures of the vertebral column are convex posteriorly?",
+   "options": [
+    "Cervical and Lumbar curvatures",
+    "Thoracic and Lumbar curvatures",
+    "Thoracic and Sacral curvatures",
+    "Cervical and Sacral curvatures"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 77,
+   "q": "Question 37: Intervertebral discs compose approximately what percentage of the height of the vertebral column?",
+   "options": [
+    "15%",
+    "40%",
+    "25%",
+    "10%"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 78,
+   "q": "Question 38: An intervertebral disc is composed of a gelatinous inner sphere called the _____ and an outer collar called the _____.",
+   "options": [
+    "Ligamentum flavum; Periosteum",
+    "Annulus fibrosus; Nucleus pulposus",
+    "Nucleus pulposus; Annulus fibrosus",
+    "Diaphysis; Epiphysis"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 79,
+   "q": "Question 39: In a herniated disc:",
+   "options": [
+    "Vertebral body detaches from pedicles",
+    "Nucleus pulposus loses cushioning properties and annulus fibrosus weakens",
+    "Ligamentum flavum ossifies completely",
+    "Transverse process loses bony density"
+   ],
+   "answer": 1,
+   "explanation": "",
+   "t": "l2"
+  },
+  {
+   "id": 80,
+   "q": "Question 40: Which anatomical feature is characteristic of typical cervical vertebrae (C3–C7)?",
+   "options": [
+    "Heart-shaped body and long sloping spinous process",
+    "Absence of vertebral body and pedicles",
+    "Transverse foramina and short, bifid spinous process (except C7)",
+    "Costal facets on transverse processes for rib articulation"
+   ],
+   "answer": 2,
+   "explanation": "",
+   "t": "l2"
   }
  ],
  "lessons": [
