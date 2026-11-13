@@ -1,5 +1,5 @@
 {
- "version": 172,
+ "version": 173,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -48,18 +48,6 @@
    "size": 5592578,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l1_summary_mw6hasq7vkq.pdf",
    "added": "2026-11-07T14:08:19.183Z"
-  },
-  {
-   "id": "fmw7zpv5uv3y",
-   "subject": "physical_pharmacy",
-   "lesson": "l3",
-   "kind": "lecture",
-   "title": "صور المحاضرة",
-   "name": "physical_pharmacy_l2_lecture_mw7zpv5uv3y.jpg",
-   "ext": "jpg",
-   "size": 183415,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l2_lecture_mw7zpv5uv3y.jpg",
-   "added": "2026-11-08T15:31:41.442Z"
   },
   {
    "id": "fmw9myjl9hvd",
