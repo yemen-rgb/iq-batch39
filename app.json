@@ -1,0 +1,14 @@
+{
+ "version": 1,
+ "current": 6,
+ "versions": [
+  {
+   "v": 6,
+   "file": "app/app_v6.html",
+   "size": 2091741,
+   "sha256": "277ed0b6e21a78a0362d308b2e8749195fcf45a0e795fa06d8b5e47d633ed084",
+   "at": "2026-11-14T20:52:11.060Z",
+   "note": ""
+  }
+ ]
+}
