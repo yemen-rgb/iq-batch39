@@ -1,5 +1,5 @@
 {
- "version": 224,
+ "version": 225,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -204,18 +204,6 @@
    "size": 809486,
    "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mwdwlkibz2a.pdf",
    "added": "2026-11-12T18:50:59.219Z"
-  },
-  {
-   "id": "fmwgc39nkqgg",
-   "subject": "anatomy",
-   "lesson": "l1",
-   "kind": "video",
-   "title": "امام عاشور",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://youtu.be/tHye_BKtT5k?si=Fpa7jrFQ2B8T5B_u",
-   "added": "2026-11-14T11:40:11.552Z"
   },
   {
    "id": "fmwdwwghvkf9",
