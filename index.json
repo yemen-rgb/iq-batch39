@@ -1,5 +1,5 @@
 {
- "version": 257,
+ "version": 258,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -516,9 +516,14 @@
   ],
   "calculations": [
    {
-    "id": "l1",
+    "id": "l3",
     "name": "المحاضرة 1",
-    "em": "👨‍🏫"
+    "em": "👩‍🏫"
+   },
+   {
+    "id": "l2",
+    "name": "المحاضرة 2",
+    "em": "👩‍🏫"
    }
   ],
   "anatomy": [
