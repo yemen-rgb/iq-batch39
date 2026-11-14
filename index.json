@@ -1,5 +1,5 @@
 {
- "version": 263,
+ "version": 264,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -516,6 +516,18 @@
    "size": 0,
    "url": "https://t.me/ph39r/352",
    "added": "2026-11-14T14:43:05.988Z"
+  },
+  {
+   "id": "fmwgism4ozuq",
+   "subject": "calculations",
+   "lesson": "l2",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "calculations_l2_summary_mwgism4ozuq.pdf",
+   "ext": "pdf",
+   "size": 1020293,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l2_summary_mwgism4ozuq.pdf",
+   "added": "2026-11-14T14:47:51.816Z"
   }
  ],
  "lessons": {
