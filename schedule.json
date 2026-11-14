@@ -1,5 +1,5 @@
 {
- "version": 25,
+ "version": 26,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -209,7 +209,7 @@
     },
     {
      "subject": "physical_pharmacy_practical",
-     "title": "المجموعة A",
+     "title": "المجموعة D",
      "time": "09:30",
      "end": "11:00",
      "room": "معمل الصيدلانيات",
@@ -219,7 +219,7 @@
     },
     {
      "subject": "computer_practical",
-     "title": "المجموعة D",
+     "title": "المجموعة A",
      "time": "09:30",
      "end": "11:00",
      "room": "معمل الحاسوب",
@@ -271,5 +271,5 @@
    "holiday": null
   }
  },
- "updated": "2026-11-14T15:23:05.211Z"
+ "updated": "2026-11-14T15:31:11.465Z"
 }
