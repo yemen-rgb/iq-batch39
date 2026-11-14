@@ -1,5 +1,5 @@
 {
- "version": 269,
+ "version": 270,
  "files": [
   {
    "id": "fmwdwh1mn4p1",
@@ -194,16 +194,16 @@
    "added": "2026-11-12T18:49:19.325Z"
   },
   {
-   "id": "fmwdwlkibz2a",
+   "id": "fmwdwmlxoe5g",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
+   "kind": "other",
+   "title": "خريطة ذهنية",
+   "name": "anatomy_l1_other_mwdwmlxoe5g.pdf",
    "ext": "pdf",
-   "size": 809486,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mwdwlkibz2a.pdf",
-   "added": "2026-11-12T18:50:59.219Z"
+   "size": 81861,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_other_mwdwmlxoe5g.pdf",
+   "added": "2026-11-12T18:51:47.724Z"
   },
   {
    "id": "fmwdwwghvkf9",
@@ -338,16 +338,16 @@
    "added": "2026-11-13T10:12:17.089Z"
   },
   {
-   "id": "fmwdwmlxoe5g",
+   "id": "fmwdwlkibz2a",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "other",
-   "title": "خريطة ذهنية",
-   "name": "anatomy_l1_other_mwdwmlxoe5g.pdf",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
    "ext": "pdf",
-   "size": 81861,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_other_mwdwmlxoe5g.pdf",
-   "added": "2026-11-12T18:51:47.724Z"
+   "size": 809486,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_summary_mwdwlkibz2a.pdf",
+   "added": "2026-11-12T18:50:59.219Z"
   },
   {
    "id": "fmwgglp4b6dg",
