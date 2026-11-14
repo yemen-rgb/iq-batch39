@@ -1,5 +1,5 @@
 {
- "version": 231,
+ "version": 232,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -384,6 +384,18 @@
    "size": 0,
    "url": "https://t.me/ph39rr/109",
    "added": "2026-11-14T13:47:49.263Z"
+  },
+  {
+   "id": "fmwggot2dw08",
+   "subject": "arabic2",
+   "lesson": "l1",
+   "kind": "audio",
+   "title": "تسجيل المحاضرة الاولى",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/350",
+   "added": "2026-11-14T13:48:54.949Z"
   }
  ],
  "lessons": {
