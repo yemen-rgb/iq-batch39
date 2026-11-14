@@ -1,5 +1,5 @@
 {
- "version": 262,
+ "version": 263,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -504,6 +504,18 @@
    "size": 0,
    "url": "https://t.me/ph39r/367",
    "added": "2026-11-14T14:41:52.437Z"
+  },
+  {
+   "id": "fmwgimhl0ppt",
+   "subject": "arabic2",
+   "lesson": "l1",
+   "kind": "audio",
+   "title": "تسجيل المحاضرة الثانية",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/352",
+   "added": "2026-11-14T14:43:05.988Z"
   }
  ],
  "lessons": {
