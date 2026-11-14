@@ -1,5 +1,5 @@
 {
- "version": 24,
+ "version": 25,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -208,7 +208,7 @@
      "note": ""
     },
     {
-     "subject": "computer_practical",
+     "subject": "physical_pharmacy_practical",
      "title": "المجموعة A",
      "time": "09:30",
      "end": "11:00",
@@ -271,5 +271,5 @@
    "holiday": null
   }
  },
- "updated": "2026-11-14T15:19:22.861Z"
+ "updated": "2026-11-14T15:23:05.211Z"
 }
