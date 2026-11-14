@@ -1,5 +1,5 @@
 {
- "version": 238,
+ "version": 239,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -468,6 +468,18 @@
    "size": 0,
    "url": "https://youtu.be/JelsBxqvGyE?si",
    "added": "2026-11-14T14:16:43.060Z"
+  },
+  {
+   "id": "fmwghqrjsele",
+   "subject": "computer_practical",
+   "lesson": "l1",
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39rr/108",
+   "added": "2026-11-14T14:18:25.912Z"
   }
  ],
  "lessons": {
