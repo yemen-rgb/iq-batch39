@@ -1,5 +1,5 @@
 {
- "version": 264,
+ "version": 265,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -470,16 +470,16 @@
    "added": "2026-11-14T14:18:25.912Z"
   },
   {
-   "id": "fmwgid027wxz",
+   "id": "fmwgism4ozuq",
    "subject": "calculations",
    "lesson": "l2",
-   "kind": "audio",
-   "title": "تسجيل المحاضرة",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://t.me/ph39r/374",
-   "added": "2026-11-14T14:35:43.375Z"
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "calculations_l2_summary_mwgism4ozuq.pdf",
+   "ext": "pdf",
+   "size": 1020293,
+   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l2_summary_mwgism4ozuq.pdf",
+   "added": "2026-11-14T14:47:51.816Z"
   },
   {
    "id": "fmwgigkpu6hf",
@@ -518,16 +518,16 @@
    "added": "2026-11-14T14:43:05.988Z"
   },
   {
-   "id": "fmwgism4ozuq",
+   "id": "fmwgid027wxz",
    "subject": "calculations",
    "lesson": "l2",
-   "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "calculations_l2_summary_mwgism4ozuq.pdf",
-   "ext": "pdf",
-   "size": 1020293,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-calculations/calculations_l2_summary_mwgism4ozuq.pdf",
-   "added": "2026-11-14T14:47:51.816Z"
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/374",
+   "added": "2026-11-14T14:35:43.375Z"
   }
  ],
  "lessons": {
