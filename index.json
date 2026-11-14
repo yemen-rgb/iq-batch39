@@ -1,5 +1,5 @@
 {
- "version": 228,
+ "version": 229,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -101,7 +101,7 @@
    "id": "fmwdsjc60muc",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "other",
+   "kind": "summary",
    "title": "ترجمة تشريح الجزء الاول",
    "name": "anatomy_l1_other_mwdsjc60muc.pdf",
    "ext": "pdf",
