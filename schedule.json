@@ -1,5 +1,5 @@
 {
- "version": 23,
+ "version": 24,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -189,7 +189,7 @@
    "lectures": [
     {
      "subject": "computer_practical",
-     "title": "المجموعة A",
+     "title": "المجموعة D",
      "time": "08:00",
      "end": "09:30",
      "room": "معمل الحاسوب",
@@ -199,7 +199,7 @@
     },
     {
      "subject": "physical_pharmacy_practical",
-     "title": "المجموعة B",
+     "title": "المجموعة A",
      "time": "08:00",
      "end": "09:30",
      "room": "معمل الصيدلانيات",
@@ -219,7 +219,7 @@
     },
     {
      "subject": "computer_practical",
-     "title": "المجموعة B",
+     "title": "المجموعة D",
      "time": "09:30",
      "end": "11:00",
      "room": "معمل الحاسوب",
@@ -229,8 +229,8 @@
     },
     {
      "subject": "computer_practical",
-     "title": "المجموعة C",
-     "time": "11:30",
+     "title": "المجموعة B",
+     "time": "11:00",
      "end": "12:30",
      "room": "معمل الحاسوب",
      "doctor": "م/ أكرم عبد الله",
@@ -239,8 +239,8 @@
     },
     {
      "subject": "physical_pharmacy_practical",
-     "title": "المجموعة D",
-     "time": "11:30",
+     "title": "المجموعة C",
+     "time": "11:00",
      "end": "12:30",
      "room": "معمل الصيدلانيات",
      "doctor": "ص/ إبراهيم قاسم",
@@ -249,9 +249,9 @@
     },
     {
      "subject": "physical_pharmacy_practical",
-     "title": "المجموعة C",
+     "title": "المجموعة B",
      "time": "12:30",
-     "end": "13:00",
+     "end": "14:00",
      "room": "معمل الصيدلانيات",
      "doctor": "ص/ إبراهيم قاسم",
      "status": "normal",
@@ -259,9 +259,9 @@
     },
     {
      "subject": "computer_practical",
-     "title": "المجموعة D",
+     "title": "المجموعة C",
      "time": "12:30",
-     "end": "13:00",
+     "end": "14:00",
      "room": "معمل الحاسوب",
      "doctor": "م/ أكرم عبد الله",
      "status": "normal",
@@ -271,5 +271,5 @@
    "holiday": null
   }
  },
- "updated": "2026-11-14T15:01:38.485Z"
+ "updated": "2026-11-14T15:19:22.861Z"
 }
