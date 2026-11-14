@@ -1,5 +1,5 @@
 {
- "version": 232,
+ "version": 233,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -396,6 +396,18 @@
    "size": 0,
    "url": "https://t.me/ph39r/350",
    "added": "2026-11-14T13:48:54.949Z"
+  },
+  {
+   "id": "fmwggpx54822",
+   "subject": "english2",
+   "lesson": "l2",
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/376",
+   "added": "2026-11-14T13:49:46.888Z"
   }
  ],
  "lessons": {
