@@ -1,5 +1,5 @@
 {
- "version": 227,
+ "version": 228,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -149,7 +149,7 @@
    "id": "fmwdw1z28q6c",
    "subject": "arabic2",
    "lesson": "l3",
-   "kind": "other",
+   "kind": "lecture",
    "title": "صوره ١",
    "name": "arabic2_l3_other_mwdw1z28q6c.jpg",
    "ext": "jpg",
