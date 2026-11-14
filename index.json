@@ -1,5 +1,5 @@
 {
- "version": 236,
+ "version": 237,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -444,6 +444,18 @@
    "size": 0,
    "url": "https://youtu.be/OqewNExzBUM",
    "added": "2026-11-14T13:54:03.292Z"
+  },
+  {
+   "id": "fmwgh434d0ic",
+   "subject": "physical_pharmacy",
+   "lesson": "l3",
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/334",
+   "added": "2026-11-14T14:00:47.821Z"
   }
  ],
  "lessons": {
