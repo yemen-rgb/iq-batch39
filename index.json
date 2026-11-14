@@ -1,5 +1,5 @@
 {
- "version": 233,
+ "version": 234,
  "files": [
   {
    "id": "fmw3jgd9pw0o",
@@ -408,6 +408,18 @@
    "size": 0,
    "url": "https://t.me/ph39r/376",
    "added": "2026-11-14T13:49:46.888Z"
+  },
+  {
+   "id": "fmwggr6dzyoz",
+   "subject": "calculations",
+   "lesson": "l1",
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/301",
+   "added": "2026-11-14T13:50:45.527Z"
   }
  ],
  "lessons": {
