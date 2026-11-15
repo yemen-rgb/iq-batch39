@@ -1,5 +1,5 @@
 {
- "version": 309,
+ "version": 310,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -212,8 +212,10 @@
    "name": "physical_pharmacy_l4_summary_mwdwjffhlfl.pdf",
    "ext": "pdf",
    "size": 2397985,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy/physical_pharmacy_l4_summary_mwdwjffhlfl.pdf",
-   "added": "2026-11-12T18:49:19.325Z"
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMdavoHYAN5FMgP0UmMilSaVX6vjwoAAh0kAAKOtNFTuOXwov1Altw9BA",
+   "added": "2026-11-12T18:49:19.325Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMdavoHYAN5FMgP0UmMilSaVX6vjwoAAh0kAAKOtNFTuOXwov1Altw9BA",
+   "tgmsg": 29
   },
   {
    "id": "fmwdwmlxoe5g",
