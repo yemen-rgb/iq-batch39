@@ -1,5 +1,5 @@
 {
- "version": 306,
+ "version": 307,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -104,8 +104,10 @@
    "name": "arabic2_gen_summary_mwaxpn0vgss.pdf",
    "ext": "pdf",
    "size": 1427028,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_gen_summary_mwaxpn0vgss.pdf",
-   "added": "2026-11-10T16:58:50.191Z"
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMaavoHT9vBp9sI-6FZZpVAib2FkDcAAhokAAKOtNFTYxdnUPP1-3E9BA",
+   "added": "2026-11-10T16:58:50.191Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMaavoHT9vBp9sI-6FZZpVAib2FkDcAAhokAAKOtNFTYxdnUPP1-3E9BA",
+   "tgmsg": 26
   },
   {
    "id": "fmwdsjc60muc",
