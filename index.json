@@ -1,5 +1,5 @@
 {
- "version": 290,
+ "version": 291,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -206,8 +206,10 @@
    "name": "anatomy_l1_other_mwdwmlxoe5g.pdf",
    "ext": "pdf",
    "size": 81861,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-anatomy/anatomy_l1_other_mwdwmlxoe5g.pdf",
-   "added": "2026-11-12T18:51:47.724Z"
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMKavoG9DZnxcQVqq5fY2RS-TrPGAkAAgokAAKOtNFTFF87NVSjwkg9BA",
+   "added": "2026-11-12T18:51:47.724Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMKavoG9DZnxcQVqq5fY2RS-TrPGAkAAgokAAKOtNFTFF87NVSjwkg9BA",
+   "tgmsg": 10
   },
   {
    "id": "fmwdwwghvkf9",
