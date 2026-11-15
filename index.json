@@ -1,5 +1,5 @@
 {
- "version": 291,
+ "version": 292,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -232,8 +232,10 @@
    "name": "arabic2_l3_other_mwdw2j0yjpg.jpg",
    "ext": "jpg",
    "size": 85661,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-arabic2/arabic2_l3_other_mwdw2j0yjpg.jpg",
-   "added": "2026-11-12T18:36:10.834Z"
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMLavoG-FpW9ZfBARL5UZXrcEWT2_AAAgskAAKOtNFT32x5zzwWSBw9BA",
+   "added": "2026-11-12T18:36:10.834Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMLavoG-FpW9ZfBARL5UZXrcEWT2_AAAgskAAKOtNFT32x5zzwWSBw9BA",
+   "tgmsg": 11
   },
   {
    "id": "fmwet8m9qbrz",
