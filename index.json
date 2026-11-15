@@ -1,5 +1,5 @@
 {
- "version": 300,
+ "version": 301,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -570,8 +570,10 @@
    "name": "physical_pharmacy_practical_l4_lecture_mwi1ehg1rq1.pdf",
    "ext": "pdf",
    "size": 448406,
-   "url": "https://github.com/yemen-rgb/iq-batch39/releases/download/files-physical_pharmacy_practical/physical_pharmacy_practical_l4_lecture_mwi1ehg1rq1.pdf",
-   "added": "2026-11-15T16:16:31.441Z"
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMUavoHJpy_CExjgNkBaWMC2Iy1OukAAhQkAAKOtNFT_LbdU8xSJ8Q9BA",
+   "added": "2026-11-15T16:16:31.441Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMUavoHJpy_CExjgNkBaWMC2Iy1OukAAhQkAAKOtNFT_LbdU8xSJ8Q9BA",
+   "tgmsg": 20
   },
   {
    "id": "fmwi186cilp4",
