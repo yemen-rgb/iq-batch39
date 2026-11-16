@@ -1,5 +1,5 @@
 {
- "version": 330,
+ "version": 331,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -694,6 +694,20 @@
    "tgmsg": 38,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMmavtNsvjDmrY2bA8jD2W5j__ebkUAAhkjAAJ7qdlTyceCUOnV9Sc9BA",
    "added": "2026-11-16T18:38:40.196Z"
+  },
+  {
+   "id": "fmwjm46wqupe",
+   "subject": "computer",
+   "lesson": "",
+   "kind": "summary",
+   "title": "تلخيص الحاسوب كامل",
+   "name": "computer_gen_summary_mwjm46wqupe.pdf",
+   "ext": "pdf",
+   "size": 2317858,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMnavtO-yrsxXKBFf-snRvaAAEQO6vAAAIeIwACe6nZU7PzCU_bcpTGPQQ",
+   "tgmsg": 39,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMnavtO-yrsxXKBFf-snRvaAAEQO6vAAAIeIwACe6nZU7PzCU_bcpTGPQQ",
+   "added": "2026-11-16T18:44:09.338Z"
   }
  ],
  "lessons": {
