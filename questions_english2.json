@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "questions": [
   {
    "id": 1,
@@ -46,7 +46,12 @@
    "id": "l2",
    "name": "Unit 1",
    "em": "📘"
+  },
+  {
+   "id": "l3",
+   "name": "Unit 2",
+   "em": "📘"
   }
  ],
- "lseq": 2
+ "lseq": 3
 }
