@@ -1,5 +1,5 @@
 {
- "version": 317,
+ "version": 318,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -650,6 +650,11 @@
    {
     "id": "l2",
     "name": "Unit 1",
+    "em": "📘"
+   },
+   {
+    "id": "l3",
+    "name": "Unit 2",
     "em": "📘"
    }
   ],
