@@ -1,5 +1,5 @@
 {
- "version": 335,
+ "version": 336,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -750,6 +750,20 @@
    "size": 0,
    "url": "https://t.me/ph39rr/119",
    "added": "2026-11-15T16:11:37.122Z"
+  },
+  {
+   "id": "fmwjmyzriwgo",
+   "subject": "computer",
+   "lesson": "",
+   "kind": "summary",
+   "title": "COMPUTER SKILLS PH الكتاب كامل",
+   "name": "computer_gen_summary_mwjmyzriwgo.pdf",
+   "ext": "pdf",
+   "size": 15169184,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMravtUmbxvkMIbdXBpzL3ETGUOKnQAAk4jAAJ7qdlTEogNCrwmzEE9BA",
+   "tgmsg": 43,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMravtUmbxvkMIbdXBpzL3ETGUOKnQAAk4jAAJ7qdlTEogNCrwmzEE9BA",
+   "added": "2026-11-16T19:08:06.414Z"
   }
  ],
  "lessons": {
