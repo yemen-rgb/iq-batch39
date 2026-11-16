@@ -1,5 +1,5 @@
 {
- "version": 328,
+ "version": 329,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -680,6 +680,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/394",
    "added": "2026-11-16T13:54:55.774Z"
+  },
+  {
+   "id": "fmwjlx4xwf4o",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "",
+   "kind": "summary",
+   "title": "تلخيص المحاضرة 1 & 2",
+   "name": "physical_pharmacy_practical_gen_summary_mwjlx4xwf4o.pdf",
+   "ext": "pdf",
+   "size": 2380477,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMmavtNsvjDmrY2bA8jD2W5j__ebkUAAhkjAAJ7qdlTyceCUOnV9Sc9BA",
+   "tgmsg": 38,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMmavtNsvjDmrY2bA8jD2W5j__ebkUAAhkjAAJ7qdlTyceCUOnV9Sc9BA",
+   "added": "2026-11-16T18:38:40.196Z"
   }
  ],
  "lessons": {
