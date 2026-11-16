@@ -1,5 +1,5 @@
 {
- "version": 332,
+ "version": 333,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -722,6 +722,20 @@
    "tgmsg": 40,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMoavtQe6Bc6WDivkqEZTX7TekHrU0AAi0jAAJ7qdlTDSeZGMOjt709BA",
    "added": "2026-11-16T18:50:31.689Z"
+  },
+  {
+   "id": "fmwjmkiq0ner",
+   "subject": "physical_pharmacy",
+   "lesson": "",
+   "kind": "summary",
+   "title": "أسئلة المحاضرة الأولى & الثانية",
+   "name": "physical_pharmacy_gen_summary_mwjmkiq0ner.pdf",
+   "ext": "pdf",
+   "size": 2351944,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMpavtR9tGgR4VCrljA3jTOrpQjGVgAAjYjAAJ7qdlTnQAB8qVegiQpPQQ",
+   "tgmsg": 41,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMpavtR9tGgR4VCrljA3jTOrpQjGVgAAjYjAAJ7qdlTnQAB8qVegiQpPQQ",
+   "added": "2026-11-16T18:56:51.144Z"
   }
  ],
  "lessons": {
