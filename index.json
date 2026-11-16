@@ -1,5 +1,5 @@
 {
- "version": 327,
+ "version": 328,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -616,16 +616,18 @@
    "added": "2026-11-15T16:11:37.122Z"
   },
   {
-   "id": "fmwjbs8tabw8",
+   "id": "fmwjlbqaiaug",
    "subject": "physical_pharmacy",
    "lesson": "l4",
-   "kind": "audio",
-   "title": "تسجيل المحاضرة",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://t.me/ph39r/394",
-   "added": "2026-11-16T13:54:55.774Z"
+   "kind": "summary",
+   "title": "ترجمة المحاضرة",
+   "name": "physical_pharmacy_l4_summary_mwjlbqaiaug.pdf",
+   "ext": "pdf",
+   "size": 437528,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMlavtJy_7SpmPg3b0ZNTde42aA_aEAAyMAAnup2VNb5dkOZ30fDj0E",
+   "tgmsg": 37,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMlavtJy_7SpmPg3b0ZNTde42aA_aEAAyMAAnup2VNb5dkOZ30fDj0E",
+   "added": "2026-11-16T18:22:01.434Z"
   },
   {
    "id": "fmwjbwk9sgzg",
@@ -668,18 +670,16 @@
    "added": "2026-11-16T17:27:06.850Z"
   },
   {
-   "id": "fmwjlbqaiaug",
+   "id": "fmwjbs8tabw8",
    "subject": "physical_pharmacy",
    "lesson": "l4",
-   "kind": "summary",
-   "title": "ترجمة المحاضرة",
-   "name": "physical_pharmacy_l4_summary_mwjlbqaiaug.pdf",
-   "ext": "pdf",
-   "size": 437528,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMlavtJy_7SpmPg3b0ZNTde42aA_aEAAyMAAnup2VNb5dkOZ30fDj0E",
-   "tgmsg": 37,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMlavtJy_7SpmPg3b0ZNTde42aA_aEAAyMAAnup2VNb5dkOZ30fDj0E",
-   "added": "2026-11-16T18:22:01.434Z"
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/394",
+   "added": "2026-11-16T13:54:55.774Z"
   }
  ],
  "lessons": {
