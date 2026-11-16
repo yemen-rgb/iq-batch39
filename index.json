@@ -1,5 +1,5 @@
 {
- "version": 336,
+ "version": 337,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -764,6 +764,20 @@
    "tgmsg": 43,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMravtUmbxvkMIbdXBpzL3ETGUOKnQAAk4jAAJ7qdlTEogNCrwmzEE9BA",
    "added": "2026-11-16T19:08:06.414Z"
+  },
+  {
+   "id": "fmwjn41tus3f",
+   "subject": "physical_pharmacy",
+   "lesson": "l4",
+   "kind": "summary",
+   "title": "ترجمة يدوي",
+   "name": "physical_pharmacy_l4_summary_mwjn41tus3f.pdf",
+   "ext": "pdf",
+   "size": 5301412,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMsavtVhToYNOCNEglErjd0xCAhHLsAAlYjAAJ7qdlTsbyJEp7Ie-E9BA",
+   "tgmsg": 44,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMsavtVhToYNOCNEglErjd0xCAhHLsAAlYjAAJ7qdlTsbyJEp7Ie-E9BA",
+   "added": "2026-11-16T19:12:02.370Z"
   }
  ],
  "lessons": {
