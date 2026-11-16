@@ -1,5 +1,5 @@
 {
- "version": 329,
+ "version": 330,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -729,7 +729,7 @@
   "computer": [
    {
     "id": "l2",
-    "name": "المحاضرة 2",
+    "name": "المحاضرة 1",
     "em": "👨‍🏫"
    }
   ],
