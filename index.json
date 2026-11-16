@@ -1,5 +1,5 @@
 {
- "version": 334,
+ "version": 335,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -604,16 +604,18 @@
    "tgmsg": 20
   },
   {
-   "id": "fmwi186cilp4",
+   "id": "fmwjmu2gvpba",
    "subject": "physical_pharmacy_practical",
    "lesson": "l4",
-   "kind": "audio",
-   "title": "تسجيل المحاضرة",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://t.me/ph39rr/119",
-   "added": "2026-11-15T16:11:37.122Z"
+   "kind": "lecture",
+   "title": "تفريغ المحاضرة",
+   "name": "physical_pharmacy_practical_l4_lecture_mwjmu2gvpba.pdf",
+   "ext": "pdf",
+   "size": 2919259,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
+   "tgmsg": 42,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
+   "added": "2026-11-16T19:04:16.639Z"
   },
   {
    "id": "fmwjlbqaiaug",
@@ -738,18 +740,16 @@
    "added": "2026-11-16T18:56:51.144Z"
   },
   {
-   "id": "fmwjmu2gvpba",
+   "id": "fmwi186cilp4",
    "subject": "physical_pharmacy_practical",
    "lesson": "l4",
-   "kind": "lecture",
-   "title": "تفريغ المحاضرة",
-   "name": "physical_pharmacy_practical_l4_lecture_mwjmu2gvpba.pdf",
-   "ext": "pdf",
-   "size": 2919259,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
-   "tgmsg": 42,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
-   "added": "2026-11-16T19:04:16.639Z"
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39rr/119",
+   "added": "2026-11-15T16:11:37.122Z"
   }
  ],
  "lessons": {
