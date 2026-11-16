@@ -1,5 +1,5 @@
 {
- "version": 323,
+ "version": 324,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -652,6 +652,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/396",
    "added": "2026-11-16T13:56:37.625Z"
+  },
+  {
+   "id": "fmwjjd46a6i0",
+   "subject": "physical_pharmacy",
+   "lesson": "",
+   "kind": "summary",
+   "title": "Physical - Dr Ehab Hassan ملزمة خارجي",
+   "name": "physical_pharmacy_gen_summary_mwjjd46a6i0.pdf",
+   "ext": "pdf",
+   "size": 7855289,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMkavs88ijcv_2CEQIfIEXM4XinktQAArgiAAJ7qdlTjvqGMBWes-E9BA",
+   "tgmsg": 36,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMkavs88ijcv_2CEQIfIEXM4XinktQAArgiAAJ7qdlTjvqGMBWes-E9BA",
+   "added": "2026-11-16T17:27:06.850Z"
   }
  ],
  "lessons": {
