@@ -1,6 +1,16 @@
 {
- "version": 22,
+ "version": 23,
  "items": [
+  {
+   "id": "amwjk4wn9227",
+   "img": "ads/ad_amwjk4wn9227.jpg",
+   "title": "🚨 تنبيه هام",
+   "text": "💬 اضغط هنا للتواصل👇👇",
+   "link": "https://wa.me/qr/DHXMCIGQC3NWM1",
+   "popup": true,
+   "at": "2026-11-16T17:48:43.461Z",
+   "exp": "2026-11-23T17:48:43.461Z"
+  },
   {
    "id": "amwjb9jrs9xi",
    "img": "ads/ad_amwjb9jrs9xi.jpg",
