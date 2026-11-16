@@ -1,5 +1,5 @@
 {
- "version": 326,
+ "version": 327,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -666,6 +666,20 @@
    "tgmsg": 36,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMkavs88ijcv_2CEQIfIEXM4XinktQAArgiAAJ7qdlTjvqGMBWes-E9BA",
    "added": "2026-11-16T17:27:06.850Z"
+  },
+  {
+   "id": "fmwjlbqaiaug",
+   "subject": "physical_pharmacy",
+   "lesson": "l4",
+   "kind": "summary",
+   "title": "ترجمة المحاضرة",
+   "name": "physical_pharmacy_l4_summary_mwjlbqaiaug.pdf",
+   "ext": "pdf",
+   "size": 437528,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMlavtJy_7SpmPg3b0ZNTde42aA_aEAAyMAAnup2VNb5dkOZ30fDj0E",
+   "tgmsg": 37,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMlavtJy_7SpmPg3b0ZNTde42aA_aEAAyMAAnup2VNb5dkOZ30fDj0E",
+   "added": "2026-11-16T18:22:01.434Z"
   }
  ],
  "lessons": {
