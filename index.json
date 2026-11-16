@@ -1,5 +1,5 @@
 {
- "version": 331,
+ "version": 332,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -708,6 +708,20 @@
    "tgmsg": 39,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMnavtO-yrsxXKBFf-snRvaAAEQO6vAAAIeIwACe6nZU7PzCU_bcpTGPQQ",
    "added": "2026-11-16T18:44:09.338Z"
+  },
+  {
+   "id": "fmwjmcdxlntx",
+   "subject": "calculations",
+   "lesson": "",
+   "kind": "summary",
+   "title": "Pharmaceutical Calculations المرجع كامل",
+   "name": "calculations_gen_summary_mwjmcdxlntx.pdf",
+   "ext": "pdf",
+   "size": 19247754,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMoavtQe6Bc6WDivkqEZTX7TekHrU0AAi0jAAJ7qdlTDSeZGMOjt709BA",
+   "tgmsg": 40,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMoavtQe6Bc6WDivkqEZTX7TekHrU0AAi0jAAJ7qdlTDSeZGMOjt709BA",
+   "added": "2026-11-16T18:50:31.689Z"
   }
  ],
  "lessons": {
