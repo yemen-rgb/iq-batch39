@@ -1,5 +1,5 @@
 {
- "version": 339,
+ "version": 340,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -778,6 +778,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/394",
    "added": "2026-11-16T13:54:55.774Z"
+  },
+  {
+   "id": "fmwm360em0n7",
+   "subject": "calculations",
+   "lesson": "",
+   "kind": "summary",
+   "title": "مرجع تحويلات",
+   "name": "calculations_gen_summary_mwm360em0n7.pdf",
+   "ext": "pdf",
+   "size": 3084424,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMtav2XdtCKyheSNI1_-pD-1CsI2u8AArUhAAI9pfFThneqGW8qWqA9BA",
+   "tgmsg": 45,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMtav2XdtCKyheSNI1_-pD-1CsI2u8AArUhAAI9pfFThneqGW8qWqA9BA",
+   "added": "2026-11-18T12:17:00.046Z"
   }
  ],
  "lessons": {
