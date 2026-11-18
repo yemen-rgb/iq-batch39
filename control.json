@@ -1,5 +1,5 @@
 {
- "version": 124,
+ "version": 125,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -21,17 +21,6 @@
    "audience": "all",
    "urgent": false,
    "created_at": "2026-11-12T18:17:48.583Z",
-   "expires_at": null
-  },
-  {
-   "id": "nmwjapflick1w",
-   "title": "⚠️ إخلاء مسؤولية",
-   "body": "لاحظت اليوم الكثير من المسجلين في التطبيق الذين قاموا بإدخال البريد الجامعي بدلاً من رقم القيد؛ يُرجى التواصل معي فوراً لتصحيح البيانات، علماً بأنني أخلي مسؤوليتي تماماً عن أي تبعات تترتب على عدم المراجعة والتعديل.",
-   "kind": "circular",
-   "from": "admin",
-   "audience": "all",
-   "urgent": true,
-   "created_at": "2026-11-16T13:24:44.982Z",
    "expires_at": null
   },
   {
