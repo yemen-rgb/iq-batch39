@@ -1,5 +1,5 @@
 {
- "version": 340,
+ "version": 341,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -792,6 +792,20 @@
    "tgmsg": 45,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMtav2XdtCKyheSNI1_-pD-1CsI2u8AArUhAAI9pfFThneqGW8qWqA9BA",
    "added": "2026-11-18T12:17:00.046Z"
+  },
+  {
+   "id": "fmwmho84k4j6",
+   "subject": "arabic2",
+   "lesson": "l3",
+   "kind": "summary",
+   "title": "دروس البلاغه",
+   "name": "arabic2_l3_summary_mwmho84k4j6.pdf",
+   "ext": "pdf",
+   "size": 1570083,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
+   "tgmsg": 46,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
+   "added": "2026-11-18T19:03:04.484Z"
   }
  ],
  "lessons": {
