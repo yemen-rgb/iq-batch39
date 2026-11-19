@@ -1,12 +1,17 @@
 {
- "version": 4,
+ "version": 5,
  "questions": [],
  "lessons": [
   {
    "id": "l2",
    "name": "المحاضرة 1",
    "em": "👨‍🏫"
+  },
+  {
+   "id": "l3",
+   "name": "المحاضرة 2",
+   "em": "👨‍🏫"
   }
  ],
- "lseq": 2
+ "lseq": 3
 }
