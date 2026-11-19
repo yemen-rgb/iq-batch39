@@ -1,5 +1,5 @@
 {
- "version": 351,
+ "version": 352,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -849,7 +849,7 @@
    "id": "fmwnle4exmwm",
    "subject": "arabic2",
    "lesson": "l1",
-   "kind": "summary",
+   "kind": "audio",
    "title": "تسجيل المحاضرة الثالثة",
    "link": true,
    "ext": "",
