@@ -1,5 +1,5 @@
 {
- "version": 353,
+ "version": 354,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -796,18 +796,18 @@
    "added": "2026-11-18T12:17:00.046Z"
   },
   {
-   "id": "fmwmho84k4j6",
+   "id": "fmwnxcpx5pi0",
    "subject": "arabic2",
    "lesson": "l3",
    "kind": "summary",
-   "title": "دروس البلاغه",
-   "name": "arabic2_l3_summary_mwmho84k4j6.pdf",
+   "title": "مقرر البلاغة كاملاً",
+   "name": "arabic2_l3_summary_mwnxcpx5pi0.pdf",
    "ext": "pdf",
-   "size": 1570083,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
-   "tgmsg": 46,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
-   "added": "2026-11-18T19:03:04.484Z"
+   "size": 3277358,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "tgmsg": 48,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "added": "2026-11-19T19:09:47.705Z"
   },
   {
    "id": "fmwggnedrczp",
@@ -858,18 +858,18 @@
    "added": "2026-11-19T13:34:57.753Z"
   },
   {
-   "id": "fmwnxcpx5pi0",
+   "id": "fmwmho84k4j6",
    "subject": "arabic2",
    "lesson": "l3",
    "kind": "summary",
-   "title": "مقرر البلاغة كاملاً",
-   "name": "arabic2_l3_summary_mwnxcpx5pi0.pdf",
+   "title": "دروس البلاغه",
+   "name": "arabic2_l3_summary_mwmho84k4j6.pdf",
    "ext": "pdf",
-   "size": 3277358,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
-   "tgmsg": 48,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
-   "added": "2026-11-19T19:09:47.705Z"
+   "size": 1570083,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
+   "tgmsg": 46,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
+   "added": "2026-11-18T19:03:04.484Z"
   }
  ],
  "lessons": {
