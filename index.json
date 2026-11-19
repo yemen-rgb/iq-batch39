@@ -1,5 +1,5 @@
 {
- "version": 352,
+ "version": 353,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -856,6 +856,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/404",
    "added": "2026-11-19T13:34:57.753Z"
+  },
+  {
+   "id": "fmwnxcpx5pi0",
+   "subject": "arabic2",
+   "lesson": "l3",
+   "kind": "summary",
+   "title": "مقرر البلاغة كاملاً",
+   "name": "arabic2_l3_summary_mwnxcpx5pi0.pdf",
+   "ext": "pdf",
+   "size": 3277358,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "tgmsg": 48,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "added": "2026-11-19T19:09:47.705Z"
   }
  ],
  "lessons": {
