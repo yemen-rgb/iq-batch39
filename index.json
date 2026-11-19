@@ -1,5 +1,5 @@
 {
- "version": 349,
+ "version": 350,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -832,6 +832,18 @@
    "size": 0,
    "url": "https://t.me/ph39r/406",
    "added": "2026-11-19T13:31:37.478Z"
+  },
+  {
+   "id": "fmwnlc6ki21s",
+   "subject": "computer",
+   "lesson": "l3",
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/405",
+   "added": "2026-11-19T13:33:27.234Z"
   }
  ],
  "lessons": {
