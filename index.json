@@ -1,5 +1,5 @@
 {
- "version": 350,
+ "version": 351,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -844,6 +844,18 @@
    "size": 0,
    "url": "https://t.me/ph39r/405",
    "added": "2026-11-19T13:33:27.234Z"
+  },
+  {
+   "id": "fmwnle4exmwm",
+   "subject": "arabic2",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "تسجيل المحاضرة الثالثة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/404",
+   "added": "2026-11-19T13:34:57.753Z"
   }
  ],
  "lessons": {
