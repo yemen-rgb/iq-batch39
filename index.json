@@ -1,5 +1,5 @@
 {
- "version": 341,
+ "version": 342,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -806,6 +806,20 @@
    "tgmsg": 46,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
    "added": "2026-11-18T19:03:04.484Z"
+  },
+  {
+   "id": "fmwni4bpscvb",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "l2",
+   "kind": "summary",
+   "title": "تفريغ 🎙️",
+   "name": "physical_pharmacy_practical_l2_summary_mwni4bpscvb.pdf",
+   "ext": "pdf",
+   "size": 349916,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMvav7ljeUpguyDiQ75UVJbN89ee4MAAgQhAALVvflTzQsRw4Tiey09BA",
+   "tgmsg": 47,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMvav7ljeUpguyDiQ75UVJbN89ee4MAAgQhAALVvflTzQsRw4Tiey09BA",
+   "added": "2026-11-19T12:03:21.808Z"
   }
  ],
  "lessons": {
