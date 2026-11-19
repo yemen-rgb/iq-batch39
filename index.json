@@ -1,5 +1,5 @@
 {
- "version": 354,
+ "version": 355,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -254,18 +254,18 @@
    "tgmsg": 32
   },
   {
-   "id": "fmwdw2j0yjpg",
+   "id": "fmwnxcpx5pi0",
    "subject": "arabic2",
    "lesson": "l3",
-   "kind": "lecture",
-   "title": "صوره ٢",
-   "name": "arabic2_l3_other_mwdw2j0yjpg.jpg",
-   "ext": "jpg",
-   "size": 85661,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMLavoG-FpW9ZfBARL5UZXrcEWT2_AAAgskAAKOtNFT32x5zzwWSBw9BA",
-   "added": "2026-11-12T18:36:10.834Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMLavoG-FpW9ZfBARL5UZXrcEWT2_AAAgskAAKOtNFT32x5zzwWSBw9BA",
-   "tgmsg": 11
+   "kind": "summary",
+   "title": "مقرر البلاغة كاملاً",
+   "name": "arabic2_l3_summary_mwnxcpx5pi0.pdf",
+   "ext": "pdf",
+   "size": 3277358,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "tgmsg": 48,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "added": "2026-11-19T19:09:47.705Z"
   },
   {
    "id": "fmwet8m9qbrz",
@@ -796,18 +796,18 @@
    "added": "2026-11-18T12:17:00.046Z"
   },
   {
-   "id": "fmwnxcpx5pi0",
+   "id": "fmwdw2j0yjpg",
    "subject": "arabic2",
    "lesson": "l3",
-   "kind": "summary",
-   "title": "مقرر البلاغة كاملاً",
-   "name": "arabic2_l3_summary_mwnxcpx5pi0.pdf",
-   "ext": "pdf",
-   "size": 3277358,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
-   "tgmsg": 48,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
-   "added": "2026-11-19T19:09:47.705Z"
+   "kind": "lecture",
+   "title": "صوره ٢",
+   "name": "arabic2_l3_other_mwdw2j0yjpg.jpg",
+   "ext": "jpg",
+   "size": 85661,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMLavoG-FpW9ZfBARL5UZXrcEWT2_AAAgskAAKOtNFT32x5zzwWSBw9BA",
+   "added": "2026-11-12T18:36:10.834Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMLavoG-FpW9ZfBARL5UZXrcEWT2_AAAgskAAKOtNFT32x5zzwWSBw9BA",
+   "tgmsg": 11
   },
   {
    "id": "fmwggnedrczp",
