@@ -1,5 +1,5 @@
 {
- "version": 359,
+ "version": 360,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -100,18 +100,18 @@
    "tgmsg": 19
   },
   {
-   "id": "fmwaxpn0vgss",
+   "id": "fmwnxcpx5pi0",
    "subject": "arabic2",
    "lesson": "l3",
    "kind": "summary",
-   "title": "أنواع الاستعارة",
-   "name": "arabic2_gen_summary_mwaxpn0vgss.pdf",
+   "title": "مقرر البلاغة كاملاً",
+   "name": "arabic2_l3_summary_mwnxcpx5pi0.pdf",
    "ext": "pdf",
-   "size": 1427028,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMaavoHT9vBp9sI-6FZZpVAib2FkDcAAhokAAKOtNFTYxdnUPP1-3E9BA",
-   "added": "2026-11-10T16:58:50.191Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMaavoHT9vBp9sI-6FZZpVAib2FkDcAAhokAAKOtNFTYxdnUPP1-3E9BA",
-   "tgmsg": 26
+   "size": 3277358,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "tgmsg": 48,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
+   "added": "2026-11-19T19:09:47.705Z"
   },
   {
    "id": "fmwdsjc60muc",
@@ -128,18 +128,18 @@
    "tgmsg": 34
   },
   {
-   "id": "fmwnxcpx5pi0",
+   "id": "fmwaxpn0vgss",
    "subject": "arabic2",
    "lesson": "l3",
    "kind": "summary",
-   "title": "مقرر البلاغة كاملاً",
-   "name": "arabic2_l3_summary_mwnxcpx5pi0.pdf",
+   "title": "أنواع الاستعارة",
+   "name": "arabic2_gen_summary_mwaxpn0vgss.pdf",
    "ext": "pdf",
-   "size": 3277358,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
-   "tgmsg": 48,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMwav9Jf_UMxq2HHz5wlTP-TX9NzRUAAikiAALVvflTitYTM2dQyE89BA",
-   "added": "2026-11-19T19:09:47.705Z"
+   "size": 1427028,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMaavoHT9vBp9sI-6FZZpVAib2FkDcAAhokAAKOtNFTYxdnUPP1-3E9BA",
+   "added": "2026-11-10T16:58:50.191Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMaavoHT9vBp9sI-6FZZpVAib2FkDcAAhokAAKOtNFTYxdnUPP1-3E9BA",
+   "tgmsg": 26
   },
   {
    "id": "fmwdw4sk4bk4",
