@@ -1,5 +1,5 @@
 {
- "version": 364,
+ "version": 365,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -882,6 +882,20 @@
    "size": 0,
    "url": "https://youtu.be/sh-96_KfqgY",
    "added": "2026-11-21T15:35:35.556Z"
+  },
+  {
+   "id": "fmwqkrmzoefq",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "l4",
+   "kind": "summary",
+   "title": "تفريغ 🎙️",
+   "name": "physical_pharmacy_practical_l4_summary_mwqkrmzoefq.pdf",
+   "ext": "pdf",
+   "size": 2418240,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMxawG7gvPYr4WVTv5GPW6J96WwswcAAoEhAAJ8thBQs4OnniVlqLw9BA",
+   "tgmsg": 49,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMxawG7gvPYr4WVTv5GPW6J96WwswcAAoEhAAJ8thBQs4OnniVlqLw9BA",
+   "added": "2026-11-21T15:40:47.268Z"
   }
  ],
  "lessons": {
