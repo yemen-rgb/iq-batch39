@@ -1,5 +1,5 @@
 {
- "version": 365,
+ "version": 366,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -327,7 +327,7 @@
    "id": "fmwet9t60lgt",
    "subject": "physical_pharmacy_practical",
    "lesson": "l1",
-   "kind": "summary",
+   "kind": "other",
    "title": "A",
    "name": "physical_pharmacy_practical_l2_summary_mwet9t60lgt.pdf",
    "ext": "pdf",
