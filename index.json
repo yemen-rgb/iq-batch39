@@ -1,5 +1,5 @@
 {
- "version": 371,
+ "version": 372,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -16,18 +16,18 @@
    "tgmsg": 21
   },
   {
-   "id": "fmw3kkob8j2x",
+   "id": "fmwdwlkibz2a",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "lecture",
-   "title": "مقرر الاناتومي",
-   "name": "anatomy_l1_summary_mw3kkob8j2x.pdf",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
    "ext": "pdf",
-   "size": 2946143,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMeavoHZd9W4tgJzu6GEpzi-zMVAAEUAAIeJAACjrTRU2wVqFsnnPBlPQQ",
-   "added": "2026-11-05T13:16:40.340Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMeavoHZd9W4tgJzu6GEpzi-zMVAAEUAAIeJAACjrTRU2wVqFsnnPBlPQQ",
-   "tgmsg": 30
+   "size": 809486,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
+   "added": "2026-11-12T18:50:59.219Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
+   "tgmsg": 23
   },
   {
    "id": "fmwdwh1mn4p1",
@@ -114,18 +114,18 @@
    "added": "2026-11-19T19:09:47.705Z"
   },
   {
-   "id": "fmwdwlkibz2a",
+   "id": "fmw3kkob8j2x",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
+   "kind": "lecture",
+   "title": "مقرر الاناتومي",
+   "name": "anatomy_l1_summary_mw3kkob8j2x.pdf",
    "ext": "pdf",
-   "size": 809486,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
-   "added": "2026-11-12T18:50:59.219Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
-   "tgmsg": 23
+   "size": 2946143,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMeavoHZd9W4tgJzu6GEpzi-zMVAAEUAAIeJAACjrTRU2wVqFsnnPBlPQQ",
+   "added": "2026-11-05T13:16:40.340Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMeavoHZd9W4tgJzu6GEpzi-zMVAAEUAAIeJAACjrTRU2wVqFsnnPBlPQQ",
+   "tgmsg": 30
   },
   {
    "id": "fmwaxpn0vgss",
