@@ -1,5 +1,5 @@
 {
- "version": 368,
+ "version": 369,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -606,18 +606,18 @@
    "tgmsg": 20
   },
   {
-   "id": "fmwjmu2gvpba",
+   "id": "fmwqkrmzoefq",
    "subject": "physical_pharmacy_practical",
    "lesson": "l4",
-   "kind": "lecture",
-   "title": "تفريغ المحاضرة",
-   "name": "physical_pharmacy_practical_l4_lecture_mwjmu2gvpba.pdf",
+   "kind": "summary",
+   "title": "تفريغ 🎙️",
+   "name": "physical_pharmacy_practical_l4_summary_mwqkrmzoefq.pdf",
    "ext": "pdf",
-   "size": 2919259,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
-   "tgmsg": 42,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
-   "added": "2026-11-16T19:04:16.639Z"
+   "size": 2418240,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMxawG7gvPYr4WVTv5GPW6J96WwswcAAoEhAAJ8thBQs4OnniVlqLw9BA",
+   "tgmsg": 49,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMxawG7gvPYr4WVTv5GPW6J96WwswcAAoEhAAJ8thBQs4OnniVlqLw9BA",
+   "added": "2026-11-21T15:40:47.268Z"
   },
   {
    "id": "fmwjlbqaiaug",
@@ -744,18 +744,18 @@
    "added": "2026-11-16T18:56:51.144Z"
   },
   {
-   "id": "fmwqkrmzoefq",
+   "id": "fmwjmu2gvpba",
    "subject": "physical_pharmacy_practical",
    "lesson": "l4",
-   "kind": "summary",
-   "title": "تفريغ 🎙️",
-   "name": "physical_pharmacy_practical_l4_summary_mwqkrmzoefq.pdf",
+   "kind": "lecture",
+   "title": "تفريغ المحاضرة",
+   "name": "physical_pharmacy_practical_l4_lecture_mwjmu2gvpba.pdf",
    "ext": "pdf",
-   "size": 2418240,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMxawG7gvPYr4WVTv5GPW6J96WwswcAAoEhAAJ8thBQs4OnniVlqLw9BA",
-   "tgmsg": 49,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMxawG7gvPYr4WVTv5GPW6J96WwswcAAoEhAAJ8thBQs4OnniVlqLw9BA",
-   "added": "2026-11-21T15:40:47.268Z"
+   "size": 2919259,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
+   "tgmsg": 42,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMqavtTs071x03T2oyxaHm2eWk9YaoAAkYjAAJ7qdlTasjRkQUja389BA",
+   "added": "2026-11-16T19:04:16.639Z"
   },
   {
    "id": "fmwjmyzriwgo",
