@@ -1,5 +1,5 @@
 {
- "version": 375,
+ "version": 376,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -544,16 +544,18 @@
    "tgmsg": 24
   },
   {
-   "id": "fmwgigkpu6hf",
+   "id": "fmwqkvp63m79",
    "subject": "anatomy",
    "lesson": "l2",
-   "kind": "audio",
-   "title": "تسجيل المحاضرة",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://t.me/ph39r/373",
-   "added": "2026-11-14T14:38:30.114Z"
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "anatomy_l2_summary_mwqkvp63m79.pdf",
+   "ext": "pdf",
+   "size": 3789977,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMyawG8RFNLwLp5CSv281R9vtXBx8kAAoMhAAJ8thBQX2D8k0UXq1Q9BA",
+   "tgmsg": 50,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMyawG8RFNLwLp5CSv281R9vtXBx8kAAoMhAAJ8thBQX2D8k0UXq1Q9BA",
+   "added": "2026-11-21T15:43:56.715Z"
   },
   {
    "id": "fmwgikwtx0ul",
@@ -898,18 +900,16 @@
    "added": "2026-11-21T15:35:35.556Z"
   },
   {
-   "id": "fmwqkvp63m79",
+   "id": "fmwgigkpu6hf",
    "subject": "anatomy",
    "lesson": "l2",
-   "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "anatomy_l2_summary_mwqkvp63m79.pdf",
-   "ext": "pdf",
-   "size": 3789977,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMyawG8RFNLwLp5CSv281R9vtXBx8kAAoMhAAJ8thBQX2D8k0UXq1Q9BA",
-   "tgmsg": 50,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMyawG8RFNLwLp5CSv281R9vtXBx8kAAoMhAAJ8thBQX2D8k0UXq1Q9BA",
-   "added": "2026-11-21T15:43:56.715Z"
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/373",
+   "added": "2026-11-14T14:38:30.114Z"
   }
  ],
  "lessons": {
