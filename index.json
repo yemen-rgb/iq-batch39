@@ -1,5 +1,5 @@
 {
- "version": 369,
+ "version": 370,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -226,18 +226,18 @@
    "tgmsg": 29
   },
   {
-   "id": "fmwdwmlxoe5g",
+   "id": "fmwdwlkibz2a",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "other",
-   "title": "خريطة ذهنية",
-   "name": "anatomy_l1_other_mwdwmlxoe5g.pdf",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
    "ext": "pdf",
-   "size": 81861,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMKavoG9DZnxcQVqq5fY2RS-TrPGAkAAgokAAKOtNFTFF87NVSjwkg9BA",
-   "added": "2026-11-12T18:51:47.724Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMKavoG9DZnxcQVqq5fY2RS-TrPGAkAAgokAAKOtNFTFF87NVSjwkg9BA",
-   "tgmsg": 10
+   "size": 809486,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
+   "added": "2026-11-12T18:50:59.219Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
+   "tgmsg": 23
   },
   {
    "id": "fmwdwwghvkf9",
@@ -394,18 +394,18 @@
    "tgmsg": 27
   },
   {
-   "id": "fmwdwlkibz2a",
+   "id": "fmwdwmlxoe5g",
    "subject": "anatomy",
    "lesson": "l1",
-   "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
+   "kind": "other",
+   "title": "خريطة ذهنية",
+   "name": "anatomy_l1_other_mwdwmlxoe5g.pdf",
    "ext": "pdf",
-   "size": 809486,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
-   "added": "2026-11-12T18:50:59.219Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
-   "tgmsg": 23
+   "size": 81861,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMKavoG9DZnxcQVqq5fY2RS-TrPGAkAAgokAAKOtNFTFF87NVSjwkg9BA",
+   "added": "2026-11-12T18:51:47.724Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMKavoG9DZnxcQVqq5fY2RS-TrPGAkAAgokAAKOtNFTFF87NVSjwkg9BA",
+   "tgmsg": 10
   },
   {
    "id": "fmwgglp4b6dg",
