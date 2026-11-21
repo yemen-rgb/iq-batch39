@@ -1,5 +1,5 @@
 {
- "version": 363,
+ "version": 364,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -870,6 +870,18 @@
    "tgmsg": 46,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
    "added": "2026-11-18T19:03:04.484Z"
+  },
+  {
+   "id": "fmwqkkyh00ss",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "l4",
+   "kind": "video",
+   "title": "استخدام جهاز Melting Point",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://youtu.be/sh-96_KfqgY",
+   "added": "2026-11-21T15:35:35.556Z"
   }
  ],
  "lessons": {
