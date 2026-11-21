@@ -1,5 +1,5 @@
 {
- "version": 370,
+ "version": 371,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -114,18 +114,18 @@
    "added": "2026-11-19T19:09:47.705Z"
   },
   {
-   "id": "fmwdsjc60muc",
+   "id": "fmwdwlkibz2a",
    "subject": "anatomy",
    "lesson": "l1",
    "kind": "summary",
-   "title": "ترجمة تشريح الجزء الاول",
-   "name": "anatomy_l1_other_mwdsjc60muc.pdf",
+   "title": "ملخص المحاضرة",
+   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
    "ext": "pdf",
-   "size": 10060799,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMiavoHgemMxFOITN12DOdHZL0W_xgAAiIkAAKOtNFT8CYf6y6ZZA89BA",
-   "added": "2026-11-12T16:57:16.632Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMiavoHgemMxFOITN12DOdHZL0W_xgAAiIkAAKOtNFT8CYf6y6ZZA89BA",
-   "tgmsg": 34
+   "size": 809486,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
+   "added": "2026-11-12T18:50:59.219Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
+   "tgmsg": 23
   },
   {
    "id": "fmwaxpn0vgss",
@@ -226,18 +226,18 @@
    "tgmsg": 29
   },
   {
-   "id": "fmwdwlkibz2a",
+   "id": "fmwdsjc60muc",
    "subject": "anatomy",
    "lesson": "l1",
    "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "anatomy_l1_summary_mwdwlkibz2a.pdf",
+   "title": "ترجمة تشريح الجزء الاول",
+   "name": "anatomy_l1_other_mwdsjc60muc.pdf",
    "ext": "pdf",
-   "size": 809486,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
-   "added": "2026-11-12T18:50:59.219Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMXavoHPErfkdp4bkXfLjuS6fN85f8AAhckAAKOtNFTF7IenLaL2ko9BA",
-   "tgmsg": 23
+   "size": 10060799,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMiavoHgemMxFOITN12DOdHZL0W_xgAAiIkAAKOtNFT8CYf6y6ZZA89BA",
+   "added": "2026-11-12T16:57:16.632Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMiavoHgemMxFOITN12DOdHZL0W_xgAAiIkAAKOtNFT8CYf6y6ZZA89BA",
+   "tgmsg": 34
   },
   {
    "id": "fmwdwwghvkf9",
