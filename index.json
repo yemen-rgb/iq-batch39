@@ -1,5 +1,5 @@
 {
- "version": 378,
+ "version": 379,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -910,6 +910,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/373",
    "added": "2026-11-14T14:38:30.114Z"
+  },
+  {
+   "id": "fmwrvua8zv5z",
+   "subject": "physical_pharmacy_practical",
+   "lesson": "l5",
+   "kind": "lecture",
+   "title": "صور المحاضرة",
+   "name": "physical_pharmacy_practical_l5_lecture_mwrvua8zv5z.jpg",
+   "ext": "jpg",
+   "size": 256856,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMzawLwXOuVzfJOEo5xnggus5_2YTgAAhYoAAIVexhQO_cNdP4i3Hc9BA",
+   "tgmsg": 51,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMzawLwXOuVzfJOEo5xnggus5_2YTgAAhYoAAIVexhQO_cNdP4i3Hc9BA",
+   "added": "2026-11-22T13:38:32.675Z"
   }
  ],
  "lessons": {
