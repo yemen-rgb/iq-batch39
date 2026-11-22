@@ -1,5 +1,5 @@
 {
- "version": 37,
+ "version": 38,
  "days": {
   "2026-11-08": {
    "lectures": [
@@ -452,7 +452,32 @@
     "title": "إجازة",
     "note": ""
    }
+  },
+  "2026-11-23": {
+   "lectures": [
+    {
+     "subject": "english2",
+     "title": "المحاضرة الاولى",
+     "time": "08:00",
+     "end": "10:00",
+     "room": "مدرج واحد",
+     "doctor": "الهام",
+     "status": "normal",
+     "note": ""
+    },
+    {
+     "subject": "physical_pharmacy",
+     "title": "المحاضرة الثانية",
+     "time": "10:00",
+     "end": "12:00",
+     "room": "مدرج واحد",
+     "doctor": "عبدالولي الشرجبي",
+     "status": "normal",
+     "note": ""
+    }
+   ],
+   "holiday": null
   }
  },
- "updated": "2026-11-21T14:29:08.048Z"
+ "updated": "2026-11-22T13:24:26.966Z"
 }
