@@ -1,5 +1,5 @@
 {
- "version": 130,
+ "version": 131,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -32,17 +32,6 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-18T20:13:28.226Z",
-   "expires_at": null
-  },
-  {
-   "id": "nmwpabqhvpg78",
-   "title": "اختبار",
-   "body": "..",
-   "kind": "notice",
-   "from": "admin",
-   "audience": "all",
-   "urgent": true,
-   "created_at": "2026-11-20T18:00:42.979Z",
    "expires_at": null
   }
  ],
