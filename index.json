@@ -1,5 +1,5 @@
 {
- "version": 400,
+ "version": 401,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1002,6 +1002,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/431",
    "added": "2026-11-24T17:39:24.145Z"
+  },
+  {
+   "id": "fmwuzgnabag1",
+   "subject": "anatomy",
+   "lesson": "l3",
+   "kind": "summary",
+   "title": "ترجمة المحاضرة",
+   "name": "anatomy_l3_summary_mwuzgnabag1.pdf",
+   "ext": "pdf",
+   "size": 6634570,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM3awXMtI31r8EusJzn-4B6SdaaEkQAAnohAAJrhilQnDYvQAtQRnA9BA",
+   "tgmsg": 55,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM3awXMtI31r8EusJzn-4B6SdaaEkQAAnohAAJrhilQnDYvQAtQRnA9BA",
+   "added": "2026-11-24T17:43:13.379Z"
   }
  ],
  "lessons": {
