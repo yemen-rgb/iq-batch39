@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "questions": [
   {
    "id": 1,
@@ -39,6 +39,476 @@
    "answer": 1,
    "explanation": "",
    "deleted": true
+  },
+  {
+   "id": 4,
+   "q": "She usually ______ a letter to her friend once a week.",
+   "options": [
+    "write",
+    "writes",
+    "wrote",
+    "writing"
+   ],
+   "answer": 1,
+   "explanation": "In the Simple Present, third-person singular subjects (she/he/it) add -s to the verb (writes) for routine actions indicated by 'usually'."
+  },
+  {
+   "id": 5,
+   "q": "He ______ at the gym every morning.",
+   "options": [
+    "exercise",
+    "exercised",
+    "exercises",
+    "is exercising"
+   ],
+   "answer": 2,
+   "explanation": "'Every morning' signals a habitual routine. 'He' takes the third-person singular verb ending -s (exercises)."
+  },
+  {
+   "id": 6,
+   "q": "Water ______ at 100 degrees Celsius.",
+   "options": [
+    "boil",
+    "boils",
+    "boiled",
+    "boiling"
+   ],
+   "answer": 1,
+   "explanation": "General scientific facts use the Simple Present. 'Water' is an uncountable (singular) noun, requiring boils."
+  },
+  {
+   "id": 7,
+   "q": "He ______ in Sana'a.",
+   "options": [
+    "live",
+    "lives",
+    "lived",
+    "living"
+   ],
+   "answer": 1,
+   "explanation": "Permanent situations use the Simple Present tense with third-person singular -s (lives)."
+  },
+  {
+   "id": 8,
+   "q": "The sun ______ in the east.",
+   "options": [
+    "rise",
+    "rises",
+    "rose",
+    "rising"
+   ],
+   "answer": 1,
+   "explanation": "General facts about nature require the Simple Present singular verb form (rises)."
+  },
+  {
+   "id": 9,
+   "q": "She ______ football on weekdays.",
+   "options": [
+    "do not play",
+    "does not play",
+    "did not played",
+    "does not plays"
+   ],
+   "answer": 1,
+   "explanation": "Negative Simple Present sentences for 'she' use does not followed by the base verb (play)."
+  },
+  {
+   "id": 10,
+   "q": "They ______ dinner together as a family each night when they are busy.",
+   "options": [
+    "does not eat",
+    "do not eat",
+    "did not ate",
+    "not eat"
+   ],
+   "answer": 1,
+   "explanation": "Plural subjects ('they') use do not + base verb (eat) in Simple Present negative forms."
+  },
+  {
+   "id": 11,
+   "q": "______ she write a letter every Monday?",
+   "options": [
+    "Do",
+    "Does",
+    "Did",
+    "Is"
+   ],
+   "answer": 1,
+   "explanation": "Yes/No questions in the Present Simple with 'she' start with the auxiliary verb Does."
+  },
+  {
+   "id": 12,
+   "q": "______ he play football once a week?",
+   "options": [
+    "Do",
+    "Does",
+    "Did",
+    "Has"
+   ],
+   "answer": 1,
+   "explanation": "Habitual question forms with 'he' require auxiliary Does."
+  },
+  {
+   "id": 13,
+   "q": "Where ______ they work?",
+   "options": [
+    "does",
+    "do",
+    "did",
+    "working"
+   ],
+   "answer": 1,
+   "explanation": "WH-questions for present routines with plural subject 'they' use auxiliary do (Where do they work?)."
+  },
+  {
+   "id": 14,
+   "q": "What time ______ he usually exercise every morning?",
+   "options": [
+    "do",
+    "does",
+    "did",
+    "is"
+   ],
+   "answer": 1,
+   "explanation": "WH-question auxiliary for singular 'he' in present routine is does."
+  },
+  {
+   "id": 15,
+   "q": "They ______ eat dinner together as a family each night.",
+   "options": [
+    "usually",
+    "yesterday",
+    "last week",
+    "ago"
+   ],
+   "answer": 0,
+   "explanation": "Usually is an adverb of frequency used between the subject and verb in Simple Present."
+  },
+  {
+   "id": 16,
+   "q": "She ______ Mekkah last summer.",
+   "options": [
+    "visit",
+    "visits",
+    "visited",
+    "visiting"
+   ],
+   "answer": 2,
+   "explanation": "'Last summer' specifies a completed past action. Regular verbs form the past tense by adding -ed (visited)."
+  },
+  {
+   "id": 17,
+   "q": "We ______ our project two days ago.",
+   "options": [
+    "finish",
+    "finishes",
+    "finished",
+    "finishing"
+   ],
+   "answer": 2,
+   "explanation": "'Two days ago' requires the regular past tense form finished."
+  },
+  {
+   "id": 18,
+   "q": "They ______ at 3 p.m. yesterday.",
+   "options": [
+    "meet",
+    "meets",
+    "met",
+    "meeting"
+   ],
+   "answer": 2,
+   "explanation": "'Meet' is an irregular verb. Its Simple Past (V2) form for completed actions yesterday is met."
+  },
+  {
+   "id": 19,
+   "q": "She ______ a letter yesterday afternoon.",
+   "options": [
+    "write",
+    "wrote",
+    "writes",
+    "written"
+   ],
+   "answer": 1,
+   "explanation": "'Write' is irregular. The past tense V2 form for a completed action yesterday is wrote."
+  },
+  {
+   "id": 20,
+   "q": "He ______ football yesterday.",
+   "options": [
+    "does not play",
+    "did not play",
+    "did not played",
+    "not played"
+   ],
+   "answer": 1,
+   "explanation": "Simple Past negative forms use did not + base verb (play), never the double past form."
+  },
+  {
+   "id": 21,
+   "q": "She ______ write a letter last night.",
+   "options": [
+    "does not",
+    "did not",
+    "did not wrote",
+    "is not"
+   ],
+   "answer": 1,
+   "explanation": "Negative completed past actions require auxiliary did not followed by base verb (write)."
+  },
+  {
+   "id": 22,
+   "q": "______ she write a letter yesterday?",
+   "options": [
+    "Does",
+    "Did",
+    "Do",
+    "Was"
+   ],
+   "answer": 1,
+   "explanation": "Yes/No questions for past events use auxiliary Did."
+  },
+  {
+   "id": 23,
+   "q": "______ he play football during the match last Sunday?",
+   "options": [
+    "Did",
+    "Does",
+    "Do",
+    "Is"
+   ],
+   "answer": 0,
+   "explanation": "'Last Sunday' requires auxiliary Did for past question formation."
+  },
+  {
+   "id": 24,
+   "q": "What time ______ she call you this morning?",
+   "options": [
+    "does",
+    "did",
+    "do",
+    "calls"
+   ],
+   "answer": 1,
+   "explanation": "WH-question auxiliary for a specific completed past time is did."
+  },
+  {
+   "id": 25,
+   "q": "Where ______ they meet at 3 p.m. yesterday?",
+   "options": [
+    "do",
+    "did",
+    "does",
+    "was"
+   ],
+   "answer": 1,
+   "explanation": "Past event WH-questions use auxiliary did + subject + base verb."
+  },
+  {
+   "id": 26,
+   "q": "Yesterday, my father ______ tea instead of coffee.",
+   "options": [
+    "drink",
+    "drinks",
+    "drank",
+    "drinking"
+   ],
+   "answer": 2,
+   "explanation": "'Drink' is an irregular verb. The past V2 form for yesterday's action is drank."
+  },
+  {
+   "id": 27,
+   "q": "He usually walks to work, but yesterday he ______ the bus.",
+   "options": [
+    "take",
+    "takes",
+    "took",
+    "taking"
+   ],
+   "answer": 2,
+   "explanation": "Contrasting present habit with past event: 'take' becomes irregular past took."
+  },
+  {
+   "id": 28,
+   "q": "They ______ their grandparents every summer, but last year they ______ to the beach instead.",
+   "options": [
+    "visit / go",
+    "visited / went",
+    "visit / went",
+    "visits / going"
+   ],
+   "answer": 2,
+   "explanation": "'Every summer' takes Present Simple (visit), while 'last year' takes Past Simple irregular (went)."
+  },
+  {
+   "id": 29,
+   "q": "Yemen is located in the northern part of the Arabian Peninsula.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 30,
+   "q": "Yemen had no role in trading items like frankincense, myrrh, and spices.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 31,
+   "q": "In 1990, Yemen unified after being divided into North and South Yemen.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 32,
+   "q": "Yemen's location at the entrance to the Red Sea is important for global shipping.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 33,
+   "q": "Yemen's strategic importance has decreased over time.",
+   "options": [
+    "True",
+    "False"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 34,
+   "q": "Choose the closest meaning to: Strategic",
+   "options": [
+    "Unimportant",
+    "Unnecessary",
+    "Important",
+    "Outdated"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 35,
+   "q": "Choose the closest meaning to: Trade",
+   "options": [
+    "Playing games",
+    "Buying and selling goods",
+    "Playing sports",
+    "Teaching and learning"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 36,
+   "q": "Choose the closest meaning to: Control",
+   "options": [
+    "Trade between countries",
+    "Change in direction",
+    "Destruction of ships",
+    "Power over something"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "id": 37,
+   "q": "Choose the closest meaning to: Peninsula",
+   "options": [
+    "A large island",
+    "A land between mountains",
+    "A land with water on all sides",
+    "A land with water on most sides"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "id": 38,
+   "q": "Choose the closest meaning to: Wealth",
+   "options": [
+    "Poverty",
+    "Scarcity",
+    "Richness",
+    "Deficiency"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 39,
+   "q": "Choose the closest meaning to: Key",
+   "options": [
+    "Minor",
+    "Essential",
+    "Unimportant",
+    "Optional"
+   ],
+   "answer": 1,
+   "explanation": ""
+  },
+  {
+   "id": 40,
+   "q": "Choose the closest meaning to: Role",
+   "options": [
+    "Function",
+    "Direction",
+    "Objection",
+    "Location"
+   ],
+   "answer": 0,
+   "explanation": ""
+  },
+  {
+   "id": 41,
+   "q": "Choose the closest meaning to: Unified",
+   "options": [
+    "Divided into parts",
+    "Separated from others",
+    "Changed its borders",
+    "Joined into one"
+   ],
+   "answer": 3,
+   "explanation": ""
+  },
+  {
+   "id": 42,
+   "q": "Choose the closest meaning to: Heritage",
+   "options": [
+    "New inventions",
+    "Modern technology",
+    "Culture and traditions",
+    "Physical changes"
+   ],
+   "answer": 2,
+   "explanation": ""
+  },
+  {
+   "id": 43,
+   "q": "Choose the closest meaning to: Significant",
+   "options": [
+    "Unimportant",
+    "Very important",
+    "Extremely common",
+    "Easily forgotten"
+   ],
+   "answer": 1,
+   "explanation": ""
   }
  ],
  "lessons": [
