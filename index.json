@@ -1,5 +1,5 @@
 {
- "version": 396,
+ "version": 397,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -826,18 +826,18 @@
    "added": "2026-11-14T13:47:49.263Z"
   },
   {
-   "id": "fmwuz2osrvmg",
+   "id": "fmwuz6gp6w1f",
    "subject": "anatomy",
    "lesson": "l3",
-   "kind": "lecture",
-   "title": "مقرر المحاضرة",
-   "name": "anatomy_l3_lecture_mwuz2osrvmg.pdf",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "anatomy_l3_summary_mwuz6gp6w1f.pdf",
    "ext": "pdf",
-   "size": 3418105,
-   "tg": "BQACAgQAAyEGAATpAgXVAAM0awXKdbiixPgOCDPxg7BpVKGzEcMAAnIhAAJrhilQ6hw91Dyp9iU9BA",
-   "tgmsg": 52,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAM0awXKdbiixPgOCDPxg7BpVKGzEcMAAnIhAAJrhilQ6hw91Dyp9iU9BA",
-   "added": "2026-11-24T17:32:22.155Z"
+   "size": 3096534,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM1awXK2jdJA7jDTrr7KpnnJOCnaXYAAnQhAAJrhilQMzCUcb3HPFQ9BA",
+   "tgmsg": 53,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM1awXK2jdJA7jDTrr7KpnnJOCnaXYAAnQhAAJrhilQMzCUcb3HPFQ9BA",
+   "added": "2026-11-24T17:35:18.282Z"
   },
   {
    "id": "fmwnlc6ki21s",
@@ -952,18 +952,18 @@
    "added": "2026-11-22T13:42:31.646Z"
   },
   {
-   "id": "fmwuz6gp6w1f",
+   "id": "fmwuz2osrvmg",
    "subject": "anatomy",
    "lesson": "l3",
-   "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "anatomy_l3_summary_mwuz6gp6w1f.pdf",
+   "kind": "lecture",
+   "title": "مقرر المحاضرة",
+   "name": "anatomy_l3_lecture_mwuz2osrvmg.pdf",
    "ext": "pdf",
-   "size": 3096534,
-   "tg": "BQACAgQAAyEGAATpAgXVAAM1awXK2jdJA7jDTrr7KpnnJOCnaXYAAnQhAAJrhilQMzCUcb3HPFQ9BA",
-   "tgmsg": 53,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAM1awXK2jdJA7jDTrr7KpnnJOCnaXYAAnQhAAJrhilQMzCUcb3HPFQ9BA",
-   "added": "2026-11-24T17:35:18.282Z"
+   "size": 3418105,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM0awXKdbiixPgOCDPxg7BpVKGzEcMAAnIhAAJrhilQ6hw91Dyp9iU9BA",
+   "tgmsg": 52,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM0awXKdbiixPgOCDPxg7BpVKGzEcMAAnIhAAJrhilQ6hw91Dyp9iU9BA",
+   "added": "2026-11-24T17:32:22.155Z"
   },
   {
    "id": "fmwnl9tvqeaf",
