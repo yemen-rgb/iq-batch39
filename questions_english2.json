@@ -1,5 +1,5 @@
 {
- "version": 8,
+ "version": 9,
  "questions": [
   {
    "id": 1,
@@ -549,6 +549,717 @@
    "answer": 1,
    "explanation": "",
    "t": "l2"
+  },
+  {
+   "id": 44,
+   "q": "Vocabulary - Closest meaning to: Artificial",
+   "options": [
+    "Natural",
+    "Automatic",
+    "Man-made",
+    "Real"
+   ],
+   "answer": 2,
+   "explanation": "Artificial means man-made rather than natural."
+  },
+  {
+   "id": 45,
+   "q": "Vocabulary - Closest meaning to: Advanced",
+   "options": [
+    "Highly developed",
+    "Basic and limited",
+    "Very simple",
+    "Old-fashioned"
+   ],
+   "answer": 0,
+   "explanation": "Advanced means highly developed."
+  },
+  {
+   "id": 46,
+   "q": "Vocabulary - Closest meaning to: Tasks",
+   "options": [
+    "Duties",
+    "Games",
+    "Feelings",
+    "Rules"
+   ],
+   "answer": 0,
+   "explanation": "Tasks refers to duties or work to be done."
+  },
+  {
+   "id": 47,
+   "q": "Vocabulary - Closest meaning to: Recognize",
+   "options": [
+    "Forget",
+    "Identify",
+    "Build",
+    "Reject"
+   ],
+   "answer": 1,
+   "explanation": "Recognize means to identify something previously known or encountered."
+  },
+  {
+   "id": 48,
+   "q": "Vocabulary - Closest meaning to: Speech",
+   "options": [
+    "Writing",
+    "Reading",
+    "Talking",
+    "Listening"
+   ],
+   "answer": 2,
+   "explanation": "Speech refers to talking or spoken language."
+  },
+  {
+   "id": 49,
+   "q": "Vocabulary - Closest meaning to: Program",
+   "options": [
+    "Computer accessory",
+    "Computer game",
+    "A set of instructions",
+    "An electronic device"
+   ],
+   "answer": 2,
+   "explanation": "A program is a set of instructions written for a computer."
+  },
+  {
+   "id": 50,
+   "q": "Vocabulary - Closest meaning to: Adapt",
+   "options": [
+    "Do a difficult task",
+    "Follow a fixed instruction",
+    "Adjust to new conditions",
+    "Learn new information"
+   ],
+   "answer": 2,
+   "explanation": "Adapt means to adjust to new conditions."
+  },
+  {
+   "id": 51,
+   "q": "Vocabulary - Closest meaning to: Data",
+   "options": [
+    "Numbers and facts",
+    "Devices and equipment",
+    "Powers and energies",
+    "Machines and tools"
+   ],
+   "answer": 0,
+   "explanation": "Data refers to information such as numbers and facts."
+  },
+  {
+   "id": 52,
+   "q": "Vocabulary - Closest meaning to: Understand",
+   "options": [
+    "Confuse",
+    "Describe",
+    "Ignore",
+    "Know"
+   ],
+   "answer": 3,
+   "explanation": "Understand means to comprehend or know the meaning."
+  },
+  {
+   "id": 53,
+   "q": "Vocabulary - Closest meaning to: Capable",
+   "options": [
+    "Unwilling to do something",
+    "Able to do something",
+    "Dependent on others",
+    "Weak and ineffective"
+   ],
+   "answer": 1,
+   "explanation": "Capable means able to do something."
+  },
+  {
+   "id": 54,
+   "q": "Which sentence correctly follows the affirmative form Subject + will + base verb?",
+   "options": [
+    "She will helps me with my project.",
+    "She'll help me with my project.",
+    "She will helping me with my project.",
+    "She'll to help me with my project."
+   ],
+   "answer": 1,
+   "explanation": "Will is followed directly by the base verb (help) without -s, -ing, or to."
+  },
+  {
+   "id": 55,
+   "q": "What is the correct negative sentence structure for will?",
+   "options": [
+    "Subject + not will + base verb",
+    "Subject + don't will + base verb",
+    "Subject + will not (won't) + base verb",
+    "Subject + won't to + base verb"
+   ],
+   "answer": 2,
+   "explanation": "The negative structure is Subject + will not (won't) + base verb."
+  },
+  {
+   "id": 56,
+   "q": "Which of the following is a correct question form using will?",
+   "options": [
+    "Will you coming tomorrow?",
+    "Do you will come tomorrow?",
+    "Will you come tomorrow?",
+    "You will come tomorrow?"
+   ],
+   "answer": 2,
+   "explanation": "Questions with will invert the subject and auxiliary: Will + subject + base verb?"
+  },
+  {
+   "id": 57,
+   "q": "Select the correct short affirmative answer to: \"Will she call me?\"",
+   "options": [
+    "Yes, she is.",
+    "Yes, she will.",
+    "Yes, she does.",
+    "Yes, she will call."
+   ],
+   "answer": 1,
+   "explanation": "The short affirmative answer pattern is Yes, [subject] + will."
+  },
+  {
+   "id": 58,
+   "q": "Choose the correct negative short answer for: \"Will they stay here?\"",
+   "options": [
+    "No, they don't.",
+    "No, they isn't.",
+    "No, they won't.",
+    "No, they not will."
+   ],
+   "answer": 2,
+   "explanation": "The short negative answer pattern is No, [subject] + won't."
+  },
+  {
+   "id": 59,
+   "q": "Speaker A: \"Oh, it's raining!\" / Speaker B: \"I ______ an umbrella then.\" (Instant decision)",
+   "options": [
+    "am taking",
+    "will take",
+    "take",
+    "taken"
+   ],
+   "answer": 1,
+   "explanation": "Spontaneous decisions made at the moment of speaking take will + base verb."
+  },
+  {
+   "id": 60,
+   "q": "Speaker A: \"The door is unlocked.\" / Speaker B: \"I ______ it right now.\"",
+   "options": [
+    "will lock",
+    "am locking",
+    "locked",
+    "lock"
+   ],
+   "answer": 0,
+   "explanation": "An instant reaction to new information uses will lock."
+  },
+  {
+   "id": 61,
+   "q": "Speaker A: \"The room is dirty.\" / Speaker B: \"I ______ it.\"",
+   "options": [
+    "clean",
+    "am cleaning",
+    "will clean",
+    "cleaned"
+   ],
+   "answer": 2,
+   "explanation": "Deciding to clean upon noticing the situation uses will clean."
+  },
+  {
+   "id": 62,
+   "q": "Why do we use will in: \"A: I'm hungry. B: I'll make a sandwich.\"?",
+   "options": [
+    "To describe a fixed plan made days ago.",
+    "To express a decision made at the moment of speaking.",
+    "To express a past habit.",
+    "To ask for permission."
+   ],
+   "answer": 1,
+   "explanation": "Responding immediately to someone's hunger is an instant decision made while speaking."
+  },
+  {
+   "id": 63,
+   "q": "Which of the following expressions is commonly used with will to signal a prediction?",
+   "options": [
+    "Yesterday",
+    "I think",
+    "Last night",
+    "Right now"
+   ],
+   "answer": 1,
+   "explanation": "Phrases like I think, probably, maybe, and I'm sure introduce predictions with will."
+  },
+  {
+   "id": 64,
+   "q": "Complete the prediction: \"I think our team ______ the match.\"",
+   "options": [
+    "wins",
+    "will win",
+    "is winning",
+    "won"
+   ],
+   "answer": 1,
+   "explanation": "Predictions following I think use will + base verb."
+  },
+  {
+   "id": 65,
+   "q": "Complete the sentence with the correct negative form: \"He probably ______ come to the party.\"",
+   "options": [
+    "doesn't",
+    "isn't",
+    "won't",
+    "haven't"
+   ],
+   "answer": 2,
+   "explanation": "Negative predictions with adverbs like probably use won't + base verb."
+  },
+  {
+   "id": 66,
+   "q": "Which sentence correctly represents a prediction using maybe?",
+   "options": [
+    "Maybe they will come later.",
+    "Maybe they are come later.",
+    "Maybe they comes later.",
+    "Maybe they will coming later."
+   ],
+   "answer": 0,
+   "explanation": "Predictions with maybe take will + base verb."
+  },
+  {
+   "id": 67,
+   "q": "Select the prediction expressing certainty (I'm sure):",
+   "options": [
+    "I'm sure she will pass the exam.",
+    "She is passing the exam right now.",
+    "She passes the exam yesterday.",
+    "I'm sure she to pass the exam."
+   ],
+   "answer": 0,
+   "explanation": "Expressing prediction certainty takes I'm sure + subject + will + base verb."
+  },
+  {
+   "id": 68,
+   "q": "Which sentence expresses a promise?",
+   "options": [
+    "I am meeting Saleh at 3:00 p.m.",
+    "I will study harder.",
+    "Are you having dinner with us?",
+    "We are flying to Paris next Monday."
+   ],
+   "answer": 1,
+   "explanation": "Commitments to future behavior express a promise."
+  },
+  {
+   "id": 69,
+   "q": "\"Don't worry, I won't tell anyone your secret.\" This sentence is an example of a:",
+   "options": [
+    "Fixed arrangement",
+    "Promise",
+    "Past habit",
+    "General rule"
+   ],
+   "answer": 1,
+   "explanation": "Promising confidentiality with won't is a promise."
+  },
+  {
+   "id": 70,
+   "q": "Speaker A: \"The bag looks heavy.\" / Speaker B: \"I'll ______ it for you.\" (Offer)",
+   "options": [
+    "carrying",
+    "carried",
+    "carry",
+    "to carry"
+   ],
+   "answer": 2,
+   "explanation": "Offers use I'll + base verb (carry)."
+  },
+  {
+   "id": 71,
+   "q": "Speaker A: \"I don't have a ride.\" / Speaker B: \"I'll ______ you home.\"",
+   "options": [
+    "driving",
+    "drive",
+    "drove",
+    "drives"
+   ],
+   "answer": 1,
+   "explanation": "Offering help uses I'll + base verb (drive)."
+  },
+  {
+   "id": 72,
+   "q": "Speaker A: \"I'm thirsty.\" / Speaker B: \"______ get you a glass of water.\"",
+   "options": [
+    "I'll",
+    "I am",
+    "I do",
+    "I was"
+   ],
+   "answer": 0,
+   "explanation": "Offering assistance spontaneously uses I'll."
+  },
+  {
+   "id": 73,
+   "q": "When do we use the Present Continuous (am/is/are + verb-ing) for the future?",
+   "options": [
+    "For instant decisions made while talking.",
+    "For fixed future plans or arrangements (with specific person, time, or place).",
+    "For general predictions with I think.",
+    "For offers to help someone."
+   ],
+   "answer": 1,
+   "explanation": "Present Continuous is used for fixed arrangements already planned with specific details."
+  },
+  {
+   "id": 74,
+   "q": "\"We ______ to Paris next Monday. Our tickets are already booked.\" Which form shows a fixed arrangement?",
+   "options": [
+    "will fly",
+    "fly",
+    "are flying",
+    "flew"
+   ],
+   "answer": 2,
+   "explanation": "Already booked tickets signal a fixed arrangement, taking are flying."
+  },
+  {
+   "id": 75,
+   "q": "\"I ______ Saleh at the airport at 3:00 p.m. tomorrow.\" Choose the correct fixed plan form:",
+   "options": [
+    "am meeting",
+    "will meeting",
+    "meets",
+    "met"
+   ],
+   "answer": 0,
+   "explanation": "A planned meeting at a set time and location requires Present Continuous (am meeting)."
+  },
+  {
+   "id": 76,
+   "q": "Which negative sentence correctly expresses a fixed plan for this evening?",
+   "options": [
+    "He won't coming to the party this evening.",
+    "He isn't coming to the party this evening.",
+    "He not coming to the party this evening.",
+    "He isn't come to the party this evening."
+   ],
+   "answer": 1,
+   "explanation": "Negative fixed arrangement structure: Subject + am/is/are + not + verb-ing."
+  },
+  {
+   "id": 77,
+   "q": "Select the correct question form for a fixed future arrangement tonight:",
+   "options": [
+    "Will you doing tonight?",
+    "What are you doing tonight?",
+    "What do you tonight?",
+    "What will you doing tonight?"
+   ],
+   "answer": 1,
+   "explanation": "Arrangement questions use Am/Is/Are + subject + verb-ing?"
+  },
+  {
+   "id": 78,
+   "q": "Which sentence describes a spontaneous decision rather than a fixed plan?",
+   "options": [
+    "I am meeting my doctor at 10:00 a.m. tomorrow.",
+    "The room is dirty. I will clean it.",
+    "We are flying to London next week.",
+    "She isn't working tomorrow."
+   ],
+   "answer": 1,
+   "explanation": "Deciding to clean upon seeing a dirty room is a spontaneous decision (will clean)."
+  },
+  {
+   "id": 79,
+   "q": "A: I'm thirsty. B: I ______ you some water. (get)",
+   "options": [
+    "will get",
+    "am getting",
+    "get",
+    "got"
+   ],
+   "answer": 0,
+   "explanation": "Instant offer/decision at the moment of speaking uses will get."
+  },
+  {
+   "id": 80,
+   "q": "I ______ Sarah at 6:00 tomorrow. (meet)",
+   "options": [
+    "will meet",
+    "am meeting",
+    "meet",
+    "met"
+   ],
+   "answer": 1,
+   "explanation": "A scheduled meeting at a specific time tomorrow uses Present Continuous (am meeting)."
+  },
+  {
+   "id": 81,
+   "q": "They ______ a new house next year. They have already made the plans. (buy)",
+   "options": [
+    "will buy",
+    "are buying",
+    "buy",
+    "bought"
+   ],
+   "answer": 1,
+   "explanation": "Already made plans point to a fixed arrangement using are buying."
+  },
+  {
+   "id": 82,
+   "q": "I think our team ______ the game. (win)",
+   "options": [
+    "is winning",
+    "will win",
+    "wins",
+    "won"
+   ],
+   "answer": 1,
+   "explanation": "Predictions with I think use will win."
+  },
+  {
+   "id": 83,
+   "q": "We ______ to Aden next weekend. We already have our tickets. (travel)",
+   "options": [
+    "will travel",
+    "are traveling",
+    "travel",
+    "traveled"
+   ],
+   "answer": 1,
+   "explanation": "Already having tickets indicates a fixed arrangement: are traveling."
+  },
+  {
+   "id": 84,
+   "q": "Don't worry. I ______ you. (help)",
+   "options": [
+    "am helping",
+    "will help",
+    "help",
+    "helped"
+   ],
+   "answer": 1,
+   "explanation": "Reassuring someone with a promise/offer uses will help."
+  },
+  {
+   "id": 85,
+   "q": "She ______ dinner with her parents tonight. (have)",
+   "options": [
+    "will have",
+    "is having",
+    "has",
+    "had"
+   ],
+   "answer": 1,
+   "explanation": "A fixed evening arrangement with family uses Present Continuous (is having)."
+  },
+  {
+   "id": 86,
+   "q": "Maybe it ______ tomorrow. (rain)",
+   "options": [
+    "is raining",
+    "will rain",
+    "rains",
+    "rained"
+   ],
+   "answer": 1,
+   "explanation": "Predictions introduced by maybe use will rain."
+  },
+  {
+   "id": 87,
+   "q": "The doorbell is ringing. I ______ the door. (open)",
+   "options": [
+    "am opening",
+    "will open",
+    "open",
+    "opened"
+   ],
+   "answer": 1,
+   "explanation": "Reacting immediately to the doorbell uses will open."
+  },
+  {
+   "id": 88,
+   "q": "Look at those dark clouds! It ______ soon. (rain)",
+   "options": [
+    "is raining",
+    "will rain",
+    "rains",
+    "rained"
+   ],
+   "answer": 1,
+   "explanation": "Future prediction uses will rain."
+  },
+  {
+   "id": 89,
+   "q": "These bags are very heavy. I ______ you.",
+   "options": [
+    "am helping",
+    "helped",
+    "will help",
+    "help"
+   ],
+   "answer": 2,
+   "explanation": "Offering immediate help uses will help."
+  },
+  {
+   "id": 90,
+   "q": "You need a pen. Here you are. I ______ you mine.",
+   "options": [
+    "am giving",
+    "gave",
+    "give",
+    "will give"
+   ],
+   "answer": 3,
+   "explanation": "Offering a pen on the spot uses will give."
+  },
+  {
+   "id": 91,
+   "q": "A: Where are you going tomorrow? B: I ______ my friend at the café at 5 p.m.",
+   "options": [
+    "am meeting",
+    "will meet",
+    "met",
+    "meet"
+   ],
+   "answer": 0,
+   "explanation": "A planned meeting at a specific time and place uses am meeting."
+  },
+  {
+   "id": 92,
+   "q": "A: What are you doing tonight? B: I ______ dinner at my friend's house.",
+   "options": [
+    "will have",
+    "am having",
+    "had",
+    "have"
+   ],
+   "answer": 1,
+   "explanation": "A fixed arrangement for tonight uses Present Continuous (am having)."
+  },
+  {
+   "id": 93,
+   "q": "Sarah studies very hard. I think she ______ the exam.",
+   "options": [
+    "will pass",
+    "is passing",
+    "passes",
+    "passed"
+   ],
+   "answer": 0,
+   "explanation": "A prediction following I think uses will pass."
+  },
+  {
+   "id": 94,
+   "q": "A: Are you free tonight? B: No. I ______ dinner with my parents.",
+   "options": [
+    "will have",
+    "have",
+    "am having",
+    "had"
+   ],
+   "answer": 2,
+   "explanation": "Having a fixed arrangement tonight takes am having."
+  },
+  {
+   "id": 95,
+   "q": "A: Do you think John will like the present? B: Yes, I'm sure he ______ it.",
+   "options": [
+    "likes",
+    "liked",
+    "is liking",
+    "will like"
+   ],
+   "answer": 3,
+   "explanation": "Predictions with I'm sure use will like."
+  },
+  {
+   "id": 96,
+   "q": "A: Are you going to the party tonight? B: Yes. I ______ there with Ahmed.",
+   "options": [
+    "am going",
+    "will go",
+    "went",
+    "go"
+   ],
+   "answer": 0,
+   "explanation": "An existing plan/arrangement to go with someone uses am going."
+  },
+  {
+   "id": 97,
+   "q": "A: Please be careful with my laptop. B: Don't worry. I ______ careful.",
+   "options": [
+    "am",
+    "was",
+    "will be",
+    "am being"
+   ],
+   "answer": 2,
+   "explanation": "Making a promise/assurance for the future uses will be."
+  },
+  {
+   "id": 98,
+   "q": "A: I can't open this bottle. B: Give it to me. I ______ it.",
+   "options": [
+    "am opening",
+    "will open",
+    "opened",
+    "open"
+   ],
+   "answer": 1,
+   "explanation": "Volunteering immediately to open it uses will open."
+  },
+  {
+   "id": 99,
+   "q": "Error recognition - Which sentence is correct?",
+   "options": [
+    "I meeting my friend tonight.",
+    "I am meet my friend tonight.",
+    "I am meeting my friend tonight.",
+    "I will meeting my friend tonight."
+   ],
+   "answer": 2,
+   "explanation": "Present Continuous requires am/is/are + verb-ing: I am meeting my friend tonight.",
+   "deleted": true
+  },
+  {
+   "id": 100,
+   "q": "Error recognition - Which sentence is correct?",
+   "options": [
+    "Will you come tomorrow?",
+    "Will you coming tomorrow?",
+    "Do you will come tomorrow?",
+    "Are you will come tomorrow?"
+   ],
+   "answer": 0,
+   "explanation": "Correct question structure: Will + subject + base verb.",
+   "deleted": true
+  },
+  {
+   "id": 101,
+   "q": "Error recognition - Which sentence is correct?",
+   "options": [
+    "I will helps you with your homework.",
+    "I'll helping you with your homework.",
+    "I'll to help you with your homework.",
+    "I'll help you with your homework."
+   ],
+   "answer": 3,
+   "explanation": "After 'll (will), use the base verb without -s, -ing, or to.",
+   "deleted": true
+  },
+  {
+   "id": 102,
+   "q": "Error recognition - Which sentence is correct?",
+   "options": [
+    "We traveling to Aden next week.",
+    "We are travel to Aden next week.",
+    "We are traveling to Aden next week.",
+    "We are will travel to Aden next week."
+   ],
+   "answer": 2,
+   "explanation": "Correct Present Continuous form: are + traveling."
   }
  ],
  "lessons": [
