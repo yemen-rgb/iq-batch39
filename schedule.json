@@ -1,31 +1,6 @@
 {
- "version": 41,
+ "version": 42,
  "days": {
-  "2026-11-09": {
-   "lectures": [
-    {
-     "subject": "english2",
-     "title": "English",
-     "time": "08:00",
-     "end": "10:00",
-     "room": "مدرج واحد",
-     "doctor": "الهام",
-     "status": "normal",
-     "note": ""
-    },
-    {
-     "subject": "physical_pharmacy",
-     "title": "فيزياء",
-     "time": "10:00",
-     "end": "12:00",
-     "room": "مدرج واحد",
-     "doctor": "عبدالولي الشرجبي",
-     "status": "normal",
-     "note": "نظري"
-    }
-   ],
-   "holiday": null
-  },
   "2026-11-10": {
    "lectures": [
     {
@@ -408,5 +383,5 @@
    }
   }
  },
- "updated": "2026-11-24T13:53:20.983Z"
+ "updated": "2026-11-24T13:53:31.917Z"
 }
