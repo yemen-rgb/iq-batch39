@@ -1,51 +1,6 @@
 {
- "version": 43,
+ "version": 44,
  "days": {
-  "2026-11-12": {
-   "lectures": [
-    {
-     "subject": "anatomy",
-     "title": "المحاضرة الاولى",
-     "time": "08:00",
-     "end": "10:00",
-     "room": "مدرج واحد",
-     "doctor": "صالح العميسي",
-     "status": "normal",
-     "note": ""
-    },
-    {
-     "subject": "computer",
-     "title": "المحاضرة الثانية",
-     "time": "10:00",
-     "end": "12:00",
-     "room": "",
-     "doctor": "نبيل الشويع",
-     "status": "normal",
-     "note": "مدرج واحد"
-    },
-    {
-     "subject": "calculations",
-     "title": "المحاضرة الثالثة",
-     "time": "12:00",
-     "end": "14:00",
-     "room": "مدرج واحد",
-     "doctor": "نهلة الغشم",
-     "status": "normal",
-     "note": ""
-    },
-    {
-     "subject": "arabic2",
-     "title": "المحاضرة الرابعة",
-     "time": "14:00",
-     "end": "16:00",
-     "room": "مدرج واحد",
-     "doctor": "اكرم الجحفلي",
-     "status": "normal",
-     "note": ""
-    }
-   ],
-   "holiday": null
-  },
   "2026-11-13": {
    "lectures": [],
    "holiday": {
@@ -368,5 +323,5 @@
    }
   }
  },
- "updated": "2026-11-24T13:53:44.784Z"
+ "updated": "2026-11-24T13:54:04.146Z"
 }
