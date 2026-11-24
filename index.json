@@ -1,5 +1,5 @@
 {
- "version": 394,
+ "version": 395,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -962,6 +962,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/406",
    "added": "2026-11-19T13:31:37.478Z"
+  },
+  {
+   "id": "fmwuz6gp6w1f",
+   "subject": "anatomy",
+   "lesson": "l3",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "anatomy_l3_summary_mwuz6gp6w1f.pdf",
+   "ext": "pdf",
+   "size": 3096534,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM1awXK2jdJA7jDTrr7KpnnJOCnaXYAAnQhAAJrhilQMzCUcb3HPFQ9BA",
+   "tgmsg": 53,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM1awXK2jdJA7jDTrr7KpnnJOCnaXYAAnQhAAJrhilQMzCUcb3HPFQ9BA",
+   "added": "2026-11-24T17:35:18.282Z"
   }
  ],
  "lessons": {
