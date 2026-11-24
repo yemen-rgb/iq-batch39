@@ -1,5 +1,5 @@
 {
- "version": 391,
+ "version": 392,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -243,7 +243,7 @@
    "id": "fmwdwwghvkf9",
    "subject": "anatomy",
    "lesson": "l2",
-   "kind": "summary",
+   "kind": "lecture",
    "title": "مقرر المحاضرة",
    "name": "anatomy_l2_summary_mwdwwghvkf9.pdf",
    "ext": "pdf",
