@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "questions": [
   {
    "id": 1,
@@ -2402,7 +2402,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 193,
@@ -2412,7 +2413,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 194,
@@ -2422,7 +2424,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 195,
@@ -2432,7 +2435,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 196,
@@ -2442,7 +2446,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 197,
@@ -2452,7 +2457,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 198,
@@ -2462,7 +2468,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 199,
@@ -2472,7 +2479,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 200,
@@ -2482,7 +2490,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 201,
@@ -2492,7 +2501,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 202,
@@ -7346,7 +7356,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 601,
@@ -7356,7 +7367,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 602,
@@ -7366,7 +7378,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 603,
@@ -7376,7 +7389,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 604,
@@ -7386,7 +7400,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 605,
@@ -7396,7 +7411,8 @@
    ],
    "answer": 0,
    "explanation": "✓ ✗",
-   "t": "l1"
+   "t": "l1",
+   "deleted": true
   },
   {
    "id": 606,
