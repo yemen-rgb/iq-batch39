@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "questions": [
   {
    "id": 1,
@@ -560,7 +560,8 @@
     "Real"
    ],
    "answer": 2,
-   "explanation": "Artificial means man-made rather than natural."
+   "explanation": "Artificial means man-made rather than natural.",
+   "t": "l3"
   },
   {
    "id": 45,
@@ -572,7 +573,8 @@
     "Old-fashioned"
    ],
    "answer": 0,
-   "explanation": "Advanced means highly developed."
+   "explanation": "Advanced means highly developed.",
+   "t": "l3"
   },
   {
    "id": 46,
@@ -584,7 +586,8 @@
     "Rules"
    ],
    "answer": 0,
-   "explanation": "Tasks refers to duties or work to be done."
+   "explanation": "Tasks refers to duties or work to be done.",
+   "t": "l3"
   },
   {
    "id": 47,
@@ -596,7 +599,8 @@
     "Reject"
    ],
    "answer": 1,
-   "explanation": "Recognize means to identify something previously known or encountered."
+   "explanation": "Recognize means to identify something previously known or encountered.",
+   "t": "l3"
   },
   {
    "id": 48,
@@ -608,7 +612,8 @@
     "Listening"
    ],
    "answer": 2,
-   "explanation": "Speech refers to talking or spoken language."
+   "explanation": "Speech refers to talking or spoken language.",
+   "t": "l3"
   },
   {
    "id": 49,
@@ -620,7 +625,8 @@
     "An electronic device"
    ],
    "answer": 2,
-   "explanation": "A program is a set of instructions written for a computer."
+   "explanation": "A program is a set of instructions written for a computer.",
+   "t": "l3"
   },
   {
    "id": 50,
@@ -632,7 +638,8 @@
     "Learn new information"
    ],
    "answer": 2,
-   "explanation": "Adapt means to adjust to new conditions."
+   "explanation": "Adapt means to adjust to new conditions.",
+   "t": "l3"
   },
   {
    "id": 51,
@@ -644,7 +651,8 @@
     "Machines and tools"
    ],
    "answer": 0,
-   "explanation": "Data refers to information such as numbers and facts."
+   "explanation": "Data refers to information such as numbers and facts.",
+   "t": "l3"
   },
   {
    "id": 52,
@@ -656,7 +664,8 @@
     "Know"
    ],
    "answer": 3,
-   "explanation": "Understand means to comprehend or know the meaning."
+   "explanation": "Understand means to comprehend or know the meaning.",
+   "t": "l3"
   },
   {
    "id": 53,
@@ -668,7 +677,8 @@
     "Weak and ineffective"
    ],
    "answer": 1,
-   "explanation": "Capable means able to do something."
+   "explanation": "Capable means able to do something.",
+   "t": "l3"
   },
   {
    "id": 54,
@@ -680,7 +690,8 @@
     "She'll to help me with my project."
    ],
    "answer": 1,
-   "explanation": "Will is followed directly by the base verb (help) without -s, -ing, or to."
+   "explanation": "Will is followed directly by the base verb (help) without -s, -ing, or to.",
+   "t": "l3"
   },
   {
    "id": 55,
@@ -692,7 +703,8 @@
     "Subject + won't to + base verb"
    ],
    "answer": 2,
-   "explanation": "The negative structure is Subject + will not (won't) + base verb."
+   "explanation": "The negative structure is Subject + will not (won't) + base verb.",
+   "t": "l3"
   },
   {
    "id": 56,
@@ -704,7 +716,8 @@
     "You will come tomorrow?"
    ],
    "answer": 2,
-   "explanation": "Questions with will invert the subject and auxiliary: Will + subject + base verb?"
+   "explanation": "Questions with will invert the subject and auxiliary: Will + subject + base verb?",
+   "t": "l3"
   },
   {
    "id": 57,
@@ -716,7 +729,8 @@
     "Yes, she will call."
    ],
    "answer": 1,
-   "explanation": "The short affirmative answer pattern is Yes, [subject] + will."
+   "explanation": "The short affirmative answer pattern is Yes, [subject] + will.",
+   "t": "l3"
   },
   {
    "id": 58,
@@ -728,7 +742,8 @@
     "No, they not will."
    ],
    "answer": 2,
-   "explanation": "The short negative answer pattern is No, [subject] + won't."
+   "explanation": "The short negative answer pattern is No, [subject] + won't.",
+   "t": "l3"
   },
   {
    "id": 59,
@@ -740,7 +755,8 @@
     "taken"
    ],
    "answer": 1,
-   "explanation": "Spontaneous decisions made at the moment of speaking take will + base verb."
+   "explanation": "Spontaneous decisions made at the moment of speaking take will + base verb.",
+   "t": "l3"
   },
   {
    "id": 60,
@@ -752,7 +768,8 @@
     "lock"
    ],
    "answer": 0,
-   "explanation": "An instant reaction to new information uses will lock."
+   "explanation": "An instant reaction to new information uses will lock.",
+   "t": "l3"
   },
   {
    "id": 61,
@@ -764,7 +781,8 @@
     "cleaned"
    ],
    "answer": 2,
-   "explanation": "Deciding to clean upon noticing the situation uses will clean."
+   "explanation": "Deciding to clean upon noticing the situation uses will clean.",
+   "t": "l3"
   },
   {
    "id": 62,
@@ -776,7 +794,8 @@
     "To ask for permission."
    ],
    "answer": 1,
-   "explanation": "Responding immediately to someone's hunger is an instant decision made while speaking."
+   "explanation": "Responding immediately to someone's hunger is an instant decision made while speaking.",
+   "t": "l3"
   },
   {
    "id": 63,
@@ -788,7 +807,8 @@
     "Right now"
    ],
    "answer": 1,
-   "explanation": "Phrases like I think, probably, maybe, and I'm sure introduce predictions with will."
+   "explanation": "Phrases like I think, probably, maybe, and I'm sure introduce predictions with will.",
+   "t": "l3"
   },
   {
    "id": 64,
@@ -800,7 +820,8 @@
     "won"
    ],
    "answer": 1,
-   "explanation": "Predictions following I think use will + base verb."
+   "explanation": "Predictions following I think use will + base verb.",
+   "t": "l3"
   },
   {
    "id": 65,
@@ -812,7 +833,8 @@
     "haven't"
    ],
    "answer": 2,
-   "explanation": "Negative predictions with adverbs like probably use won't + base verb."
+   "explanation": "Negative predictions with adverbs like probably use won't + base verb.",
+   "t": "l3"
   },
   {
    "id": 66,
@@ -824,7 +846,8 @@
     "Maybe they will coming later."
    ],
    "answer": 0,
-   "explanation": "Predictions with maybe take will + base verb."
+   "explanation": "Predictions with maybe take will + base verb.",
+   "t": "l3"
   },
   {
    "id": 67,
@@ -836,7 +859,8 @@
     "I'm sure she to pass the exam."
    ],
    "answer": 0,
-   "explanation": "Expressing prediction certainty takes I'm sure + subject + will + base verb."
+   "explanation": "Expressing prediction certainty takes I'm sure + subject + will + base verb.",
+   "t": "l3"
   },
   {
    "id": 68,
@@ -848,7 +872,8 @@
     "We are flying to Paris next Monday."
    ],
    "answer": 1,
-   "explanation": "Commitments to future behavior express a promise."
+   "explanation": "Commitments to future behavior express a promise.",
+   "t": "l3"
   },
   {
    "id": 69,
@@ -860,7 +885,8 @@
     "General rule"
    ],
    "answer": 1,
-   "explanation": "Promising confidentiality with won't is a promise."
+   "explanation": "Promising confidentiality with won't is a promise.",
+   "t": "l3"
   },
   {
    "id": 70,
@@ -872,7 +898,8 @@
     "to carry"
    ],
    "answer": 2,
-   "explanation": "Offers use I'll + base verb (carry)."
+   "explanation": "Offers use I'll + base verb (carry).",
+   "t": "l3"
   },
   {
    "id": 71,
@@ -884,7 +911,8 @@
     "drives"
    ],
    "answer": 1,
-   "explanation": "Offering help uses I'll + base verb (drive)."
+   "explanation": "Offering help uses I'll + base verb (drive).",
+   "t": "l3"
   },
   {
    "id": 72,
@@ -896,7 +924,8 @@
     "I was"
    ],
    "answer": 0,
-   "explanation": "Offering assistance spontaneously uses I'll."
+   "explanation": "Offering assistance spontaneously uses I'll.",
+   "t": "l3"
   },
   {
    "id": 73,
@@ -908,7 +937,8 @@
     "For offers to help someone."
    ],
    "answer": 1,
-   "explanation": "Present Continuous is used for fixed arrangements already planned with specific details."
+   "explanation": "Present Continuous is used for fixed arrangements already planned with specific details.",
+   "t": "l3"
   },
   {
    "id": 74,
@@ -920,7 +950,8 @@
     "flew"
    ],
    "answer": 2,
-   "explanation": "Already booked tickets signal a fixed arrangement, taking are flying."
+   "explanation": "Already booked tickets signal a fixed arrangement, taking are flying.",
+   "t": "l3"
   },
   {
    "id": 75,
@@ -932,7 +963,8 @@
     "met"
    ],
    "answer": 0,
-   "explanation": "A planned meeting at a set time and location requires Present Continuous (am meeting)."
+   "explanation": "A planned meeting at a set time and location requires Present Continuous (am meeting).",
+   "t": "l3"
   },
   {
    "id": 76,
@@ -944,7 +976,8 @@
     "He isn't come to the party this evening."
    ],
    "answer": 1,
-   "explanation": "Negative fixed arrangement structure: Subject + am/is/are + not + verb-ing."
+   "explanation": "Negative fixed arrangement structure: Subject + am/is/are + not + verb-ing.",
+   "t": "l3"
   },
   {
    "id": 77,
@@ -956,7 +989,8 @@
     "What will you doing tonight?"
    ],
    "answer": 1,
-   "explanation": "Arrangement questions use Am/Is/Are + subject + verb-ing?"
+   "explanation": "Arrangement questions use Am/Is/Are + subject + verb-ing?",
+   "t": "l3"
   },
   {
    "id": 78,
@@ -968,7 +1002,8 @@
     "She isn't working tomorrow."
    ],
    "answer": 1,
-   "explanation": "Deciding to clean upon seeing a dirty room is a spontaneous decision (will clean)."
+   "explanation": "Deciding to clean upon seeing a dirty room is a spontaneous decision (will clean).",
+   "t": "l3"
   },
   {
    "id": 79,
@@ -980,7 +1015,8 @@
     "got"
    ],
    "answer": 0,
-   "explanation": "Instant offer/decision at the moment of speaking uses will get."
+   "explanation": "Instant offer/decision at the moment of speaking uses will get.",
+   "t": "l3"
   },
   {
    "id": 80,
@@ -992,7 +1028,8 @@
     "met"
    ],
    "answer": 1,
-   "explanation": "A scheduled meeting at a specific time tomorrow uses Present Continuous (am meeting)."
+   "explanation": "A scheduled meeting at a specific time tomorrow uses Present Continuous (am meeting).",
+   "t": "l3"
   },
   {
    "id": 81,
@@ -1004,7 +1041,8 @@
     "bought"
    ],
    "answer": 1,
-   "explanation": "Already made plans point to a fixed arrangement using are buying."
+   "explanation": "Already made plans point to a fixed arrangement using are buying.",
+   "t": "l3"
   },
   {
    "id": 82,
@@ -1016,7 +1054,8 @@
     "won"
    ],
    "answer": 1,
-   "explanation": "Predictions with I think use will win."
+   "explanation": "Predictions with I think use will win.",
+   "t": "l3"
   },
   {
    "id": 83,
@@ -1028,7 +1067,8 @@
     "traveled"
    ],
    "answer": 1,
-   "explanation": "Already having tickets indicates a fixed arrangement: are traveling."
+   "explanation": "Already having tickets indicates a fixed arrangement: are traveling.",
+   "t": "l3"
   },
   {
    "id": 84,
@@ -1040,7 +1080,8 @@
     "helped"
    ],
    "answer": 1,
-   "explanation": "Reassuring someone with a promise/offer uses will help."
+   "explanation": "Reassuring someone with a promise/offer uses will help.",
+   "t": "l3"
   },
   {
    "id": 85,
@@ -1052,7 +1093,8 @@
     "had"
    ],
    "answer": 1,
-   "explanation": "A fixed evening arrangement with family uses Present Continuous (is having)."
+   "explanation": "A fixed evening arrangement with family uses Present Continuous (is having).",
+   "t": "l3"
   },
   {
    "id": 86,
@@ -1064,7 +1106,8 @@
     "rained"
    ],
    "answer": 1,
-   "explanation": "Predictions introduced by maybe use will rain."
+   "explanation": "Predictions introduced by maybe use will rain.",
+   "t": "l3"
   },
   {
    "id": 87,
@@ -1076,7 +1119,8 @@
     "opened"
    ],
    "answer": 1,
-   "explanation": "Reacting immediately to the doorbell uses will open."
+   "explanation": "Reacting immediately to the doorbell uses will open.",
+   "t": "l3"
   },
   {
    "id": 88,
@@ -1088,7 +1132,8 @@
     "rained"
    ],
    "answer": 1,
-   "explanation": "Future prediction uses will rain."
+   "explanation": "Future prediction uses will rain.",
+   "t": "l3"
   },
   {
    "id": 89,
@@ -1100,7 +1145,8 @@
     "help"
    ],
    "answer": 2,
-   "explanation": "Offering immediate help uses will help."
+   "explanation": "Offering immediate help uses will help.",
+   "t": "l3"
   },
   {
    "id": 90,
@@ -1112,7 +1158,8 @@
     "will give"
    ],
    "answer": 3,
-   "explanation": "Offering a pen on the spot uses will give."
+   "explanation": "Offering a pen on the spot uses will give.",
+   "t": "l3"
   },
   {
    "id": 91,
@@ -1124,7 +1171,8 @@
     "meet"
    ],
    "answer": 0,
-   "explanation": "A planned meeting at a specific time and place uses am meeting."
+   "explanation": "A planned meeting at a specific time and place uses am meeting.",
+   "t": "l3"
   },
   {
    "id": 92,
@@ -1136,7 +1184,8 @@
     "have"
    ],
    "answer": 1,
-   "explanation": "A fixed arrangement for tonight uses Present Continuous (am having)."
+   "explanation": "A fixed arrangement for tonight uses Present Continuous (am having).",
+   "t": "l3"
   },
   {
    "id": 93,
@@ -1148,7 +1197,8 @@
     "passed"
    ],
    "answer": 0,
-   "explanation": "A prediction following I think uses will pass."
+   "explanation": "A prediction following I think uses will pass.",
+   "t": "l3"
   },
   {
    "id": 94,
@@ -1160,7 +1210,8 @@
     "had"
    ],
    "answer": 2,
-   "explanation": "Having a fixed arrangement tonight takes am having."
+   "explanation": "Having a fixed arrangement tonight takes am having.",
+   "t": "l3"
   },
   {
    "id": 95,
@@ -1172,7 +1223,8 @@
     "will like"
    ],
    "answer": 3,
-   "explanation": "Predictions with I'm sure use will like."
+   "explanation": "Predictions with I'm sure use will like.",
+   "t": "l3"
   },
   {
    "id": 96,
@@ -1184,7 +1236,8 @@
     "go"
    ],
    "answer": 0,
-   "explanation": "An existing plan/arrangement to go with someone uses am going."
+   "explanation": "An existing plan/arrangement to go with someone uses am going.",
+   "t": "l3"
   },
   {
    "id": 97,
@@ -1196,7 +1249,8 @@
     "am being"
    ],
    "answer": 2,
-   "explanation": "Making a promise/assurance for the future uses will be."
+   "explanation": "Making a promise/assurance for the future uses will be.",
+   "t": "l3"
   },
   {
    "id": 98,
@@ -1208,7 +1262,8 @@
     "open"
    ],
    "answer": 1,
-   "explanation": "Volunteering immediately to open it uses will open."
+   "explanation": "Volunteering immediately to open it uses will open.",
+   "t": "l3"
   },
   {
    "id": 99,
@@ -1259,7 +1314,8 @@
     "We are will travel to Aden next week."
    ],
    "answer": 2,
-   "explanation": "Correct Present Continuous form: are + traveling."
+   "explanation": "Correct Present Continuous form: are + traveling.",
+   "t": "l3"
   }
  ],
  "lessons": [
