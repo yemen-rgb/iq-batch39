@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "questions": [
   {
    "id": 1,
@@ -7991,7 +7991,7 @@
     "Support of thoracic viscera only"
    ],
    "answer": 1,
-   "explanation": "The primary function of the appendicular skeleton is movement",
+   "explanation": "The primary function of the appendicular skeleton is movement.",
    "t": "l3"
   },
   {
