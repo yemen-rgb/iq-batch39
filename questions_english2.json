@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "questions": [
   {
    "id": 1,
@@ -50,7 +50,8 @@
     "writing"
    ],
    "answer": 1,
-   "explanation": "In the Simple Present, third-person singular subjects (she/he/it) add -s to the verb (writes) for routine actions indicated by 'usually'."
+   "explanation": "In the Simple Present, third-person singular subjects (she/he/it) add -s to the verb (writes) for routine actions indicated by 'usually'.",
+   "t": "l2"
   },
   {
    "id": 5,
@@ -62,7 +63,8 @@
     "is exercising"
    ],
    "answer": 2,
-   "explanation": "'Every morning' signals a habitual routine. 'He' takes the third-person singular verb ending -s (exercises)."
+   "explanation": "'Every morning' signals a habitual routine. 'He' takes the third-person singular verb ending -s (exercises).",
+   "t": "l2"
   },
   {
    "id": 6,
@@ -74,7 +76,8 @@
     "boiling"
    ],
    "answer": 1,
-   "explanation": "General scientific facts use the Simple Present. 'Water' is an uncountable (singular) noun, requiring boils."
+   "explanation": "General scientific facts use the Simple Present. 'Water' is an uncountable (singular) noun, requiring boils.",
+   "t": "l2"
   },
   {
    "id": 7,
@@ -86,7 +89,8 @@
     "living"
    ],
    "answer": 1,
-   "explanation": "Permanent situations use the Simple Present tense with third-person singular -s (lives)."
+   "explanation": "Permanent situations use the Simple Present tense with third-person singular -s (lives).",
+   "t": "l2"
   },
   {
    "id": 8,
@@ -98,7 +102,8 @@
     "rising"
    ],
    "answer": 1,
-   "explanation": "General facts about nature require the Simple Present singular verb form (rises)."
+   "explanation": "General facts about nature require the Simple Present singular verb form (rises).",
+   "t": "l2"
   },
   {
    "id": 9,
@@ -110,7 +115,8 @@
     "does not plays"
    ],
    "answer": 1,
-   "explanation": "Negative Simple Present sentences for 'she' use does not followed by the base verb (play)."
+   "explanation": "Negative Simple Present sentences for 'she' use does not followed by the base verb (play).",
+   "t": "l2"
   },
   {
    "id": 10,
@@ -122,7 +128,8 @@
     "not eat"
    ],
    "answer": 1,
-   "explanation": "Plural subjects ('they') use do not + base verb (eat) in Simple Present negative forms."
+   "explanation": "Plural subjects ('they') use do not + base verb (eat) in Simple Present negative forms.",
+   "t": "l2"
   },
   {
    "id": 11,
@@ -134,7 +141,8 @@
     "Is"
    ],
    "answer": 1,
-   "explanation": "Yes/No questions in the Present Simple with 'she' start with the auxiliary verb Does."
+   "explanation": "Yes/No questions in the Present Simple with 'she' start with the auxiliary verb Does.",
+   "t": "l2"
   },
   {
    "id": 12,
@@ -146,7 +154,8 @@
     "Has"
    ],
    "answer": 1,
-   "explanation": "Habitual question forms with 'he' require auxiliary Does."
+   "explanation": "Habitual question forms with 'he' require auxiliary Does.",
+   "t": "l2"
   },
   {
    "id": 13,
@@ -158,7 +167,8 @@
     "working"
    ],
    "answer": 1,
-   "explanation": "WH-questions for present routines with plural subject 'they' use auxiliary do (Where do they work?)."
+   "explanation": "WH-questions for present routines with plural subject 'they' use auxiliary do (Where do they work?).",
+   "t": "l2"
   },
   {
    "id": 14,
@@ -170,7 +180,8 @@
     "is"
    ],
    "answer": 1,
-   "explanation": "WH-question auxiliary for singular 'he' in present routine is does."
+   "explanation": "WH-question auxiliary for singular 'he' in present routine is does.",
+   "t": "l2"
   },
   {
    "id": 15,
@@ -182,7 +193,8 @@
     "ago"
    ],
    "answer": 0,
-   "explanation": "Usually is an adverb of frequency used between the subject and verb in Simple Present."
+   "explanation": "Usually is an adverb of frequency used between the subject and verb in Simple Present.",
+   "t": "l2"
   },
   {
    "id": 16,
@@ -194,7 +206,8 @@
     "visiting"
    ],
    "answer": 2,
-   "explanation": "'Last summer' specifies a completed past action. Regular verbs form the past tense by adding -ed (visited)."
+   "explanation": "'Last summer' specifies a completed past action. Regular verbs form the past tense by adding -ed (visited).",
+   "t": "l2"
   },
   {
    "id": 17,
@@ -206,7 +219,8 @@
     "finishing"
    ],
    "answer": 2,
-   "explanation": "'Two days ago' requires the regular past tense form finished."
+   "explanation": "'Two days ago' requires the regular past tense form finished.",
+   "t": "l2"
   },
   {
    "id": 18,
@@ -218,7 +232,8 @@
     "meeting"
    ],
    "answer": 2,
-   "explanation": "'Meet' is an irregular verb. Its Simple Past (V2) form for completed actions yesterday is met."
+   "explanation": "'Meet' is an irregular verb. Its Simple Past (V2) form for completed actions yesterday is met.",
+   "t": "l2"
   },
   {
    "id": 19,
@@ -230,7 +245,8 @@
     "written"
    ],
    "answer": 1,
-   "explanation": "'Write' is irregular. The past tense V2 form for a completed action yesterday is wrote."
+   "explanation": "'Write' is irregular. The past tense V2 form for a completed action yesterday is wrote.",
+   "t": "l2"
   },
   {
    "id": 20,
@@ -242,7 +258,8 @@
     "not played"
    ],
    "answer": 1,
-   "explanation": "Simple Past negative forms use did not + base verb (play), never the double past form."
+   "explanation": "Simple Past negative forms use did not + base verb (play), never the double past form.",
+   "t": "l2"
   },
   {
    "id": 21,
@@ -254,7 +271,8 @@
     "is not"
    ],
    "answer": 1,
-   "explanation": "Negative completed past actions require auxiliary did not followed by base verb (write)."
+   "explanation": "Negative completed past actions require auxiliary did not followed by base verb (write).",
+   "t": "l2"
   },
   {
    "id": 22,
@@ -266,7 +284,8 @@
     "Was"
    ],
    "answer": 1,
-   "explanation": "Yes/No questions for past events use auxiliary Did."
+   "explanation": "Yes/No questions for past events use auxiliary Did.",
+   "t": "l2"
   },
   {
    "id": 23,
@@ -278,7 +297,8 @@
     "Is"
    ],
    "answer": 0,
-   "explanation": "'Last Sunday' requires auxiliary Did for past question formation."
+   "explanation": "'Last Sunday' requires auxiliary Did for past question formation.",
+   "t": "l2"
   },
   {
    "id": 24,
@@ -290,7 +310,8 @@
     "calls"
    ],
    "answer": 1,
-   "explanation": "WH-question auxiliary for a specific completed past time is did."
+   "explanation": "WH-question auxiliary for a specific completed past time is did.",
+   "t": "l2"
   },
   {
    "id": 25,
@@ -302,7 +323,8 @@
     "was"
    ],
    "answer": 1,
-   "explanation": "Past event WH-questions use auxiliary did + subject + base verb."
+   "explanation": "Past event WH-questions use auxiliary did + subject + base verb.",
+   "t": "l2"
   },
   {
    "id": 26,
@@ -314,7 +336,8 @@
     "drinking"
    ],
    "answer": 2,
-   "explanation": "'Drink' is an irregular verb. The past V2 form for yesterday's action is drank."
+   "explanation": "'Drink' is an irregular verb. The past V2 form for yesterday's action is drank.",
+   "t": "l2"
   },
   {
    "id": 27,
@@ -326,7 +349,8 @@
     "taking"
    ],
    "answer": 2,
-   "explanation": "Contrasting present habit with past event: 'take' becomes irregular past took."
+   "explanation": "Contrasting present habit with past event: 'take' becomes irregular past took.",
+   "t": "l2"
   },
   {
    "id": 28,
@@ -338,7 +362,8 @@
     "visits / going"
    ],
    "answer": 2,
-   "explanation": "'Every summer' takes Present Simple (visit), while 'last year' takes Past Simple irregular (went)."
+   "explanation": "'Every summer' takes Present Simple (visit), while 'last year' takes Past Simple irregular (went).",
+   "t": "l2"
   },
   {
    "id": 29,
@@ -348,7 +373,8 @@
     "False"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 30,
@@ -358,7 +384,8 @@
     "False"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 31,
@@ -368,7 +395,8 @@
     "False"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 32,
@@ -378,7 +406,8 @@
     "False"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 33,
@@ -388,7 +417,8 @@
     "False"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 34,
@@ -400,7 +430,8 @@
     "Outdated"
    ],
    "answer": 2,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 35,
@@ -412,7 +443,8 @@
     "Teaching and learning"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 36,
@@ -424,7 +456,8 @@
     "Power over something"
    ],
    "answer": 3,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 37,
@@ -436,7 +469,8 @@
     "A land with water on most sides"
    ],
    "answer": 3,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 38,
@@ -448,7 +482,8 @@
     "Deficiency"
    ],
    "answer": 2,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 39,
@@ -460,7 +495,8 @@
     "Optional"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 40,
@@ -472,7 +508,8 @@
     "Location"
    ],
    "answer": 0,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 41,
@@ -484,7 +521,8 @@
     "Joined into one"
    ],
    "answer": 3,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 42,
@@ -496,7 +534,8 @@
     "Physical changes"
    ],
    "answer": 2,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   },
   {
    "id": 43,
@@ -508,7 +547,8 @@
     "Easily forgotten"
    ],
    "answer": 1,
-   "explanation": ""
+   "explanation": "",
+   "t": "l2"
   }
  ],
  "lessons": [
