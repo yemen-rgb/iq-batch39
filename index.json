@@ -1,5 +1,5 @@
 {
- "version": 398,
+ "version": 399,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -976,6 +976,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/406",
    "added": "2026-11-19T13:31:37.478Z"
+  },
+  {
+   "id": "fmwuz9ygzufp",
+   "subject": "english2",
+   "lesson": "l4",
+   "kind": "summary",
+   "title": "Islamic Teachings (Large Font Edition)",
+   "name": "english2_l4_summary_mwuz9ygzufp.pdf",
+   "ext": "pdf",
+   "size": 561167,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM2awXLgiX3c4pyC5dC2vhiwR_U_6wAAnchAAJrhilQgm6fOTJBHvQ9BA",
+   "tgmsg": 54,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM2awXLgiX3c4pyC5dC2vhiwR_U_6wAAnchAAJrhilQgm6fOTJBHvQ9BA",
+   "added": "2026-11-24T17:38:01.283Z"
   }
  ],
  "lessons": {
