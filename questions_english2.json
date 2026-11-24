@@ -1,5 +1,5 @@
 {
- "version": 10,
+ "version": 11,
  "questions": [
   {
    "id": 1,
@@ -1316,6 +1316,584 @@
    "answer": 2,
    "explanation": "Correct Present Continuous form: are + traveling.",
    "t": "l3"
+  },
+  {
+   "id": 103,
+   "q": "Vocabulary - Closest meaning to: Peaceful",
+   "options": [
+    "Loud",
+    "Busy",
+    "Angry",
+    "Calm"
+   ],
+   "answer": 3,
+   "explanation": "Peaceful means calm and free from disturbance.",
+   "t": "l4"
+  },
+  {
+   "id": 104,
+   "q": "Vocabulary - Closest meaning to: Trust",
+   "options": [
+    "To doubt",
+    "To believe in",
+    "To challenge",
+    "To distrust"
+   ],
+   "answer": 1,
+   "explanation": "Trust means to believe in and rely on someone or something.",
+   "t": "l4"
+  },
+  {
+   "id": 105,
+   "q": "Vocabulary - Closest meaning to: Guide",
+   "options": [
+    "To lead",
+    "To mislead",
+    "To deceive",
+    "To confuse"
+   ],
+   "answer": 0,
+   "explanation": "Guide means to lead or direct on the right path.",
+   "t": "l4"
+  },
+  {
+   "id": 106,
+   "q": "Vocabulary - Closest meaning to: Prophets",
+   "options": [
+    "Political leaders",
+    "Messengers",
+    "Community leaders",
+    "Military commanders"
+   ],
+   "answer": 1,
+   "explanation": "Prophets are messengers sent by Allah to teach people.",
+   "t": "l4"
+  },
+  {
+   "id": 107,
+   "q": "Vocabulary - Closest meaning to: Mankind",
+   "options": [
+    "Muslims",
+    "Family members",
+    "All people",
+    "Countries"
+   ],
+   "answer": 2,
+   "explanation": "Mankind refers to all human beings / all people.",
+   "t": "l4"
+  },
+  {
+   "id": 108,
+   "q": "Vocabulary - Closest meaning to: Teachings",
+   "options": [
+    "Instructions or principles",
+    "Entertainment",
+    "Opinions",
+    "Gossip"
+   ],
+   "answer": 0,
+   "explanation": "Teachings refers to instructions or guiding principles.",
+   "t": "l4"
+  },
+  {
+   "id": 109,
+   "q": "Vocabulary - Closest meaning to: Declaring",
+   "options": [
+    "Whispering",
+    "Arguing",
+    "Announcing",
+    "Suggesting"
+   ],
+   "answer": 2,
+   "explanation": "Declaring means announcing or stating clearly.",
+   "t": "l4"
+  },
+  {
+   "id": 110,
+   "q": "Vocabulary - Closest meaning to: Fasting",
+   "options": [
+    "Eating quickly",
+    "Running fast",
+    "Cooking food",
+    "Not eating and drinking temporarily"
+   ],
+   "answer": 3,
+   "explanation": "Fasting (Sawm) is refraining from eating and drinking temporarily.",
+   "t": "l4"
+  },
+  {
+   "id": 111,
+   "q": "Vocabulary - Closest meaning to: Pilgrimage",
+   "options": [
+    "A school field trip",
+    "A religious journey to Mekkah",
+    "A journey for leisure",
+    "A picnic trip"
+   ],
+   "answer": 1,
+   "explanation": "Pilgrimage (Hajj) is a religious journey to Mekkah.",
+   "t": "l4"
+  },
+  {
+   "id": 112,
+   "q": "Vocabulary - Closest meaning to: Respect",
+   "options": [
+    "Treat others with kindness",
+    "Deceive others",
+    "Insult others",
+    "Disrespect others"
+   ],
+   "answer": 0,
+   "explanation": "Respect means treating others with kindness and regard.",
+   "t": "l4"
+  },
+  {
+   "id": 113,
+   "q": "Grammar Rule - What is the defining characteristic of a simple sentence?",
+   "options": [
+    "It joins two complete thoughts with a coordinating conjunction.",
+    "It has one main idea (one complete thought).",
+    "It must always contain two subjects and two verbs.",
+    "It requires a comma before every verb."
+   ],
+   "answer": 1,
+   "explanation": "A simple sentence expresses one complete/main idea.",
+   "t": "l4"
+  },
+  {
+   "id": 114,
+   "q": "Grammar Rule - What is the basic grammatical structure of the simple sentence 'Birds fly'?",
+   "options": [
+    "Subject + Verb + Object",
+    "Subject + Verb + Complement",
+    "Subject + Verb",
+    "Preposition + Subject"
+   ],
+   "answer": 2,
+   "explanation": "'Birds fly' consists of Subject ('Birds') + Verb ('fly').",
+   "t": "l4"
+  },
+  {
+   "id": 115,
+   "q": "Grammar Rule - Which of the following sentences follows the 'Subject + Verb + Object' structure?",
+   "options": [
+    "Ali is tired.",
+    "Children play.",
+    "Mary drinks water.",
+    "The food is delicious."
+   ],
+   "answer": 2,
+   "explanation": "'Mary drinks water' follows Subject ('Mary') + Verb ('drinks') + Object ('water').",
+   "t": "l4"
+  },
+  {
+   "id": 116,
+   "q": "Grammar Rule - In the simple sentence 'Ali is tired', what is the grammatical classification of 'tired'?",
+   "options": [
+    "Direct Object",
+    "Complement (Subject + Verb + Complement)",
+    "Coordinating Conjunction",
+    "Independent Clause"
+   ],
+   "answer": 1,
+   "explanation": "In 'Ali is tired', 'tired' acts as a complement describing the subject.",
+   "t": "l4"
+  },
+  {
+   "id": 117,
+   "q": "Grammar Rule - How should an exclamation begin and end?",
+   "options": [
+    "Begins with a lowercase letter and ends with a period (.).",
+    "Begins with a capital letter and ends with a question mark (?).",
+    "Begins with a capital letter and ends with an exclamation mark (!).",
+    "Begins with a capital letter and ends with a comma (,)."
+   ],
+   "answer": 2,
+   "explanation": "An exclamation begins with a capital letter and ends with an exclamation mark (!).",
+   "t": "l4"
+  },
+  {
+   "id": 118,
+   "q": "Grammar Rule - How is a compound sentence formed?",
+   "options": [
+    "By combining a single verb with an object.",
+    "By joining two complete ideas with a coordinating conjunction.",
+    "By ending a simple sentence with a question mark.",
+    "By adding a complement to a subject."
+   ],
+   "answer": 1,
+   "explanation": "A compound sentence joins two complete ideas using a coordinating conjunction.",
+   "t": "l4"
+  },
+  {
+   "id": 119,
+   "q": "Grammar Rule - What is the specific grammatical function of 'and' in a compound sentence?",
+   "options": [
+    "To show a difference or contrast.",
+    "To give a choice or alternative.",
+    "To add similar information.",
+    "To state a cause or reason."
+   ],
+   "answer": 2,
+   "explanation": "'and' adds similar or extra information.",
+   "t": "l4"
+  },
+  {
+   "id": 120,
+   "q": "Grammar Rule - Which conjunction should be used to express a difference or contrast?",
+   "options": [
+    "so",
+    "but",
+    "for",
+    "or"
+   ],
+   "answer": 1,
+   "explanation": "'but' shows contrast or difference between two ideas.",
+   "t": "l4"
+  },
+  {
+   "id": 121,
+   "q": "Grammar Rule - Which conjunction is used when offering a choice or alternative?",
+   "options": [
+    "or",
+    "for",
+    "and",
+    "so"
+   ],
+   "answer": 0,
+   "explanation": "'or' presents a choice or alternative.",
+   "t": "l4"
+  },
+  {
+   "id": 122,
+   "q": "Grammar Rule - What is the primary function of 'so' in a compound sentence?",
+   "options": [
+    "To add extra information.",
+    "To show a result.",
+    "To indicate contrast.",
+    "To give a choice."
+   ],
+   "answer": 1,
+   "explanation": "'so' shows a result.",
+   "t": "l4"
+  },
+  {
+   "id": 123,
+   "q": "Grammar Rule - Which coordinating conjunction is used to give a reason?",
+   "options": [
+    "but",
+    "for",
+    "or",
+    "and"
+   ],
+   "answer": 1,
+   "explanation": "'for' is used to state a reason.",
+   "t": "l4"
+  },
+  {
+   "id": 124,
+   "q": "Classify the sentence: 'Ahmed plays football.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 0,
+   "explanation": "'Ahmed plays football.' expresses a single complete idea (Simple sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 125,
+   "q": "Classify the sentence: 'Sarah likes apples, and Ali likes oranges.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 1,
+   "explanation": "It joins two complete clauses with 'and' (Compound sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 126,
+   "q": "Classify the sentence: 'The baby is sleeping.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 0,
+   "explanation": "One subject and one verb expressing a single complete thought (Simple sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 127,
+   "q": "Classify the sentence: 'I was hungry, so I ate lunch.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 1,
+   "explanation": "Two complete ideas joined by 'so' to show result (Compound sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 128,
+   "q": "Classify the sentence: 'My brother is tall.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 0,
+   "explanation": "A single complete idea with Subject + Verb + Complement (Simple sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 129,
+   "q": "Classify the sentence: 'She likes tea, but she doesn't like coffee.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 1,
+   "explanation": "Two complete ideas joined by 'but' showing contrast (Compound sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 130,
+   "q": "Classify the sentence: 'We study English.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 0,
+   "explanation": "A single complete thought (Simple sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 131,
+   "q": "Classify the sentence: 'He went to bed early, for he was extremely tired.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 1,
+   "explanation": "Two complete ideas joined by 'for' giving a reason (Compound sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 132,
+   "q": "Classify the sentence: 'The students read books.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 0,
+   "explanation": "One main idea following Subject + Verb + Object (Simple sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 133,
+   "q": "Classify the sentence: 'You can have tea, or you can have coffee.'",
+   "options": [
+    "Simple sentence",
+    "Compound sentence"
+   ],
+   "answer": 1,
+   "explanation": "Two complete ideas joined by 'or' offering a choice (Compound sentence).",
+   "t": "l4"
+  },
+  {
+   "id": 134,
+   "q": "Combine 'Ali studies English.' and 'Ahmed studies French.' into a compound sentence:",
+   "options": [
+    "Ali studies English, but Ahmed studies French.",
+    "Ali studies English, and Ahmed studies French.",
+    "Ali studies English, so Ahmed studies French.",
+    "Ali studies English, for Ahmed studies French."
+   ],
+   "answer": 1,
+   "explanation": "Use ', and' to join two related/additional facts.",
+   "t": "l4"
+  },
+  {
+   "id": 135,
+   "q": "Combine 'He is tired.' and 'He is working.' to show contrast:",
+   "options": [
+    "He is tired, so he is working.",
+    "He is tired, or he is working.",
+    "He is tired, but he is working.",
+    "He is tired, for he is working."
+   ],
+   "answer": 2,
+   "explanation": "Use ', but' to show contrast between being tired and still working.",
+   "t": "l4"
+  },
+  {
+   "id": 136,
+   "q": "Combine 'Do you want tea?' and 'Do you want coffee?' as a choice:",
+   "options": [
+    "Do you want tea, so do you want coffee?",
+    "Do you want tea, or do you want coffee?",
+    "Do you want tea, for do you want coffee?",
+    "Do you want tea, but do you want coffee?"
+   ],
+   "answer": 1,
+   "explanation": "Use ', or' when offering options/choices.",
+   "t": "l4"
+  },
+  {
+   "id": 137,
+   "q": "Combine 'It was raining.' and 'We stayed home.' to express a result:",
+   "options": [
+    "It was raining, so we stayed home.",
+    "It was raining, but we stayed home.",
+    "It was raining, for we stayed home.",
+    "It was raining, or we stayed home."
+   ],
+   "answer": 0,
+   "explanation": "Staying home was the result of the rain, so use ', so'.",
+   "t": "l4"
+  },
+  {
+   "id": 138,
+   "q": "Combine 'I stayed home.' and 'I was sick.' to give a reason:",
+   "options": [
+    "I stayed home, so I was sick.",
+    "I stayed home, for I was sick.",
+    "I stayed home, but I was sick.",
+    "I stayed home, or I was sick."
+   ],
+   "answer": 1,
+   "explanation": "Being sick is the reason for staying home, so use ', for'.",
+   "t": "l4"
+  },
+  {
+   "id": 139,
+   "q": "Combine 'He studied hard.' and 'He passed the exam.' showing result:",
+   "options": [
+    "He studied hard, for he passed the exam.",
+    "He studied hard, but he passed the exam.",
+    "He studied hard, so he passed the exam.",
+    "He studied hard, or he passed the exam."
+   ],
+   "answer": 2,
+   "explanation": "Passing the exam is the result of studying hard: ', so'.",
+   "t": "l4"
+  },
+  {
+   "id": 140,
+   "q": "Combine 'Mohammed is my friend.' and 'Mohammed is helpful.' using 'and':",
+   "options": [
+    "Mohammed is my friend, and he is helpful.",
+    "Mohammed is my friend, so he is helpful.",
+    "Mohammed is my friend, but he is helpful.",
+    "Mohammed is my friend, for he is helpful."
+   ],
+   "answer": 0,
+   "explanation": "'Mohammed is my friend, and he is helpful.' adds extra positive information.",
+   "t": "l4"
+  },
+  {
+   "id": 141,
+   "q": "Complete: 'I like apples, ______ I don't like bananas.'",
+   "options": [
+    "and",
+    "but",
+    "so",
+    "for"
+   ],
+   "answer": 1,
+   "explanation": "Liking apples versus not liking bananas shows contrast ('but').",
+   "t": "l4"
+  },
+  {
+   "id": 142,
+   "q": "Complete: 'Ahmed studies English, ______ he studies Arabic.'",
+   "options": [
+    "but",
+    "and",
+    "or",
+    "so"
+   ],
+   "answer": 1,
+   "explanation": "Adding another subject studied uses 'and'.",
+   "t": "l4"
+  },
+  {
+   "id": 143,
+   "q": "Complete: 'It was cold, ______ I wore a jacket.'",
+   "options": [
+    "but",
+    "or",
+    "so",
+    "for"
+   ],
+   "answer": 2,
+   "explanation": "Wearing a jacket is the result of cold weather ('so').",
+   "t": "l4"
+  },
+  {
+   "id": 144,
+   "q": "Complete: 'Would you like tea, ______ coffee?'",
+   "options": [
+    "and",
+    "so",
+    "or",
+    "for"
+   ],
+   "answer": 2,
+   "explanation": "Offering a choice between tea and coffee uses 'or'.",
+   "t": "l4"
+  },
+  {
+   "id": 145,
+   "q": "Complete: 'Sarah is tired, ______ she continues working.'",
+   "options": [
+    "so",
+    "and",
+    "but",
+    "for"
+   ],
+   "answer": 2,
+   "explanation": "Continuing to work despite being tired shows contrast ('but').",
+   "t": "l4"
+  },
+  {
+   "id": 146,
+   "q": "Complete: 'You can walk, ______ you can take a taxi.'",
+   "options": [
+    "but",
+    "or",
+    "so",
+    "for"
+   ],
+   "answer": 1,
+   "explanation": "Walking or taking a taxi is an alternative/choice ('or').",
+   "t": "l4"
+  },
+  {
+   "id": 147,
+   "q": "Complete: 'We brought an umbrella, ______ it looked like it was going to rain.'",
+   "options": [
+    "so",
+    "but",
+    "or",
+    "for"
+   ],
+   "answer": 3,
+   "explanation": "The likelihood of rain is the reason for bringing an umbrella ('for').",
+   "t": "l4"
+  },
+  {
+   "id": 148,
+   "q": "Complete: 'She studies hard, ______ she wants to get high marks.'",
+   "options": [
+    "so",
+    "for",
+    "but",
+    "or"
+   ],
+   "answer": 1,
+   "explanation": "Wanting high marks explains the reason for studying hard ('for').",
+   "t": "l4"
   }
  ],
  "lessons": [
@@ -1328,7 +1906,12 @@
    "id": "l3",
    "name": "Unit 2",
    "em": "📘"
+  },
+  {
+   "id": "l4",
+   "name": "Unit 3",
+   "em": "📘"
   }
  ],
- "lseq": 3
+ "lseq": 4
 }
