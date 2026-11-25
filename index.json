@@ -1,5 +1,5 @@
 {
- "version": 407,
+ "version": 408,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1016,6 +1016,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/406",
    "added": "2026-11-19T13:31:37.478Z"
+  },
+  {
+   "id": "fmww7e7v196p",
+   "subject": "physical_pharmacy",
+   "lesson": "l5",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "physical_pharmacy_l5_summary_mww7e7v196p.pdf",
+   "ext": "pdf",
+   "size": 3812990,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM4awbs9OdziGpFQ7kz5hJr_HhK9C8AAt4gAALPZTlQqR_jr9MVhoE9BA",
+   "tgmsg": 56,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM4awbs9OdziGpFQ7kz5hJr_HhK9C8AAt4gAALPZTlQqR_jr9MVhoE9BA",
+   "added": "2026-11-25T14:13:03.181Z"
   }
  ],
  "lessons": {
