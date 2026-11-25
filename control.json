@@ -1,5 +1,5 @@
 {
- "version": 148,
+ "version": 149,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -36,10 +36,10 @@
   }
  ],
  "reset": {
-  "id": "rmw9odf3q",
-  "scope": "all",
-  "msg": "",
-  "at": "2026-11-09T19:49:37.334Z"
+  "id": "rmwwiqpn3",
+  "scope": "physical_pharmacy_practical",
+  "msg": "تم",
+  "at": "2026-11-25T19:30:41.871Z"
  },
  "force": {
   "on": false,
