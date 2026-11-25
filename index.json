@@ -1,5 +1,5 @@
 {
- "version": 410,
+ "version": 411,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1044,6 +1044,18 @@
    "size": 0,
    "url": "https://t.me/ph39r/431",
    "added": "2026-11-24T17:39:24.145Z"
+  },
+  {
+   "id": "fmwwb8vldt57",
+   "subject": "arabic2",
+   "lesson": "",
+   "kind": "video",
+   "title": "زامل",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://youtu.be/JBD6-VDKSRA",
+   "added": "2026-11-25T16:00:52.465Z"
   }
  ],
  "lessons": {
