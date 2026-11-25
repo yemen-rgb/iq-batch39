@@ -1,5 +1,5 @@
 {
- "version": 408,
+ "version": 409,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1030,6 +1030,20 @@
    "tgmsg": 56,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAM4awbs9OdziGpFQ7kz5hJr_HhK9C8AAt4gAALPZTlQqR_jr9MVhoE9BA",
    "added": "2026-11-25T14:13:03.181Z"
+  },
+  {
+   "id": "fmww7guuv8o1",
+   "subject": "english2",
+   "lesson": "l4",
+   "kind": "summary",
+   "title": "ملخص المحاضرة",
+   "name": "english2_l4_summary_mww7guuv8o1.pdf",
+   "ext": "pdf",
+   "size": 425905,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM5awbtbeu1YXEe0qNQIRcLZqsyh7YAAt8gAALPZTlQwEavOD42teU9BA",
+   "tgmsg": 57,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM5awbtbeu1YXEe0qNQIRcLZqsyh7YAAt8gAALPZTlQwEavOD42teU9BA",
+   "added": "2026-11-25T14:15:06.295Z"
   }
  ],
  "lessons": {
