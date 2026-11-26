@@ -1,5 +1,5 @@
 {
- "version": 149,
+ "version": 150,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -32,6 +32,17 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-25T12:23:29.696Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmwxes7dm16n3",
+   "title": "تغيير في جدول الخميس، 26 نوفمبر",
+   "body": "• المحاضرة الرابعة (14:00): ملغاة (اعتذار) — د. اكرم الجحفلي — اعتذر الدكتور عن المحاضرة",
+   "kind": "notice",
+   "from": "rep",
+   "audience": "all",
+   "urgent": true,
+   "created_at": "2026-11-26T10:27:39.226Z",
    "expires_at": null
   }
  ],
