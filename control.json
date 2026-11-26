@@ -1,5 +1,5 @@
 {
- "version": 156,
+ "version": 157,
  "notices": [
   {
    "id": "nmw74veaknfwl",
@@ -43,6 +43,17 @@
    "audience": "all",
    "urgent": true,
    "created_at": "2026-11-26T10:28:18.782Z",
+   "expires_at": null
+  },
+  {
+   "id": "nmwy3fjffgplt",
+   "title": "تغيير في جدول الجمعة، 27 نوفمبر",
+   "body": "🏖 إجازة — جمعة مباركة عليكم جميعاً 🌙",
+   "kind": "notice",
+   "from": "rep",
+   "audience": "all",
+   "urgent": true,
+   "created_at": "2026-11-26T21:57:38.715Z",
    "expires_at": null
   }
  ],
