@@ -1,5 +1,5 @@
 {
- "version": 416,
+ "version": 417,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -852,16 +852,18 @@
    "added": "2026-11-19T13:33:27.234Z"
   },
   {
-   "id": "fmwnle4exmwm",
+   "id": "fmwz2jw5vfxx",
    "subject": "arabic2",
    "lesson": "l1",
-   "kind": "audio",
-   "title": "تسجيل المحاضرة الثالثة",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://t.me/ph39r/404",
-   "added": "2026-11-19T13:34:57.753Z"
+   "kind": "summary",
+   "title": "النَّحو: الجملة الفعلية",
+   "name": "arabic2_l1_summary_mwz2jw5vfxx.pdf",
+   "ext": "pdf",
+   "size": 713908,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
+   "tgmsg": 59,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
+   "added": "2026-11-27T14:20:48.403Z"
   },
   {
    "id": "fmwmho84k4j6",
@@ -1060,18 +1062,16 @@
    "added": "2026-11-27T14:13:53.776Z"
   },
   {
-   "id": "fmwz2jw5vfxx",
+   "id": "fmwnle4exmwm",
    "subject": "arabic2",
    "lesson": "l1",
-   "kind": "summary",
-   "title": "النَّحو: الجملة الفعلية",
-   "name": "arabic2_l1_summary_mwz2jw5vfxx.pdf",
-   "ext": "pdf",
-   "size": 713908,
-   "tg": "BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
-   "tgmsg": 59,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
-   "added": "2026-11-27T14:20:48.403Z"
+   "kind": "audio",
+   "title": "تسجيل المحاضرة الثالثة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/404",
+   "added": "2026-11-19T13:34:57.753Z"
   }
  ],
  "lessons": {
