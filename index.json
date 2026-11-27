@@ -1,5 +1,5 @@
 {
- "version": 414,
+ "version": 415,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1044,6 +1044,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/431",
    "added": "2026-11-24T17:39:24.145Z"
+  },
+  {
+   "id": "fmwz2b08guec",
+   "subject": "computer",
+   "lesson": "",
+   "kind": "summary",
+   "title": "ملخص المحاضرة 1&2&3",
+   "name": "computer_gen_summary_mwz2b08guec.pdf",
+   "ext": "pdf",
+   "size": 1246381,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM6awmQJ007CPKR6GtHkm7p8oXzPqcAAqweAAJueFFQxlB61IADUyM9BA",
+   "tgmsg": 58,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM6awmQJ007CPKR6GtHkm7p8oXzPqcAAqweAAJueFFQxlB61IADUyM9BA",
+   "added": "2026-11-27T14:13:53.776Z"
   }
  ],
  "lessons": {
