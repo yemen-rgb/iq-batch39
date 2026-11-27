@@ -1,5 +1,5 @@
 {
- "version": 415,
+ "version": 416,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1058,6 +1058,20 @@
    "tgmsg": 58,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAM6awmQJ007CPKR6GtHkm7p8oXzPqcAAqweAAJueFFQxlB61IADUyM9BA",
    "added": "2026-11-27T14:13:53.776Z"
+  },
+  {
+   "id": "fmwz2jw5vfxx",
+   "subject": "arabic2",
+   "lesson": "l1",
+   "kind": "summary",
+   "title": "النَّحو: الجملة الفعلية",
+   "name": "arabic2_l1_summary_mwz2jw5vfxx.pdf",
+   "ext": "pdf",
+   "size": 713908,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
+   "tgmsg": 59,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
+   "added": "2026-11-27T14:20:48.403Z"
   }
  ],
  "lessons": {
