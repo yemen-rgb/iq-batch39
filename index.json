@@ -1,5 +1,5 @@
 {
- "version": 426,
+ "version": 427,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1100,6 +1100,20 @@
    "tgmsg": 61,
    "url": "tg:BQACAgQAAyEGAATpAgXVAAM9awmUvtO-y8_ApoT8Al4mcHF5DM8AAroeAAJueFFQ858YuhCx2bY9BA",
    "added": "2026-11-27T14:33:14.516Z"
+  },
+  {
+   "id": "fmwz34k2eeu9",
+   "subject": "calculations",
+   "lesson": "",
+   "kind": "summary",
+   "title": "ملـــــــــــــــزمــة حسابات صيدلانية دفعة31صيدلة",
+   "name": "calculations_gen_summary_mwz34k2eeu9.pdf",
+   "ext": "pdf",
+   "size": 9648845,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM-awmVu3l3ffzyKEBc0bAcw0XoYE0AArweAAJueFFQ_qc2TP0gok49BA",
+   "tgmsg": 62,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM-awmVu3l3ffzyKEBc0bAcw0XoYE0AArweAAJueFFQ_qc2TP0gok49BA",
+   "added": "2026-11-27T14:36:52.502Z"
   }
  ],
  "lessons": {
