@@ -1,5 +1,5 @@
 {
- "version": 418,
+ "version": 419,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -434,16 +434,18 @@
    "tgmsg": 18
   },
   {
-   "id": "fmwggot2dw08",
+   "id": "fmwz2jw5vfxx",
    "subject": "arabic2",
    "lesson": "l1",
-   "kind": "audio",
-   "title": "تسجيل المحاضرة الاولى",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://t.me/ph39r/350",
-   "added": "2026-11-14T13:48:54.949Z"
+   "kind": "summary",
+   "title": "النَّحو: الجملة الفعلية",
+   "name": "arabic2_l1_summary_mwz2jw5vfxx.pdf",
+   "ext": "pdf",
+   "size": 713908,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
+   "tgmsg": 59,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
+   "added": "2026-11-27T14:20:48.403Z"
   },
   {
    "id": "fmwggpx54822",
@@ -570,18 +572,16 @@
    "added": "2026-11-14T14:41:52.437Z"
   },
   {
-   "id": "fmwz2jw5vfxx",
+   "id": "fmwggot2dw08",
    "subject": "arabic2",
    "lesson": "l1",
-   "kind": "summary",
-   "title": "النَّحو: الجملة الفعلية",
-   "name": "arabic2_l1_summary_mwz2jw5vfxx.pdf",
-   "ext": "pdf",
-   "size": 713908,
-   "tg": "BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
-   "tgmsg": 59,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAM7awmRxQvB49ydHuSUvmRYllCx-rUAArMeAAJueFFQmsKCXkoOrj09BA",
-   "added": "2026-11-27T14:20:48.403Z"
+   "kind": "audio",
+   "title": "تسجيل المحاضرة الاولى",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/350",
+   "added": "2026-11-14T13:48:54.949Z"
   },
   {
    "id": "fmwgid027wxz",
