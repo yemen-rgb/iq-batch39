@@ -1,5 +1,5 @@
 {
- "version": 433,
+ "version": 434,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1128,6 +1128,20 @@
    "size": 0,
    "url": "https://t.me/ph39r/406",
    "added": "2026-11-19T13:31:37.478Z"
+  },
+  {
+   "id": "fmwz3dz0mebp",
+   "subject": "english2",
+   "lesson": "l4",
+   "kind": "summary",
+   "title": "Islamic Teachings Translation Solved",
+   "name": "english2_l4_summary_mwz3dz0mebp.pdf",
+   "ext": "pdf",
+   "size": 2158943,
+   "tg": "BQACAgQAAyEGAATpAgXVAANAawmXQEixd-7RYaowKMf5e9FZr3sAAsEeAAJueFFQYPLgxO_ijao9BA",
+   "tgmsg": 64,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAANAawmXQEixd-7RYaowKMf5e9FZr3sAAsEeAAJueFFQYPLgxO_ijao9BA",
+   "added": "2026-11-27T14:44:11.782Z"
   }
  ],
  "lessons": {
