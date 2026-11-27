@@ -1,5 +1,5 @@
 {
- "version": 432,
+ "version": 433,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -1012,16 +1012,18 @@
    "added": "2026-11-25T14:15:06.295Z"
   },
   {
-   "id": "fmwnl9tvqeaf",
+   "id": "fmwz39vo93jb",
    "subject": "anatomy",
    "lesson": "l3",
-   "kind": "audio",
-   "title": "تسجيل المحاضرة",
-   "link": true,
-   "ext": "",
-   "size": 0,
-   "url": "https://t.me/ph39r/406",
-   "added": "2026-11-19T13:31:37.478Z"
+   "kind": "summary",
+   "title": "جرعة تشريحية",
+   "name": "anatomy_l3_summary_mwz39vo93jb.pdf",
+   "ext": "pdf",
+   "size": 1743138,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM_awmWjdP78kyTOAa3IR4UsFqNuV4AAr4eAAJueFFQamueE5eA2wE9BA",
+   "tgmsg": 63,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM_awmWjdP78kyTOAa3IR4UsFqNuV4AAr4eAAJueFFQamueE5eA2wE9BA",
+   "added": "2026-11-27T14:41:00.825Z"
   },
   {
    "id": "fmww7e7v196p",
@@ -1116,18 +1118,16 @@
    "added": "2026-11-18T12:17:00.046Z"
   },
   {
-   "id": "fmwz39vo93jb",
+   "id": "fmwnl9tvqeaf",
    "subject": "anatomy",
    "lesson": "l3",
-   "kind": "summary",
-   "title": "جرعة تشريحية",
-   "name": "anatomy_l3_summary_mwz39vo93jb.pdf",
-   "ext": "pdf",
-   "size": 1743138,
-   "tg": "BQACAgQAAyEGAATpAgXVAAM_awmWjdP78kyTOAa3IR4UsFqNuV4AAr4eAAJueFFQamueE5eA2wE9BA",
-   "tgmsg": 63,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAM_awmWjdP78kyTOAa3IR4UsFqNuV4AAr4eAAJueFFQamueE5eA2wE9BA",
-   "added": "2026-11-27T14:41:00.825Z"
+   "kind": "audio",
+   "title": "تسجيل المحاضرة",
+   "link": true,
+   "ext": "",
+   "size": 0,
+   "url": "https://t.me/ph39r/406",
+   "added": "2026-11-19T13:31:37.478Z"
   }
  ],
  "lessons": {
