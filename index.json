@@ -1,5 +1,5 @@
 {
- "version": 435,
+ "version": 436,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -998,18 +998,18 @@
    "added": "2026-11-24T17:38:01.283Z"
   },
   {
-   "id": "fmww7guuv8o1",
+   "id": "fmwz3dz0mebp",
    "subject": "english2",
    "lesson": "l4",
    "kind": "summary",
-   "title": "ملخص المحاضرة",
-   "name": "english2_l4_summary_mww7guuv8o1.pdf",
+   "title": "Islamic Teachings Translation Solved",
+   "name": "english2_l4_summary_mwz3dz0mebp.pdf",
    "ext": "pdf",
-   "size": 425905,
-   "tg": "BQACAgQAAyEGAATpAgXVAAM5awbtbeu1YXEe0qNQIRcLZqsyh7YAAt8gAALPZTlQwEavOD42teU9BA",
-   "tgmsg": 57,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAM5awbtbeu1YXEe0qNQIRcLZqsyh7YAAt8gAALPZTlQwEavOD42teU9BA",
-   "added": "2026-11-25T14:15:06.295Z"
+   "size": 2158943,
+   "tg": "BQACAgQAAyEGAATpAgXVAANAawmXQEixd-7RYaowKMf5e9FZr3sAAsEeAAJueFFQYPLgxO_ijao9BA",
+   "tgmsg": 64,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAANAawmXQEixd-7RYaowKMf5e9FZr3sAAsEeAAJueFFQYPLgxO_ijao9BA",
+   "added": "2026-11-27T14:44:11.782Z"
   },
   {
    "id": "fmwz39vo93jb",
@@ -1040,18 +1040,18 @@
    "added": "2026-11-25T14:13:03.181Z"
   },
   {
-   "id": "fmwz3dz0mebp",
+   "id": "fmww7guuv8o1",
    "subject": "english2",
    "lesson": "l4",
    "kind": "summary",
-   "title": "Islamic Teachings Translation Solved",
-   "name": "english2_l4_summary_mwz3dz0mebp.pdf",
+   "title": "ملخص المحاضرة",
+   "name": "english2_l4_summary_mww7guuv8o1.pdf",
    "ext": "pdf",
-   "size": 2158943,
-   "tg": "BQACAgQAAyEGAATpAgXVAANAawmXQEixd-7RYaowKMf5e9FZr3sAAsEeAAJueFFQYPLgxO_ijao9BA",
-   "tgmsg": 64,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAANAawmXQEixd-7RYaowKMf5e9FZr3sAAsEeAAJueFFQYPLgxO_ijao9BA",
-   "added": "2026-11-27T14:44:11.782Z"
+   "size": 425905,
+   "tg": "BQACAgQAAyEGAATpAgXVAAM5awbtbeu1YXEe0qNQIRcLZqsyh7YAAt8gAALPZTlQwEavOD42teU9BA",
+   "tgmsg": 57,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAM5awbtbeu1YXEe0qNQIRcLZqsyh7YAAt8gAALPZTlQwEavOD42teU9BA",
+   "added": "2026-11-25T14:15:06.295Z"
   },
   {
    "id": "fmwz2b08guec",
