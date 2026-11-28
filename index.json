@@ -1,5 +1,5 @@
 {
- "version": 445,
+ "version": 446,
  "files": [
   {
    "id": "fmw5gjo9wevy",
@@ -254,18 +254,18 @@
    "tgmsg": 32
   },
   {
-   "id": "fmwdw1z28q6c",
+   "id": "fmwmho84k4j6",
    "subject": "arabic2",
    "lesson": "l3",
-   "kind": "lecture",
-   "title": "صوره ١",
-   "name": "arabic2_l3_other_mwdw1z28q6c.jpg",
-   "ext": "jpg",
-   "size": 53462,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMJavoG7nzV4CEMsMp5iuL24vLd6qcAAgkkAAKOtNFTxlqPG-ccK8U9BA",
-   "added": "2026-11-12T18:35:44.960Z",
-   "tg": "BQACAgQAAyEGAATpAgXVAAMJavoG7nzV4CEMsMp5iuL24vLd6qcAAgkkAAKOtNFTxlqPG-ccK8U9BA",
-   "tgmsg": 9
+   "kind": "summary",
+   "title": "دروس البلاغه",
+   "name": "arabic2_l3_summary_mwmho84k4j6.pdf",
+   "ext": "pdf",
+   "size": 1570083,
+   "tg": "BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
+   "tgmsg": 46,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
+   "added": "2026-11-18T19:03:04.484Z"
   },
   {
    "id": "fmwet8m9qbrz",
@@ -802,18 +802,18 @@
    "added": "2026-11-16T18:50:31.689Z"
   },
   {
-   "id": "fmwmho84k4j6",
+   "id": "fmwdw1z28q6c",
    "subject": "arabic2",
    "lesson": "l3",
-   "kind": "summary",
-   "title": "دروس البلاغه",
-   "name": "arabic2_l3_summary_mwmho84k4j6.pdf",
-   "ext": "pdf",
-   "size": 1570083,
-   "tg": "BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
-   "tgmsg": 46,
-   "url": "tg:BQACAgQAAyEGAATpAgXVAAMuav32bHeNSUctQvvf_DVIjoZVyxIAAssiAAI9pfFTNyf1bolPfts9BA",
-   "added": "2026-11-18T19:03:04.484Z"
+   "kind": "lecture",
+   "title": "صوره ١",
+   "name": "arabic2_l3_other_mwdw1z28q6c.jpg",
+   "ext": "jpg",
+   "size": 53462,
+   "url": "tg:BQACAgQAAyEGAATpAgXVAAMJavoG7nzV4CEMsMp5iuL24vLd6qcAAgkkAAKOtNFTxlqPG-ccK8U9BA",
+   "added": "2026-11-12T18:35:44.960Z",
+   "tg": "BQACAgQAAyEGAATpAgXVAAMJavoG7nzV4CEMsMp5iuL24vLd6qcAAgkkAAKOtNFTxlqPG-ccK8U9BA",
+   "tgmsg": 9
   },
   {
    "id": "fmwggnedrczp",
